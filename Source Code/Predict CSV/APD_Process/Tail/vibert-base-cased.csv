@@ -1,0 +1,2630 @@
+text,true_label,pred_label
+yêu bánh đc bao_gói bao_bì lạ túi nilong đc băng dập kín hút khí kfai túi giấy shop mạnh_mẽ nhà_hàng điều_khoản,2,2
+soda and lemon tạm đồ uống chất_lượng,1,1
+ko baoh order ship thế_này làm_ăn cẩu_thả thua koi order koi cbh thế_này phục_vụ tổng_quát,0,0
+cơ_sở kichi kichi hạn_chế không_gian đông nhà_hàng tổng_quát,2,0
+cơ_sở kichi kichi hạn_chế không_gian đông không_gian tổng_quát,0,0
+nhắc 2 3 đem phục_vụ tổng_quát,0,0
+bánh to bánh cx mềm nhân lá dứa vs đường thức_ăn,2,2
+bánh to bánh cx mềm nhân lá dứa vs đường thức_ăn chất_lượng,2,2
+mứt dâu cam ngon mứt thơm k hợp thức_ăn chất_lượng,2,2
+vửi xe giá tiền mua xe mua đi nhà_hàng điều_khoản,0,1
+gren tea ice blended giá tiền ly l to lắm nha uống no lắm đồ uống,2,1
+gren tea ice blended giá tiền ly l to lắm nha uống no lắm đồ uống giá tiền,1,1
+phục_vụ nhân_viên nhanh_nhẹn thân_thiện phục_vụ tổng_quát,2,2
+fan hl nhà_hàng tổng_quát,2,2
+nguyên_liệu tươi ngon lắm món mực nướng thịt dai thơm ngon chấm kèm tương đỏ hợp_khẩu vị thức_ăn chất_lượng,2,2
+nguyên_liệu tươi ngon lắm món mực nướng thịt dai thơm ngon chấm kèm tương đỏ hợp_khẩu vị thức_ăn,2,2
+lầm đầu quán không_gian thoáng hiện_đại phục_vụ nhiệt_tình phục_vụ đứng hơi thoải_mái lắm không_gian tổng_quát,2,2
+lầm đầu quán không_gian thoáng hiện_đại phục_vụ nhiệt_tình phục_vụ đứng hơi thoải_mái lắm phục_vụ tổng_quát,1,2
+nhân_viên anh_chị nhân_viên dễ_thương nhiệt_tình thay vỉ thường_xuyên tư_vấn món bọn phục_vụ tổng_quát,2,2
+sườn mềm tươi róc thịt phết phủ lớp phô_mai thơm thơm thức_ăn,2,2
+sườn mềm tươi róc thịt phết phủ lớp phô_mai thơm thơm thức_ăn chất_lượng,2,2
+gọi cơm_chiên cá mặn share cơm cơm đầu 1 muỗng ngon thức_ăn,0,1
+gọi cơm_chiên cá mặn share cơm cơm đầu 1 muỗng ngon thức_ăn chất_lượng,2,2
+gọi 2 mín bò bò bít tết sốt bq ngon lắm ưng thịt bò chín_tới mếm tươi thức_ăn chất_lượng,2,2
+bún_bò ngon ăn_giá tiền tô thường_thức ăn_giá tiền,1,1
+bún_bò ngon ăn_giá tiền tô thường_thức chất_lượng,2,2
+thử sốt hai ngon cười nhẹ gọi 1 đĩa salad grek shrimp desert lava chôclate thức_ăn chất_lượng,2,2
+thử sốt hai ngon cười nhẹ gọi 1 đĩa salad grek shrimp desert lava chôclate thức_ăn,1,1
+đậm_đà lắm vừa_miệng nhà_hàng tổng_quát,1,2
+đồ ship ship hộp giấy đựng gà hấp_hơi cảm_giác phục_vụ tổng_quát,2,2
+đồ ship ship hộp giấy đựng gà hấp_hơi cảm_giác nhà_hàng điều_khoản,0,0
+trà sữa mặc_dù uống 10 đường 30 đá đồ uống,1,2
+trà sữa mặc_dù uống 10 đường 30 đá đồ uống chất_lượng,1,2
+nhà_hàng busines card quản_lý tiện liên_lạc chu_đáo nhà_hàng điều_khoản,2,2
+ko béo ngậy chua_chua mặn mặn lắm trân_châu tím nhai sực sực lắm hihi đồ uống chất_lượng,2,2
+thưởng_thức món ăn_ý cơ_bản vị thử spagheti bolognese mỳ bò băm risoto pana cota thức_ăn,1,1
+thưởng_thức món ăn_ý cơ_bản vị thử spagheti bolognese mỳ bò băm risoto pana cota thức_ăn chất_lượng,2,2
+thưởng_thức món ăn_ý cơ_bản vị thử spagheti bolognese mỳ bò băm risoto pana cota nhà_hàng tổng_quát,2,1
+hơi nhạt 1 chút cảm_nhận dẻo hạt cơm rau sốt thức_ăn chất_lượng,2,0
+hơi nhạt 1 chút cảm_nhận dẻo hạt cơm rau sốt thức_ăn,1,0
+1 món món trứng benedict nấu khéo nhấn chảy sốt lòng_đỏ kèm bacon rán thức_ăn,2,2
+1 món món trứng benedict nấu khéo nhấn chảy sốt lòng_đỏ kèm bacon rán thức_ăn chất_lượng,2,2
+không_gian k gian qán nhỏ_nhắn đc trang_trí nhìu màu_sắc vs tone xi_măng vs gạch đỏ xây í không_gian tổng_quát,1,2
+loter nấu_ăn lắm đồ_ăn phong_phú thức_ăn,2,2
+loter nấu_ăn lắm đồ_ăn phong_phú nhà_hàng tổng_quát,2,2
+hôm_kia 1 cơm_chiên mã cơm_chiên m quán m cơm ngán vô_cùng hăng mùi xả m dc 1 tiếc tiền vô_cùng thức_ăn chất_lượng,0,0
+kem đặc vị mặn mặn béo lắm í thức_ăn chất_lượng,2,2
+đông nhà_hàng tổng_quát,2,2
+món bò giá mềm thức_ăn giá tiền,2,2
+gọi 1 matcha ice blended 1 trà sữa wocha vị thảo_mộc trân_châu trắng đồ uống,1,1
+milkfoam gongcha nổi_tiếng khen chê milkfosm béo béo vời đồ uống chất_lượng,2,2
+nem nướng chấm sốt vị bình_thường lắm thức_ăn chất_lượng,1,1
+nem nướng chấm sốt vị bình_thường lắm thức_ăn,1,1
+trân_châu hơi cứng đồ uống chất_lượng,0,1
+không_gian vỉa_hè toàn la_liệt 1 gian bao không_gian tổng_quát,1,0
+gọi món lưỡi bò chấm mắm gừng mùi_vị đặc_trưng ngon hơi mềm món lẫu đuôi bò lẫu vị lẫu vừa_phải đậm_đà thức_ăn,2,1
+gọi món lưỡi bò chấm mắm gừng mùi_vị đặc_trưng ngon hơi mềm món lẫu đuôi bò lẫu vị lẫu vừa_phải đậm_đà thức_ăn chất_lượng,2,2
+bánh nóng_hổi lớp chese phủ dày ko hồi hạnh_nhân lát thức_ăn chất_lượng,2,2
+bánh nóng_hổi lớp chese phủ dày ko hồi hạnh_nhân lát thức_ăn,2,0
+nhân_viên thân_thiện nhiệt_tình vui_vẻ tip nhân_viên nữ giá tiền nhiệm_vụ phục_vụ tổng_quát,2,2
+menu nguyễn_chí nhà_hàng điều_khoản,1,1
+salad trộn vừa_vặn tôm to ngon 3 thức_ăn,2,2
+salad trộn vừa_vặn tôm to ngon 3 thức_ăn chất_lượng,2,2
+không_gian quán hơi order xong đợi xíu chỗ gian tổng_quát,0,0
+kem dừa ngon thơm bùi_và thức_ăn chất_lượng,2,2
+quán thiết_kế hài_hoà không_gian tổng_quát,2,2
+quán hoà mát 1 cộng nhà_hàng điều_khoản,2,2
+3 giá tiền double trứng ko nem vs thịt xông khói nha thức_ăn giá tiền,1,1
+3 giá tiền double trứng ko nem vs thịt xông khói nha thức_ăn,1,2
+kiu trà sữa lài xanh uống ngon hơi giá tiền giá ỗn đồ uống giá tiền,1,1
+kiu trà sữa lài xanh uống ngon hơi giá tiền giá ỗn đồ uống chất_lượng,2,2
+xe quán order lầu tầng chỗ nhà_hàng tổng_quát,1,1
+xe quán order lầu tầng chỗ nhà_hàng điều_khoản,1,1
+gọi đồ uống bánh_mì đi kèm thức_ăn,2,1
+thu lợi kiểu danh_tiếng chính_xác tệ nhà_hàng tổng_quát,0,0
+giá_cả ngang_ngửa quán đo đo sạch_sẽ ngon nhà_hàng giá tiền,1,2
+giá_cả ngang_ngửa quán đo đo sạch_sẽ ngon nhà_hàng tổng_quát,2,2
+piza thèm combo đầy_đặn trông 1 no 3 gọi combo giá tiền no haha thức_ăn,2,2
+piza thèm combo đầy_đặn trông 1 no 3 gọi combo giá tiền no haha thức_ăn giá tiền,1,1
+nhân_viên siêng_năng phục_vụ tổng_quát,2,0
+quán chủ nhiệt_tình giải_thích món giới_thiệu nguyên_liệu cặn_kẽ phục_vụ tổng_quát,2,2
+quán thường_xuyên đông cao_điểm bàn đành ngậm_ngùi đi nhà_hàng tổng_quát,2,0
+thịt bò mềm chấm sốt cực ngon thức_ăn chất_lượng,2,2
+thịt bò mềm chấm sốt cực ngon thức_ăn,2,1
+giá tiền 1 xuat 6 miếng tặng kèm trà đào xuất thức_ăn giá tiền,1,1
+giá tiền 1 xuat 6 miếng tặng kèm trà đào xuất thức_ăn,1,1
+giá tiền 1 xuat 6 miếng tặng kèm trà đào xuất nhà_hàng điều_khoản,2,2
+khoai_tây chiên hơi khét nha nản_chí thức_ăn chất_lượng,0,1
+quán chất_lượng cà_ri chê không_gian tổng_quát,0,2
+quán chất_lượng cà_ri chê thức_ăn chất_lượng,2,2
+dịp hn nhà_hàng tổng_quát,2,1
+máy_lạnh phà phà mát mẽ vô_cùng nha hihi nhà_hàng điều_khoản,2,2
+giá_cả nhà_hàng giá tiền,2,2
+nhân_viên thân_thiện vui_vẻ phục_vụ phục_vụ tổng_quát,2,2
+phục_vụ quaáa phục_vụ tổng_quát,0,2
+thức_ăn đa_dạng nêm nếm gia_vị đậm_đà thức_ăn,2,2
+thức_ăn đa_dạng nêm nếm gia_vị đậm_đà thức_ăn chất_lượng,2,2
+gọi 1 cafe chuối tệ xong wafle hãi dã_man chuối xanh cắt lát zớt zớt ghê vaiz đồ uống chất_lượng,0,0
+gọi 1 cafe chuối tệ xong wafle hãi dã_man chuối xanh cắt lát zớt zớt ghê vaiz thức_ăn chất_lượng,0,0
+bàn sopha đông hợp_lý ngắm phố lạnh teo không_gian tổng_quát,1,2
+bù lẩu vị chua_chua cay cay kim chi ngon rau nấm tươi trông sạch_sẽ thịt bò thơm mềm thức_ăn chất_lượng,2,2
+bù lẩu vị chua_chua cay cay kim chi ngon rau nấm tươi trông sạch_sẽ thịt bò thơm mềm thức_ăn,1,1
+mì hơi chua 3 muối chua thức_ăn chất_lượng,1,1
+quán đông nha không_gian hơi chật một_chút vị hủ_tiếu ổn khô nhân_viên kèm chén nước_lèo thịt tôm thơm ngon hấp_dẫn thức_ăn,2,2
+quán đông nha không_gian hơi chật một_chút vị hủ_tiếu ổn khô nhân_viên kèm chén nước_lèo thịt tôm thơm ngon hấp_dẫn thức_ăn chất_lượng,2,2
+quán đông nha không_gian hơi chật một_chút vị hủ_tiếu ổn khô nhân_viên kèm chén nước_lèo thịt tôm thơm ngon hấp_dẫn không_gian tổng_quát,0,2
+quán đông nha không_gian hơi chật một_chút vị hủ_tiếu ổn khô nhân_viên kèm chén nước_lèo thịt tôm thơm ngon hấp_dẫn nhà_hàng tổng_quát,1,2
+gói tương_ớt tương cà đóng_gói sẵn phun thức_ăn,1,1
+ly trà sữa đồ uống,2,2
+ramen chuẩn vị nhật mì trứng ghét thức_ăn chất_lượng,0,2
+ramen chuẩn vị nhật mì trứng ghét thức_ăn,1,2
+định gọi tiền xong bạn_bè nói_chuyện chút nhân_viên dọn bàn thái_độ khó_chịu đuổi phục_vụ tổng_quát,0,0
+phục_vụ ok mùi_vị ổn_định ngon phục_vụ tổng_quát,2,2
+phục_vụ ok mùi_vị ổn_định ngon nhà_hàng tổng_quát,2,2
+bánh giao phục_vụ tổng_quát,2,2
+bực đợi mà_còn mặt ngon kinh_khủng đấy chửi lắm phục_vụ tổng_quát,0,2
+mặn thức_ăn chất_lượng,0,0
+phin cofe freze đắng đậm vị cafe uống cafe đừng uống vị nha đồ uống chất_lượng,2,2
+bánh su ngon kem đồng_đều bánh thức_ăn,1,2
+bánh su ngon kem đồng_đều bánh thức_ăn chất_lượng,2,2
+kêu 1 trà sữa trà xanh size l thạch trái_cây milkfoam hứng puding đổi size m đồ uống,1,1
+quán thực_đơn đơn_giản chả cá món canh cá cháo cá đồ uống đầy_đủ thức_ăn,2,2
+quán thực_đơn đơn_giản chả cá món canh cá cháo cá đồ uống đầy_đủ đồ uống,2,1
+quán ngã tư giang đề thám tổng_quát,1,2
+nuôi xào khô mấy miếng thịt bò thức_ăn,0,0
+nuôi xào khô mấy miếng thịt bò thức_ăn chất_lượng,0,0
+hôm_nay mua 1 hộp giá tiền 12 viên xôi lá_sen mon khoai khau cua minh no ngon thức_ăn,1,1
+hôm_nay mua 1 hộp giá tiền 12 viên xôi lá_sen mon khoai khau cua minh no ngon thức_ăn giá tiền,1,1
+hôm_nay mua 1 hộp giá tiền 12 viên xôi lá_sen mon khoai khau cua minh no ngon thức_ăn chất_lượng,2,2
+hàng tâm quả_đất thèm nhà_hàng tổng_quát,2,2
+món lẩu lẩu thái chua_chua cay cay nhiền ahri sản tôm mực ghẹ cá viên thức_ăn,2,2
+món lẩu lẩu thái chua_chua cay cay nhiền ahri sản tôm mực ghẹ cá viên thức_ăn chất_lượng,2,2
+giá hợp học_sinh sinh_viên nhà_hàng giá tiền,2,2
+canh thập_cẩm giá tiền k canh nhiêu nv thức_ăn giá tiền,1,1
+canh thập_cẩm giá tiền k canh nhiêu nv thức_ăn,2,1
+tuỳ món thức uống ngon trà thơm món trà xanh đắng_ngắt hơi uống trân_châu tím thơm mùi khoai_môn ly khuyến_mãi lâng_lâng đầy_đặn mong_đợi đồ uống chất_lượng,2,2
+tuỳ món thức uống ngon trà thơm món trà xanh đắng_ngắt hơi uống trân_châu tím thơm mùi khoai_môn ly khuyến_mãi lâng_lâng đầy_đặn mong_đợi đồ uống,1,2
+món cũ yêu trà sữa earl grey trân_châu trắng milk foam 50 đường 10 đá kết_hợp hoàn_hảo đồ uống,2,1
+tré lạ_lẫm đầu nem_chua bì thái dầy chua_chua lai dai ly bia đỉnh đỉnh thức_ăn,2,2
+tré lạ_lẫm đầu nem_chua bì thái dầy chua_chua lai dai ly bia đỉnh đỉnh thức_ăn chất_lượng,2,0
+giá_cả hợp_lý món lựa_chọn thức_ăn,2,2
+giá_cả hợp_lý món lựa_chọn nhà_hàng giá tiền,2,2
+steak lựa_chọn quán thức_ăn,2,2
+giá tiền người_nhà hàng giá tiền,1,1
+đồ_ăn ngon bá_đạo hải_sản đa_dạng tươi mấy ẻm bơi tung_tăng hồ thức_ăn chất_lượng,2,2
+đồ_ăn ngon bá_đạo hải_sản đa_dạng tươi mấy ẻm bơi tung_tăng hồ thức_ăn,2,2
+chè sữa_chua mít hoa_quả trà chái khoai_lang khoai_tây chiên nem_chua rán phô_mai bánh_rán mặn bánh_trôi tàu thức_ăn,1,1
+đi không_gian xanh chùm giả treo tường chỗ ngoài_trời đón nắng đón gió không_gian tổng_quát,2,0
+đồ_ăn đôi mấy cơm thức_ăn chất_lượng,1,2
+trà cực_kì yêu alisan gong trân_châu trắng hết_sảy đồ uống,2,1
+order dịch_vụ delivery fody tiện_lợi gọn lẹ món xác_nhận chờ giao tận qá nguy_hiểm phục_vụ tổng_quát,2,2
+bh thất_vọng ăn_ở nhà_hàng tổng_quát,2,0
+đi chi_nhánh siêu đẹp l usine không_gian tổng_quát,2,2
+size khổng_lồ uống mệt_nghỉ đồ uống,2,0
+sườn bò mỹ nướng sốt bq giá tiền sườn bò chỗ hơi dai 1 chất_lượng miếng thịt to sốt vị thịt thấm mềm khô thức_ăn,2,2
+sườn bò mỹ nướng sốt bq giá tiền sườn bò chỗ hơi dai 1 chất_lượng miếng thịt to sốt vị thịt thấm mềm khô thức_ăn giá tiền,1,1
+sườn bò mỹ nướng sốt bq giá tiền sườn bò chỗ hơi dai 1 chất_lượng miếng thịt to sốt vị thịt thấm mềm khô thức_ăn chất_lượng,2,1
+sốt vang hơi chát hợp_khẩu vị lắm sốt nấm bình_thường bò hợp salad giấm sốt trứng vị bơ ngấy béo béo nhẹ thức_ăn,1,1
+sốt vang hơi chát hợp_khẩu vị lắm sốt nấm bình_thường bò hợp salad giấm sốt trứng vị bơ ngấy béo béo nhẹ thức_ăn chất_lượng,1,1
+milkfoam gongcha mằn_mặn beo_béo kết_hợp vị trà xanh hơi ngon đồ uống chất_lượng,2,2
+milkfoam gongcha mằn_mặn beo_béo kết_hợp vị trà xanh hơi ngon đồ uống,2,1
+chê khen cốc hồng trà kem mặn gọi xuất_sắc yêu đi đồ uống chất_lượng,2,2
+nhân_viên thân_thiện xinh_xắn phục_vụ tổng_quát,2,2
+giá món chất_lượng hợp_lý thức_ăn giá tiền,2,2
+thịt bò mềm ngon thấm vị thức_ăn chất_lượng,2,2
+quai đơn_giản trông xịn mịn vô_cùng đồ uống,2,2
+mango tea hershey premium thử hai ahihi đồ uống,1,1
+k gọi nhân_viên thịt hải_sản chờ hơi phục_vụ tổng_quát,0,0
+chất_lượng ổn giá_thành rẻ nhà_hàng giá tiền,1,2
+chất_lượng ổn giá_thành rẻ nhà_hàng tổng_quát,2,2
+mùi phà mũi không_gian tổng_quát,1,1
+thức uống size tal giá tiền tích_luỹ x5 nhà_hàng điều_khoản,2,2
+gần_gũi nói_chuyện riêng_tư kín_đáo nhà_hàng tổng_quát,2,2
+không_gian phục_vụ phục_vụ tổng_quát,0,2
+không_gian phục_vụ không_gian tổng_quát,0,2
+gọi 1 mì xào phá lấu 1 mì phá lấu 2 vắt 1 há cảo chiên thức_ăn,1,1
+giá dạng trung_bình nhà_hàng giá tiền,1,1
+1 ly fre refil đồ uống,2,2
+150gr hơi mỏng wel hơi khô thức_ăn,0,1
+150gr hơi mỏng wel hơi khô thức_ăn chất_lượng,1,1
+hôm đấy gọi 2 piza 1 mý bánh_mì nướng salad thức_ăn,1,1
+phục_vụ hơi chậm tí bỏ_qua phục_vụ tổng_quát,0,0
+mùi thịt thơm cắt thử 1 miếng rưới sốt thịt 1 độ mặn thức_ăn chất_lượng,2,2
+gọi nồi lẩu nắm bắp bò thức_ăn,1,1
+quán đông nhân_viên quên_tới_quên_lui bếp quên_mình ko nhà_hàng tổng_quát,1,1
+quán đông nhân_viên quên_tới_quên_lui bếp quên_mình ko phục_vụ tổng_quát,0,0
+đường đi cmt8 quẹo ngô thời nhiệm quẹo lê_ngô cát tiện đi điện_biên_phủ đông xe tổng_quát,1,2
+không_gian thoải_mái bàn đường đèn quán chiếu chói mắt hy_vọng quán khắc_phục không_gian tổng_quát,2,0
+uống thơm vị cafe mùa đông đống đá ngại đồ uống chất_lượng,2,2
+gọi toast mật_ong ngon lắm thức_ăn chất_lượng,2,2
+gọi 1 combo sinh_nhật giá tiền kèm 2 piza size m 4 đồ uống gọi 1 suất spagheti nhà_hàng giá tiền,1,1
+mua 24 cống_quỳnh q1 tổng_quát,1,1
+bò topbalde sốt tiêu bò vị nhạt tái chấm sốt tiêu trỗi vị_giác hihi thức_ăn chất_lượng,2,2
+bò topbalde sốt tiêu bò vị nhạt tái chấm sốt tiêu trỗi vị_giác hihi thức_ăn,2,1
+chất_lượng món ngon món bình_thường thức_ăn chất_lượng,1,1
+gọi bánh_canh cỡ nhỡ giá tiền 1 bát 2 hàu phomai 2 hàu nướng mỡ hành thức_ăn,1,1
+gọi bánh_canh cỡ nhỡ giá tiền 1 bát 2 hàu phomai 2 hàu nướng mỡ hành thức_ăn giá tiền,1,1
+không_gian quán tạm ổn đường lê_đại hành rộng_rãi kẹt xe tổng_quát,2,1
+không_gian quán tạm ổn đường lê_đại hành rộng_rãi kẹt xe không_gian tổng_quát,1,1
+1 quán quen_thuộc giá tầm trung chấp_nhận túi_tiền chất_lượng thèm steak nhà_hàng giá tiền,1,1
+quán gửi xe quán trông thẻ xe miễn_phí tổng_quát,2,2
+quán gửi xe quán trông thẻ xe miễn_phí nhà_hàng điều_khoản,2,2
+khoai dẻo bùi_và lẫn sữa_chua hoà vị ngấy thức_ăn chất_lượng,2,2
+xe 10 xe phí xe giá tiền nhà_hàng điều_khoản,0,0
+đi tối 6 tầm 7pm quán đông lắm đợi nhà_hàng tổng_quát,2,1
+đi tối 6 tầm 7pm quán đông lắm đợi phục_vụ tổng_quát,2,1
+sốt sền_sệt bánh_đa thơm béo cân cân_nhắc cười khoái_chí thức_ăn,1,1
+sốt sền_sệt bánh_đa thơm béo cân cân_nhắc cười khoái_chí thức_ăn chất_lượng,2,2
+giá_cả 10 giá tiền nhà_hàng giá tiền,1,1
+mỗi_tội gà nhạt thức_ăn chất_lượng,0,0
+giá_cả voucher ok nhà_hàng giá tiền,1,2
+ord tụi gọi thai tea kakigori trời món ngon bingsu đáy độn trân_châu trắng sương sáo ôi tuyệt_vời mặt giời đỉnh phủ lớp kem béo hạnh_nhân xuất_sắc nhắc đen đá nhắc kem béo nghiện đồ uống chất_lượng,2,2
+ord tụi gọi thai tea kakigori trời món ngon bingsu đáy độn trân_châu trắng sương sáo ôi tuyệt_vời mặt giời đỉnh phủ lớp kem béo hạnh_nhân xuất_sắc nhắc đen đá nhắc kem béo nghiện đồ uống,2,2
+không_gian đi tối ấm_cúng thích_hợp gia_đình nhen không_gian tổng_quát,2,2
+bàn_ghế xếp sát chỗ đi thoải_mái trò_chuyện không_gian tổng_quát,0,0
+luminus deadline dí chạy sấp_mặt phơi_phới lũ héo úa đồ uống chất_lượng,2,0
+quán mặt_tiền chỗ xe gửi xe bãi đi quán uống xong thẻ xe miễn_phí nhà_hàng điều_khoản,0,0
+quán mặt_tiền chỗ xe gửi xe bãi đi quán uống xong thẻ xe miễn_phí không_gian tổng_quát,0,2
+món tươi ngon thức_ăn chất_lượng,2,2
+giá hơi high chút_xíu nhà_hàng giá tiền,0,0
+ah dặn nhe hơi đồ uống chất_lượng,1,2
+khu đông_đúc món phết toàn món kiểu bình_dân giá_cả dễ_chịu thức_ăn,2,2
+khu đông_đúc món phết toàn món kiểu bình_dân giá_cả dễ_chịu thức_ăn giá tiền,2,2
+bánh larva tại_chỗ lắm lớp vỏ giòn giòn lớp xốp mềm thơm lắm lớp sô la chảy hợp ngon ngấy thức_ăn,1,2
+bánh larva tại_chỗ lắm lớp vỏ giòn giòn lớp xốp mềm thơm lắm lớp sô la chảy hợp ngon ngấy thức_ăn chất_lượng,2,2
+trà hoa_hồng lớp milk foam ngon uống đc đồ uống chất_lượng,2,2
+soda beries ngon uống đồ uống chất_lượng,2,2
+nóng_hổi no thức_ăn chất_lượng,2,2
+bức_xúc tất thức_ăn chất_lượng,0,0
+cảm_nhận vị khoai_môn diễn_tả trân_châu nhão nhão nấu đồ uống chất_lượng,0,2
+chế_biến hóng hổi thổi hehe không_gian rộng_rãi thoáng mát sạch_sẽ thức_ăn chất_lượng,2,2
+chế_biến hóng hổi thổi hehe không_gian rộng_rãi thoáng mát sạch_sẽ không_gian tổng_quát,2,2
+alisan xoài nha đam should try ưng cực_kì ưng đường đá hình cảm_nhận đc mùi_vị trà đồ uống,1,1
+alisan xoài nha đam should try ưng cực_kì ưng đường đá hình cảm_nhận đc mùi_vị trà đồ uống chất_lượng,2,2
+giỡn ko nghiêm_túc phục_vụ tổng_quát,0,2
+cuốn_hút đầu quán nhà_hàng tổng_quát,2,2
+nổi hứng order 3 hũ da heo chiên giòn rong biển đậu_phộng thức_ăn,1,1
+đầu gọi gà gà 2 order bò lúc_lắc gọi đại gọi dồi trường thức_ăn,1,1
+trà sữa quốc_dân tocotoco ra_mắt 3 món giá thử giá tiền size đồ uống,2,2
+trà sữa quốc_dân tocotoco ra_mắt 3 món giá thử giá tiền size đồ uống giá tiền,1,1
+3 vị mỳ sốt bq ngon thức_ăn chất_lượng,2,2
+đồ uống tạm ổn đồ uống chất_lượng,1,1
+gửi xe đối_diện fre cộng nè nhà_hàng điều_khoản,2,2
+gong nãy order trà sữa hokaido olong phục_vụ tổng_quát,2,1
+sốt sốt rau sốt_lạnh ngon thức_ăn chất_lượng,2,2
+đồ_ăn lanh mặc_dù order 1 tiếng dc phục_vụ tổng_quát,0,0
+quán vị kem thức_ăn,2,2
+xúc_xích đức giá tiền xúc_xích cắt hơi mỏng k cảm_nhận vị lắm bù viền giòn thức_ăn,0,0
+xúc_xích đức giá tiền xúc_xích cắt hơi mỏng k cảm_nhận vị lắm bù viền giòn thức_ăn giá tiền,1,1
+xúc_xích đức giá tiền xúc_xích cắt hơi mỏng k cảm_nhận vị lắm bù viền giòn thức_ăn chất_lượng,2,0
+bò ngon nhu biêt chủ quán lưa loai bo thực_khách thức_ăn chất_lượng,2,2
+chiều đói bụng thèm há cảo kiếm deliverynow quán ngon công_ty nhà_hàng tổng_quát,2,2
+lý_lẽ hàng ntn kiếu phục_vụ tổng_quát,0,0
+tương chấm lỏng hơi mặn kiểu tương sệt thức_ăn chất_lượng,0,0
+thức_ăn kem gọi nấm xào bánh_mì bơ tỏi thức_ăn,1,1
+cháo lá dứa cháo trắng bình_thường thức_ăn chất_lượng,1,1
+lote center lote_mart trường tổng_quát,2,1
+đồ_ăn lắm quán chuyên đồ_ăn việt cá thịt rau thức_ăn,2,2
+đồ_ăn lắm quán chuyên đồ_ăn việt cá thịt rau phục_vụ tổng_quát,2,2
+mồi ngon phục_vụ lai_rai lon huda ngắm đi qa đi_lại thức_ăn chất_lượng,2,2
+mồi ngon phục_vụ lai_rai lon huda ngắm đi qa đi_lại nhà_hàng tổng_quát,2,2
+mồi ngon phục_vụ lai_rai lon huda ngắm đi qa đi_lại phục_vụ tổng_quát,2,2
+nhân_viên nhiệt_tình dễ_thương chuyên_nghiệp phục_vụ tổng_quát,2,2
+quán nằm đoạn ngã tư đèn_xanh đèn_đỏ giao núi trúc kim mã đi hướng lote đào tay_phải đường nổi_bật tone đỏ tổng_quát,1,1
+bufet bình_dân đa_dạng món lắm nghêu sò ốc món no giá_cả chấp_nhận tuần đông đồ_ăn mệt thức_ăn,2,0
+bufet bình_dân đa_dạng món lắm nghêu sò ốc món no giá_cả chấp_nhận tuần đông đồ_ăn mệt nhà_hàng tổng_quát,0,0
+bufet bình_dân đa_dạng món lắm nghêu sò ốc món no giá_cả chấp_nhận tuần đông đồ_ăn mệt thức_ăn giá tiền,2,0
+đồn hủ_tiếu hot lắm sẵn tiện đi ngang ghé thử phát nhà_hàng tổng_quát,2,2
+măng_tây khoai_tây đút lò thức_ăn chất_lượng,1,0
+giá bánh rẻ ghé uống trà đào thức_ăn giá tiền,2,2
+giá bánh rẻ ghé uống trà đào đồ uống giá tiền,2,2
+không_gian rộng thoáng trang_trí okie không_gian tổng_quát,2,2
+gọi lẩu thái ko cay lắm đậm vị thức_ăn chất_lượng,2,2
+đồ_ăn bình_thường trang_trí đẹp_mắt sạch_sẽ thức_ăn chất_lượng,1,1
+đồ_ăn bình_thường trang_trí đẹp_mắt sạch_sẽ thức_ăn,2,2
+hình_như bận buôn dưa_lê đấy xong đợi hơi phục_vụ tổng_quát,0,0
+không_gian quán hơi ngộp bàn xe đấy không_gian cảm_giác chật không_gian tổng_quát,0,0
+ấn_tượng đồ_ăn món to vật_vã cười ngại_ngùng thức_ăn,2,2
+list ưa_thích chese đồ uống chất_lượng,2,2
+không_gian rộng chia giá tiềnhu khu gia_đình bàn đối_diện khu song_song thế_này không_gian tổng_quát,2,2
+ấn_tượng không_gian quán ấm_cúng decor đẹp_mắt không_gian tổng_quát,2,2
+mixed barie j lạ đồ uống,2,0
+ship bánh ngon cốt mềm ẩm lắm sốt trứng ngon thức_ăn chất_lượng,2,2
+ship bánh ngon cốt mềm ẩm lắm sốt trứng ngon phục_vụ tổng_quát,2,2
+gọi nộm tai chân gà cay da ếch chiên giòn chân_giò thức_ăn,1,1
+cổng trang_trí dễ_thương lồng đèn cổng gỗ cổ không_gian tổng_quát,2,2
+cửa_hàng mặt đường hàng trống tổng_quát,2,1
+mì hải_sản ok lava cake mùi chocolate thơm bánh nóng nhân chảy vừa_ý mau ngấy lắm thức_ăn chất_lượng,2,2
+mì hải_sản ok lava cake mùi chocolate thơm bánh nóng nhân chảy vừa_ý mau ngấy lắm thức_ăn,1,2
+quán nổi_tiếng steak bữa đi thử nhà_hàng tổng_quát,2,2
+nhân_viên nhanh_nhẹn nhiệt_tình phục_vụ tổng_quát,2,2
+uống y_chang nước_lọc đồ uống chất_lượng,0,0
+koi ly nhỏ_xíu lớp machiato siêu mỏng uống hem đồ uống,0,0
+xốt tiêu ngon mấy xốt thức_ăn chất_lượng,2,2
+phục_vụ không_gian khăn lạnh miễn_phí nhà_hàng điều_khoản,2,0
+phục_vụ không_gian khăn lạnh miễn_phí phục_vụ tổng_quát,2,0
+phục_vụ không_gian khăn lạnh miễn_phí không_gian tổng_quát,2,0
+món dở ko gian dơ bày_đặt chảnh chó ko ko tiền dẹp cmn quán đi không_gian tổng_quát,0,0
+món dở ko gian dơ bày_đặt chảnh chó ko ko tiền dẹp cmn quán đi thức_ăn chất_lượng,0,0
+món dở ko gian dơ bày_đặt chảnh chó ko ko tiền dẹp cmn quán đi phục_vụ tổng_quát,0,0
+món dở ko gian dơ bày_đặt chảnh chó ko ko tiền dẹp cmn quán đi nhà_hàng tổng_quát,0,0
+ko trách đc nhiệt_tình tóm_lại khâu phục_vụ tệ phục_vụ tổng_quát,2,0
+desert buốt nchung ok thức_ăn chất_lượng,1,2
+thịt mực hơi dai chiên thức_ăn chất_lượng,1,2
+chinh_phục không_gian quán ấm_cúng đậm chất hội_an không_gian tổng_quát,2,2
+ruốc kèm thức_ăn chất_lượng,2,2
+hoá_đơn đỏ phục_vụ tổng_quát,2,2
+đồ_ăn chất_lượng kém tươi thức_ăn chất_lượng,0,2
+rau trụng tươi thức_ăn chất_lượng,2,2
+hapyday 30 deliverynow order trà sữa uống nhà_hàng điều_khoản,2,1
+phục_vụ nhiệt_tình cute phục_vụ tổng_quát,2,2
+giá_cả rẻ giá tiền trung_bình nhà_hàng giá tiền,2,2
+ram nhân thịt nấm thức_ăn,1,1
+hồng trà vải kem chese vị nhạt mùi vải đồ uống chất_lượng,0,1
+bingsu thái đỏ lớp sữa bào thái đỏ milkfoam mặn mặn béo béo sương sa trân_châu sốt thái đỏ đồ uống,2,1
+bingsu thái đỏ lớp sữa bào thái đỏ milkfoam mặn mặn béo béo sương sa trân_châu sốt thái đỏ đồ uống chất_lượng,2,1
+quán trang_trí tối màu đồ uống đen đá uống hơi nhạt miệng đậm_đà đồ uống chất_lượng,1,0
+quán trang_trí tối màu đồ uống đen đá uống hơi nhạt miệng đậm_đà không_gian tổng_quát,1,1
+ồn_ào xô_bồ mấy chỗ kia nhà_hàng tổng_quát,2,1
+bánh gọi bánh thử bánh jajang chese nhân mandu chiên mì tương đen chese bánh mandu chese nhân mandu chiên chese thức_ăn,2,1
+không_gian cổ_xưa bụi_bặm cn hnghi chỗ kiếm chỗ xong di r order nhen không_gian tổng_quát,2,1
+không_gian cổ_xưa bụi_bặm cn hnghi chỗ kiếm chỗ xong di r order nhen nhà_hàng tổng_quát,1,1
+không_gian vỉa_hè thoáng mát đông phục_vụ tạm nhà_hàng tổng_quát,1,2
+không_gian vỉa_hè thoáng mát đông phục_vụ tạm phục_vụ tổng_quát,1,2
+không_gian vỉa_hè thoáng mát đông phục_vụ tạm không_gian tổng_quát,2,2
+đậu_phộng thơm thơm cay cay ko dính nè thức_ăn chất_lượng,2,2
+balloon giá_cả hợp_lí tương_xứng chất_lượng cười đểu nhà_hàng giá tiền,2,2
+nhà_hàng món món ko đặc_sắc độc_đáo bình_dân thức_ăn,0,1
+nhà_hàng món món ko đặc_sắc độc_đáo bình_dân thức_ăn chất_lượng,1,1
+1 cơ_số nhà_hàng tổng_quát,0,1
+nv order nhanh_nhạy nhiệt_tình order xong confirm ngại phục_vụ tổng_quát,2,2
+kèm rau cải non ngon thức_ăn chất_lượng,2,2
+kèm rau cải non ngon thức_ăn,2,1
+tiếc toping bánh plan âu pl quen style uống toping chiến_thắng thức_ăn,0,0
+tôm cajun vị mặn cay thức_ăn,2,1
+tôm cajun vị mặn cay thức_ăn chất_lượng,1,1
+thực_đơn đơn_giản chả cá cá cháo canh thức_ăn,1,1
+order delivery gia n không_gian tổng_quát,1,2
+cay cấp_độ 3 mì kim chi bỏng miệng rùi huhu buồn cay 1 thức_ăn chất_lượng,1,0
+giá trung_bình giá tiền cốc đồ uống giá tiền,1,1
+trà củng k ngon lắm đồ uống chất_lượng,0,1
+giá_cả ngang_ngang mấy tiệm chất_lượng hẳn nhân_viên dễ_thương vui_vẻ nhà_hàng giá tiền,1,1
+giá_cả ngang_ngang mấy tiệm chất_lượng hẳn nhân_viên dễ_thương vui_vẻ nhà_hàng tổng_quát,2,2
+giá_cả ngang_ngang mấy tiệm chất_lượng hẳn nhân_viên dễ_thương vui_vẻ phục_vụ tổng_quát,2,2
+nhạc cực k làm_việc nói_chuyện vs bạn_bè nhà_hàng điều_khoản,0,0
+bún riêu quán ăn_ở huế nè cục riêu cua bự chất riêu gạch cua chả cua quán thức_ăn,2,2
+bún riêu quán ăn_ở huế nè cục riêu cua bự chất riêu gạch cua chả cua quán thức_ăn chất_lượng,2,2
+bánh bở bình_thường hợp trà lắm thức_ăn chất_lượng,0,1
+bò truyền_thống giá tiềnèm nước_ngọt salat bánh_mì fre thức_ăn giá tiền,1,1
+bò truyền_thống giá tiềnèm nước_ngọt salat bánh_mì fre thức_ăn,2,1
+chính_xác uống trà sữa ôlong trà sữa trà xanh trà sữa trà đen tạm đồ uống,1,1
+chính_xác uống trà sữa ôlong trà sữa trà xanh trà sữa trà đen tạm đồ uống chất_lượng,1,1
+gong chất_lượng uống ko bàn đồ uống chất_lượng,2,2
+bánh to hơi ngán ngon thức_ăn,2,0
+bánh to hơi ngán ngon thức_ăn chất_lượng,2,2
+ly trà hoa_hồng bình_thường đồ uống chất_lượng,1,1
+hợp_khẩu vị thức_ăn chất_lượng,2,2
+hôm_nay gọi giao hàng note cà_phê dặn ly mùi cà_phê đậm 1 tí độ mấy vị caramel hẳn nhân_viên quên syrup đồ uống,1,1
+hôm_nay gọi giao hàng note cà_phê dặn ly mùi cà_phê đậm 1 tí độ mấy vị caramel hẳn nhân_viên quên syrup đồ uống chất_lượng,0,1
+hôm_nay gọi giao hàng note cà_phê dặn ly mùi cà_phê đậm 1 tí độ mấy vị caramel hẳn nhân_viên quên syrup phục_vụ tổng_quát,0,2
+gong đá trà uống ly đá tan xứng_đáng tiền kiểu múc ly đá đổ vô đồ uống,2,2
+không_gian vách bằg kính không_gian tổng_quát,2,0
+thịt kho mềm mềm mì cực_kì ngon bán_lẻ mua thức_ăn chất_lượng,2,2
+thịt kho mềm mềm mì cực_kì ngon bán_lẻ mua thức_ăn,2,2
+phục_vụ nhân_viên phục_vụ tận_tình đón cửa phục_vụ tổng_quát,2,2
+cơ_bản k thể chê decor quán cực chỉn_chu góc món đồ trang_trí tầng 1 tầng giá tiềnhông gian tổng_quát,2,2
+kêu phá lấu chiên thử 1 vị lạ_lạ ngon thức_ăn,0,1
+kêu phá lấu chiên thử 1 vị lạ_lạ ngon thức_ăn chất_lượng,2,2
+đồ uống gọi trà sữa kuri size m 30 đá nguyên đường giời_ơi đồ uống,1,1
+thiết_kế trang_trí đơn_giản đẹp_mắt cười_ra_nước_mắt không_gian tổng_quát,1,2
+không_gian đẹp nhân_viên lịch_sự menu phong_phú bánh uống trà thanh_nhã yêu phục_vụ tổng_quát,2,2
+không_gian đẹp nhân_viên lịch_sự menu phong_phú bánh uống trà thanh_nhã yêu không_gian tổng_quát,2,2
+không_gian đẹp nhân_viên lịch_sự menu phong_phú bánh uống trà thanh_nhã yêu thức_ăn,2,2
+không_gian đẹp nhân_viên lịch_sự menu phong_phú bánh uống trà thanh_nhã yêu đồ uống,2,2
+đẹp hoa_hồng nến trải cầu_thang tầng 1 tầng giá tiềnhông gian tổng_quát,2,2
+không_gian thoáng mát sạch_sẽ hợp đi gia_đình không_gian tổng_quát,2,2
+quán đi chiều đông bữa đi chiều ngon lắm ổn nhà_hàng tổng_quát,2,2
+quán đi chiều đông bữa đi chiều ngon lắm ổn thức_ăn chất_lượng,1,2
+nhân_viên lịch_sự phục_vụ tổng_quát,2,2
+nồi lầu kim chi bò mỹ nươc lẩu ngon đậm_đà cay nhè_nhẹ thui dc đia bò thức_ăn chất_lượng,2,2
+nồi lầu kim chi bò mỹ nươc lẩu ngon đậm_đà cay nhè_nhẹ thui dc đia bò thức_ăn,1,1
+menu dày_đặc chia 1 món dê cu gà cá bánh nan cơm nị thức_ăn,2,1
+khoai to chiên ngấy dầu thức_ăn,2,2
+khoai to chiên ngấy dầu thức_ăn chất_lượng,2,2
+quán ni nằm hẻo_lánh tổng_quát,0,1
+order ly trà sữa trà xanh hạt nha đam uống ngon đồ uống chất_lượng,2,2
+đi sn quán quán quán đông không_gian tổng_quát,0,2
+đi sn quán quán quán đông nhà_hàng tổng_quát,1,1
+thịt bò ngon cực_kì mềm thơm thơm thức_ăn chất_lượng,2,2
+trà ngon thơm ko váng sữa ổn trân_châu trắng ok trà lài xanh sữa giá tiền ngon nè đồ uống chất_lượng,2,2
+trà ngon thơm ko váng sữa ổn trân_châu trắng ok trà lài xanh sữa giá tiền ngon nè đồ uống,0,1
+trà ngon thơm ko váng sữa ổn trân_châu trắng ok trà lài xanh sữa giá tiền ngon nè đồ uống giá tiền,1,1
+giá_cả ko nhầm bữa giá tiền nhà_hàng giá tiền,1,1
+vị chua_chua ok thức_ăn chất_lượng,2,2
+1 suất 1 lạng no căng thức_ăn,2,2
+salad gà bq soup ổn thức_ăn chất_lượng,2,2
+salad gà bq soup ổn thức_ăn,1,1
+giá_cả quán giá tầm giá tiền nhà_hàng giá tiền,1,1
+giá trung_bình nhà_hàng giá tiền,1,1
+cà_ri hình_như giá tiền bánh_mì giá tiền thức_ăn,1,1
+cà_ri hình_như giá tiền bánh_mì giá tiền thức_ăn giá tiền,1,1
+sương sa sương sáo ngon thức_ăn,1,1
+sương sa sương sáo ngon thức_ăn chất_lượng,2,2
+quán ko vs thức_ăn bia uống nhà_hàng tổng_quát,0,1
+quầy tráng_miệng chê hôm đi panacota tiramisu chất ngon thức_ăn,2,1
+quầy tráng_miệng chê hôm đi panacota tiramisu chất ngon thức_ăn chất_lượng,2,2
+yaourt đá trà đào ngon thử đồ uống chất_lượng,2,2
+yaourt đá trà đào ngon thử đồ uống,1,1
+ngon lẩu thức_ăn chất_lượng,2,2
+canh hơi kiểu miền tây nha thức_ăn chất_lượng,1,1
+món order yogen matcha yogen truyền_thống thức_ăn,1,1
+hai ngon nêm nếm vừa_miệng thức_ăn chất_lượng,2,2
+cơm gà ngon thức_ăn chất_lượng,2,2
+hẻm yên ắn hợp phong_cách quán hội_an không_gian tổng_quát,2,0
+hẻm yên ắn hợp phong_cách quán hội_an tổng_quát,2,1
+nhân_viên nhiệt_tình chi_nhánh đem đồ_ăn nv ổn lắm ta hiền queo phục_vụ tổng_quát,2,2
+gia_đình tối khen quán chả cá ngon thử thức_ăn chất_lượng,2,2
+chủ dễ_tính phục_vụ tổng_quát,2,2
+giá_cả hợp_lí túi_tiền học_sinh nhà_hàng giá tiền,2,2
+khoai_lang nghiền ngon mùi hơi khó_chịu thức_ăn chất_lượng,1,2
+món đi 3 gọi món japanese tomato pasta saturdays hamburger with fried shrimp saturdays hamburger chese melt thức_ăn,1,1
+quán không_gian vừa_phải ko rộng chi_nhánh a không_gian tổng_quát,1,2
+bánh hơi bất_tiện size to bánh tròn mua order 12 thức_ăn,0,0
+đầu thử món trà đào trà đào chỗ vị_thanh miếng đào dai giòn đồ uống chất_lượng,2,2
+đi trưa quán đông lắm nha bàn bàn nhà_hàng tổng_quát,2,1
+kfc chương_trình giảm_giá cơm giá tiền trưa nhà_hàng điều_khoản,2,2
+kem giá tiền ngon kem va ni thơm mùi sữa bánh ốc quế giòn thức_ăn giá tiền,2,1
+kem giá tiền ngon kem va ni thơm mùi sữa bánh ốc quế giòn thức_ăn chất_lượng,2,2
+kem giá tiền ngon kem va ni thơm mùi sữa bánh ốc quế giòn thức_ăn,1,2
+đoạn ngã tư phố huế giao trần xuân soạn tổng_quát,1,2
+huyết mền ngon nha thức_ăn chất_lượng,2,2
+mua 1 ly trà sữa trân_châu trân_châu đồ uống,0,1
+sun cửa_hàng tiện_lợi đắc_địa đẹp bờ hồ quá_tải tổng_quát,2,2
+sun cửa_hàng tiện_lợi đắc_địa đẹp bờ hồ quá_tải nhà_hàng tổng_quát,2,2
+đừng gongcha đông nghĩa thái_độ nhà_hàng tổng_quát,1,2
+đừng gongcha đông nghĩa thái_độ phục_vụ tổng_quát,0,2
+set lẩu nướng thức_ăn,2,2
+mua bánh_mì heo sữa_đậu_nành cửa_hàng bami bread giảng võ tổng_quát,1,1
+dĩa giá tiền thức_ăn giá tiền,1,1
+ly khảng giá tiền hơi mắc ly uống no anh_ách bụng đồ uống giá tiền,0,0
+ly khảng giá tiền hơi mắc ly uống no anh_ách bụng đồ uống,2,0
+đồ_ăn tệ giá voucher giá tiền thức_ăn chất_lượng,0,0
+đồ_ăn tệ giá voucher giá tiền thức_ăn giá tiền,1,1
+hôm_nay order sườn phomai lẩu hơi thất_vọng lẩu hơi lạc qá k đc đậm_đà lẩu rau củ sườn k ngon gà thức_ăn,1,0
+hôm_nay order sườn phomai lẩu hơi thất_vọng lẩu hơi lạc qá k đc đậm_đà lẩu rau củ sườn k ngon gà thức_ăn chất_lượng,0,0
+bò lúc_lắc bò siêu khổng_lồ chất_lượng thịt bò mềm ngon_ngọt titi thua cười_ra_nước_mắt thức_ăn,2,2
+bò lúc_lắc bò siêu khổng_lồ chất_lượng thịt bò mềm ngon_ngọt titi thua cười_ra_nước_mắt thức_ăn chất_lượng,2,2
+tô bún_chả cá đầy_đủ măng chả xu thức_ăn,2,2
+quán rộng_rãi thoáng mát không_gian tổng_quát,2,2
+thử giá_thành giá tiền 1 cốc uống hãng ok đồ uống giá tiền,1,2
+thử giá_thành giá tiền 1 cốc uống hãng ok nhà_hàng tổng_quát,0,2
+đợi 15p bàn phục_vụ tổng_quát,1,1
+lẩu ổn cay cay vị kim chi nhúng bò mỹ lẩu ngon lắm thức_ăn chất_lượng,2,2
+nhà_hàng thử nhà_hàng tổng_quát,2,1
+gà chiên mục chiên tôm hiên chim_cút chiên khoai_tây chiên thức_ăn,1,2
+menu toàn món đồ âu piza mì sườn nướng salad thức_ăn,1,2
+đi hôm mùng 1 khách_khứa đông thái_độ phục_vụ nhân_viên thế_này nhà_hàng tổng_quát,1,0
+đi hôm mùng 1 khách_khứa đông thái_độ phục_vụ nhân_viên thế_này phục_vụ tổng_quát,0,0
+quán nằm tầng bgiá tiềnhá tổng_quát,2,1
+toạ_lạc khu đắc_địa xung_quanh anh_em nội rần_rần khác_biệt gongcha hiệu nhá tuỳ khẩu_vị sở_thích nè tổng_quát,2,2
+toạ_lạc khu đắc_địa xung_quanh anh_em nội rần_rần khác_biệt gongcha hiệu nhá tuỳ khẩu_vị sở_thích nè nhà_hàng tổng_quát,2,2
+mua kem mì thức_ăn,1,2
+bánh bánh ngon thức_ăn chất_lượng,2,2
+giá ko rẻ chất_lượng nhà_hàng giá tiền,1,0
+giá ko rẻ chất_lượng nhà_hàng tổng_quát,1,1
+món đợi món tiền gia_vị kèm nhà_hàng tổng_quát,1,2
+loteria toàn đắc_địa đi qa tổng_quát,2,0
+pearl chocolate món mochio tea đồ uống,2,1
+thái_độ bảo_vệ vô củng bất_mãn lỗi phục_vụ tổng_quát,0,0
+kêu tiền 30p ms xuất xong bil phục_vụ tổng_quát,0,0
+trà vải vị đắng nhẹ trà đồ uống chất_lượng,2,0
+nhân_viên lễ_phép lịch_sự không_gian quán chỗ shoping ngắm đi_qua_đi_lại phục_vụ tổng_quát,2,2
+nhân_viên lễ_phép lịch_sự không_gian quán chỗ shoping ngắm đi_qua_đi_lại không_gian tổng_quát,2,2
+chạy xe 2 tiếng tp quê mà_còn nóng hihi gói kĩ lắm nhà_hàng điều_khoản,2,0
+dịch_vụ nhân_viên chậm mãi trả_lời đồ chậm hồi khen ngờ tệ chất_lượng dịch_vụ phục_vụ tổng_quát,0,0
+nhân_viên phục_vụ lịch_sự nhiệt_tình dễ_thương phục_vụ tổng_quát,2,2
+flan trứng láng mịn trân_châu trắng nhai vui_miệng đồ uống,2,2
+quán khúc nguyễn_trãi 1 chiều đối_diện mama bq đi ngang đông nhà_hàng tổng_quát,2,1
+quán khúc nguyễn_trãi 1 chiều đối_diện mama bq đi ngang đông tổng_quát,1,1
+dịch_vụ tầm trưa đợi đồ hơi chút nhân_viên phục_vụ chuyên_nghiệp sạch_sẽ phục_vụ tổng_quát,2,2
+bánh_canh ngon hơi nghiêng vị vị mặn thức_ăn chất_lượng,2,2
+món vừa_miệng gọi ngon xuất_sắc ko ok cơm dẻo ngon thức_ăn chất_lượng,2,2
+1 chuck flap 50gr kèm sốt tiêu 1 mực khoanh kiểu âu 1 mì hải_sản 2 cream brule thức_ăn,1,1
+kem việt quất ngon thơm mùi việt quất siêu thức_ăn chất_lượng,2,2
+sốt tiêu ngon sốt vang đỏ thức_ăn chất_lượng,2,2
+sốt tiêu ngon sốt vang đỏ thức_ăn,1,1
+mực chiên giòn giá tiền dai mực tươi chả thức_ăn giá tiền,1,1
+mực chiên giòn giá tiền dai mực tươi chả thức_ăn chất_lượng,0,0
+thử bingsu hy_vọng bánh toast ngon nhà_hàng tổng_quát,1,2
+chỗ tự_phục_vụ mấy nhà_hàng tổng_quát,1,0
+giá bình_ổn hệ_thống nhà_hàng giá tiền,1,1
+món đi hôm ko menu giá tiền menu giá tiền trở ko bít hôm ko phục_vụ menu giá tiền kỷ bok thức_ăn,0,0
+món đi hôm ko menu giá tiền menu giá tiền trở ko bít hôm ko phục_vụ menu giá tiền kỷ bok thức_ăn giá tiền,1,1
+k diễn_tả phục_vụ tệ chữ tệ phục_vụ tổng_quát,0,0
+quán mặt đường triệu tổng_quát,2,1
+đi trưa giá giá tiền chê chỗ món nêm thức_ăn,2,2
+đi trưa giá giá tiền chê chỗ món nêm thức_ăn chất_lượng,2,2
+đi trưa giá giá tiền chê chỗ món nêm thức_ăn giá tiền,1,1
+cảm_nhận decor quán đẹp bàn chỗ đi tầm 8h cao_điểm bàn khoái không_gian tổng_quát,2,2
+gọi 1 befsteak giá tiềng nướng chín cắt 5 thức_ăn,1,1
+gọi 1 befsteak giá tiềng nướng chín cắt 5 thức_ăn chất_lượng,1,0
+mua delivery now phí ship bù 40 phút trà sữa uống phục_vụ tổng_quát,1,2
+mua delivery now phí ship bù 40 phút trà sữa uống nhà_hàng điều_khoản,0,1
+hôn nằm mặt_phố huế tổng_quát,2,1
+mì trộn ngon chờ k đông lắm cười_ra_nước_mắt thức_ăn chất_lượng,2,2
+mì trộn ngon chờ k đông lắm cười_ra_nước_mắt nhà_hàng tổng_quát,1,2
+mì trộn ngon chờ k đông lắm cười_ra_nước_mắt phục_vụ tổng_quát,0,2
+bánh_canh cá_lóc món phổ_biến huế hầu_như quán ngon quán bánh_canh hoàng ni ngoại_lệ thức_ăn chất_lượng,2,2
+phân_vân k ăn_ở quán k nhà_hàng tổng_quát,1,0
+gọi deliver now quán bọc kem chese đỡ đổ cẩn_thận ghê nhà_hàng điều_khoản,2,1
+tưởng 150g dè hoài thức_ăn,2,1
+đồ uống mấy trà ngon đồ uống chất_lượng,2,2
+bánh nha ngon cực_kì giá chất_lượng ko thể gọi mắc thức_ăn chất_lượng,2,2
+bánh nha ngon cực_kì giá chất_lượng ko thể gọi mắc thức_ăn giá tiền,1,0
+nhân_viên siêu thân_thiện không_gian đẹp chất miễn bàn nha yêu yêu phục_vụ tổng_quát,2,2
+nhân_viên siêu thân_thiện không_gian đẹp chất miễn bàn nha yêu yêu không_gian tổng_quát,2,2
+thử bánh mặn d nhà_hàng tổng_quát,2,1
+món gọi mag món phục_vụ tổng_quát,0,0
+chính_xác 50 đường 50 đá đồ uống,2,1
+đợt ghé cơm hến quán món hến r thiệt tình buồn nhà_hàng tổng_quát,0,2
+uống kiểu 2 lớp ngon lắm đồ uống chất_lượng,1,2
+đồ đậy bự chồng mấy chật chỗ may_mà mấy nhân_viên dọn chật lắm nhà_hàng điều_khoản,0,0
+đồ đậy bự chồng mấy chật chỗ may_mà mấy nhân_viên dọn chật lắm phục_vụ tổng_quát,2,0
+món chế_biến hợp_khẩu vị thức_ăn chất_lượng,2,2
+phá lấu món vặt thức_ăn,2,2
+hôn chỗ lắm tổng_quát,2,1
+tráng_miệng fre tiền xong nhà_hàng điều_khoản,2,2
+tổng bil giá tiền voucher giá tiền nhà_hàng giá tiền,1,1
+bò nướng ok mùi khói mềm thịt thức_ăn chất_lượng,2,2
+buồn chán fody quăng vô mặt mấy voucher vầy nè nhà_hàng điều_khoản,2,0
+bánh da lợn dai ngon thức_ăn chất_lượng,2,2
+bánh khuyến_khích rủ bạn_bè phụ haha thức_ăn,2,2
+cửa_hàng ngõ tổng_quát,2,1
+mặt_bằng rộng_rãi đẹp thoáng mát xe thênh_thang không_gian tổng_quát,2,2
+mặt_bằng rộng_rãi đẹp thoáng mát xe thênh_thang nhà_hàng điều_khoản,2,2
+ốc tươi ngon thức_ăn chất_lượng,2,2
+mệt_nghỉ khoẻ thức_ăn,2,2
+dịch_vụ lịch_sự chuyên_nghiệp phục_vụ tổng_quát,2,2
+ly mocha vị đậm_đà xét ly ngon đồ uống chất_lượng,2,2
+menu món lắm heo bò gà hải_sản thức_ăn,2,1
+lẩu tập hơp hoa rổ decor thức_ăn,2,2
+cộng quán view đẹp không_gian tổng_quát,2,2
+uống nhập ôm_ấp đồ uống,2,1
+rol kiểu cuộn to chà bá banh họng nhai nguồm ngoàm giá tiềnhoanh cắn rơi nhân thức_ăn,0,2
+bánh đế mỏng ok bef piza vị hơi mặn kèm tương cà thức_ăn,1,2
+bánh đế mỏng ok bef piza vị hơi mặn kèm tương cà thức_ăn chất_lượng,2,2
+bánh mochi vỏ trắng bổ đôi trứng gà hihi thức_ăn,2,2
+không_gian rộng_rãi thoáng mát bàn_ghế bày trí sang_trọng không_gian tổng_quát,2,2
+không_gian rộng_rãi thoáng mát bàn_ghế bày trí sang_trọng nhà_hàng điều_khoản,2,2
+chất_lượng bàn ha nhà_hàng tổng_quát,2,2
+order 1 chuck flap 50gr kèm sốt tiêu 1 mực khoanh kiểu âu 1 cream brule 1 sprite 1 soda chanh đường thức_ăn,1,1
+to độ nói_chuyện nhà_hàng điều_khoản,0,2
+bò bò mà_còn khoai_tây chiên khoai nghiền prau nấm kiểu hên ghê ban_đầu ord khoai_tây chiên sốt rưới ngon nè sốt béo béo kèm chấm thức_ăn,1,2
+bò bò mà_còn khoai_tây chiên khoai nghiền prau nấm kiểu hên ghê ban_đầu ord khoai_tây chiên sốt rưới ngon nè sốt béo béo kèm chấm thức_ăn chất_lượng,2,2
+ốc lạ ốc móng ốc xào lăn ngon_miệng thức_ăn,2,2
+ốc lạ ốc móng ốc xào lăn ngon_miệng thức_ăn chất_lượng,2,2
+refil đồ uống,2,2
+quán đẹp lầu không_gian rộng wifi hơi yếu không_gian tổng_quát,2,2
+quán đẹp lầu không_gian rộng wifi hơi yếu nhà_hàng điều_khoản,0,0
+2 bánh crep nhân dừa crep đốt rượu kem thức_ăn,1,1
+tổng_cộng giá tiền nhà_hàng giá tiền,1,1
+đồ_ăn tương_đối ngon quán thức_ăn chất_lượng,2,2
+thái_độ phục_vụ đi nhân_viên ko cug ko lắng_nghe order cãi sai phục_vụ tổng_quát,0,0
+thử tuyệt đấy yêu đi đồ uống chất_lượng,2,2
+ok quán đông tiếc chỗ xe_hơi bất_tiện chút k bù món ngon cô_chú chủ quán thân_thiện phục_vụ lẹ thức_ăn chất_lượng,2,0
+ok quán đông tiếc chỗ xe_hơi bất_tiện chút k bù món ngon cô_chú chủ quán thân_thiện phục_vụ lẹ nhà_hàng tổng_quát,1,2
+ok quán đông tiếc chỗ xe_hơi bất_tiện chút k bù món ngon cô_chú chủ quán thân_thiện phục_vụ lẹ phục_vụ tổng_quát,2,0
+ok quán đông tiếc chỗ xe_hơi bất_tiện chút k bù món ngon cô_chú chủ quán thân_thiện phục_vụ lẹ nhà_hàng điều_khoản,0,0
+cá giò giá tiền kg ngon thịt cá béo béo lẩu ko đc đậm_đà lắm nêm ko đc ngon thức_ăn giá tiền,1,1
+cá giò giá tiền kg ngon thịt cá béo béo lẩu ko đc đậm_đà lắm nêm ko đc ngon thức_ăn chất_lượng,1,1
+tầng hẳn 1 bàn 1 10 tụ_tập board game ma sói nhà_hàng điều_khoản,2,2
+sâm dứa ngon kèm hạt_é thạch dừa nước_ngọt đi đồ uống chất_lượng,2,2
+sâm dứa ngon kèm hạt_é thạch dừa nước_ngọt đi đồ uống,2,2
+sữa_tươi vị chuối chocolate đậu_nành malay aạa đồ uống,1,1
+sữa_tươi vị chuối chocolate đậu_nành malay aạa đồ uống chất_lượng,2,2
+thạch k đa_dạng đồ uống,0,1
+trà xanh đen đá hôm_nay uống vị đậm đi like mocha hơi soda gọi đầu uống vị hơi kì chua chẳng chua chẳng lờ_lợ buồn trừ món soda đồ uống chất_lượng,1,0
+trà xanh đen đá hôm_nay uống vị đậm đi like mocha hơi soda gọi đầu uống vị hơi kì chua chẳng chua chẳng lờ_lợ buồn trừ món soda đồ uống,1,0
+món bài_trí tương_đối đẹp ánh_sáng đẹp tiện sống ảo thức_ăn,2,2
+món bài_trí tương_đối đẹp ánh_sáng đẹp tiện sống ảo không_gian tổng_quát,2,2
+giá tiền nhe nhà_hàng giá tiền,1,1
+hến xúc cay mặn bún_bò ổn thịt bò bâp ngon chả cua chả thức_ăn,1,1
+hến xúc cay mặn bún_bò ổn thịt bò bâp ngon chả cua chả thức_ăn chất_lượng,2,0
+nhân_viên phục_vụ nhiệt_tình vui_vẻ phục_vụ tổng_quát,2,2
+hồ trà long_nhãn hoa_lá bát thức_ăn,2,2
+thịt heo tẩm bột chiên hơj mềm hơj ngán thức_ăn chất_lượng,0,2
+đầu hana chi_nhánh mạc đĩnh chi tổng_quát,1,1
+phục_vụ nữ nhiệt_tình tư_vấn tận_tâm cười niềm_nở lắm phục_vụ tổng_quát,2,2
+quán nằm tầng 6 view xuống_đường ok không_gian ấm_cúng sạch_sẽ không_gian tổng_quát,2,2
+quán nằm tầng 6 view xuống_đường ok không_gian ấm_cúng sạch_sẽ tổng_quát,1,2
+nguyên thịt chiên kia khô đi tương_đối thức_ăn chất_lượng,0,1
+cạnh king roti k_mart biển xanh da_trời mát_mắt bày 23 tủ_lạnh chứa kem mát tổng_quát,1,1
+cạnh king roti k_mart biển xanh da_trời mát_mắt bày 23 tủ_lạnh chứa kem mát nhà_hàng điều_khoản,2,2
+mì phá lấu k thơm bơ khô k mì thức_ăn chất_lượng,1,0
+mì phá lấu k thơm bơ khô k mì thức_ăn,1,1
+gọi nhân_viên kêu xong r phục_vụ tổng_quát,1,0
+mua 3 gói nhà_hàng điều_khoản,2,1
+quán đẹp rộng yên_tĩnh không_gian tổng_quát,2,2
+2 quán không_gian sáng_sủa rộng_rãi mát_mắt không_gian tổng_quát,2,2
+không_gian sang_trọng ấm_cúng trang_trí kiểu tây đẹp không_gian tổng_quát,2,2
+uống 50 đường đổ nha kem chese bù_đắp đồ uống,1,2
+tầm 3h chiều ngoài_trời nắng quán không_khí nóng không_gian hẹp cảm_giác hơi ngợp không_gian tổng_quát,0,0
+mê burger king hẳn chất_lượng burger cửa_hàng chuỗi nhà_hàng tổng_quát,2,1
+sparkles địa_điểm đi từ_trần khát chân lò_đúc đỡ tắc đường đầu lò_đúc quán biển_hiệu to nhấp_nháy lo lạc tổng_quát,2,0
+sparkles địa_điểm đi từ_trần khát chân lò_đúc đỡ tắc đường đầu lò_đúc quán biển_hiệu to nhấp_nháy lo lạc nhà_hàng điều_khoản,2,0
+gà phô_mai giá tiền thức_ăn giá tiền,1,1
+quán nước_ngoài hàn_quốc trung_quốc nga đạc biệt hai quản_lý thân_thiện phục_vụ nhà_hàng tổng_quát,2,2
+quán nước_ngoài hàn_quốc trung_quốc nga đạc biệt hai quản_lý thân_thiện phục_vụ phục_vụ tổng_quát,2,2
+cabonara spagheti nấm thịt xông khói mì ngon nát thức_ăn chất_lượng,2,2
+cabonara spagheti nấm thịt xông khói mì ngon nát thức_ăn,1,1
+nằm nha_trang center đường_biển sát cạnh biển quán đắt lẫn nước_nhà hàng tổng_quát,2,1
+nằm nha_trang center đường_biển sát cạnh biển quán đắt lẫn tổng_quát,2,2
+món hơi menu hơi món thức_ăn,0,0
+món hơi menu hơi món phục_vụ tổng_quát,0,0
+đế bánh ngon dày nướng hơi cháy 1 xíu thức_ăn chất_lượng,2,2
+đế bánh ngon dày nướng hơi cháy 1 xíu thức_ăn,2,0
+trân_châu hình_như hôm uống hơi bỡ 1 chút uống trà ngon đồ uống chất_lượng,2,2
+trân_châu hình_như hôm uống hơi bỡ 1 chút uống trà ngon đồ uống,2,1
+giá_cả phong_cách western giá_cả mặt_bằng quán cà_phê mắc không_gian tổng_quát,2,2
+giá_cả phong_cách western giá_cả mặt_bằng quán cà_phê mắc nhà_hàng giá tiền,1,2
+quán khoai_lang lắc xí muội ngon vị thức_ăn chất_lượng,2,2
+bil 1 trà sữa lài toping trân_châu size s giá tiền tổng_cộng 1 trà sữa nguyên lá toping trân_châu size s giá tiền 1 trà sữa olong toping trân_châu size s đ giá tiền_đồ uống giá tiền,1,1
+bil 1 trà sữa lài toping trân_châu size s giá tiền tổng_cộng 1 trà sữa nguyên lá toping trân_châu size s giá tiền 1 trà sữa olong toping trân_châu size s đ giá tiền_đồ uống,1,1
+lầu 1 đổi thành ghế hk xưa hk lầu 2 đổi hk nhà_hàng điều_khoản,1,1
+đầu quán ổn nhà_hàng tổng_quát,2,2
+nằm phố trung_tâm k hề quán k nổi lắm tổng_quát,2,1
+nằm phố trung_tâm k hề quán k nổi lắm nhà_hàng tổng_quát,1,1
+địa_điểm ấm_áp ổn giá_cả nhân_viên phục_vụ tận_tình bét_nhè giá tiền túm ưng_ý không_gian tổng_quát,2,2
+địa_điểm ấm_áp ổn giá_cả nhân_viên phục_vụ tận_tình bét_nhè giá tiền túm ưng_ý phục_vụ tổng_quát,2,2
+địa_điểm ấm_áp ổn giá_cả nhân_viên phục_vụ tận_tình bét_nhè giá tiền túm ưng_ý thức_ăn giá tiền,2,1
+địa_điểm ấm_áp ổn giá_cả nhân_viên phục_vụ tận_tình bét_nhè giá tiền túm ưng_ý nhà_hàng giá tiền,2,1
+ăn_ở quán chục sg dịp ghé quán thưởng_thức hương_vị yêu nhà_hàng tổng_quát,2,2
+đi cn giá vé ng giá tiền 1m 1m4 giá giá tiền nhà_hàng giá tiền,1,1
+uống nhân_viên thử món phục_vụ tổng_quát,2,2
+uống nhân_viên thử món đồ uống chất_lượng,2,2
+chất_lượng thèm steak đi ên kêu 1 rib eye 30gr us black angus hoy giá tiền thức_ăn giá tiền,1,1
+chất_lượng thèm steak đi ên kêu 1 rib eye 30gr us black angus hoy giá tiền thức_ăn,1,1
+cốt bánh mềm mịn thức_ăn chất_lượng,2,2
+chủ hàn quầy tiền phục_vụ tổng_quát,1,0
+bún_bò bụng no no thử bánh bột lọc thức_ăn,1,2
+uống nhà_hàng tổng_quát,0,2
+befsteak top blade 150g giá tiền thức_ăn giá tiền,1,1
+befsteak top blade 150g giá tiền thức_ăn,1,1
+khung khuyến_mãi 17h 19h tặng voucher fre 1 khung vàng nhà_hàng điều_khoản,2,2
+đen đá k bao h thất_vọng gọi món thức_ăn v ngon trơn yêu đi nhà_hàng tổng_quát,2,2
+không_gian quán nhật thiết_kế phong_cách nhật không_gian tổng_quát,2,2
+chè chè nóng chè lạnh thức_ăn,1,1
+giá giá tiền ổn mong refil món nhà_hàng giá tiền,1,2
+thơm béo ngon lắm nhà_hàng tổng_quát,2,2
+đồ nhúng đa_dạng váng đậu ngon thức_ăn,2,2
+đồ nhúng đa_dạng váng đậu ngon thức_ăn chất_lượng,2,2
+ấn_tượng k hẳn xấu k vs thương_hiệu osaka nhà_hàng tổng_quát,1,2
+mì bình_thường thịt nướng ngon gia_vị thấm mềm thức_ăn chất_lượng,2,2
+mì bình_thường thịt nướng ngon gia_vị thấm mềm thức_ăn,1,1
+k đông k uống cực_kì nhạt k ngon đá trân_châu dai ngon miễn bàn vị trà sữa hơi thất_vọng đồ uống chất_lượng,1,0
+k đông k uống cực_kì nhạt k ngon đá trân_châu dai ngon miễn bàn vị trà sữa hơi thất_vọng đồ uống,1,0
+mì đem nuốt nỗi nhão nhẹt thức_ăn chất_lượng,0,0
+vị hot strawbery honey blosom frapucino vẻ hơi béo thức_ăn chất_lượng,1,1
+món hao pha loãng nhạt_nhẽo đồ uống chất_lượng,0,0
+giá_cả hơi chất_lượng nhà_hàng giá tiền,0,0
+quán đông lắm piza nhà_hàng tổng_quát,1,2
+quán đông lắm piza phục_vụ tổng_quát,2,0
+trừ đồ_ăn nguội món chấp_nhận món nổi thức_ăn chất_lượng,0,0
+lẩu đầu ngon hơi mặn thức_ăn chất_lượng,2,2
+trung_tâm đối_diện bitexco đắt_đỏ cực_kì tổng_quát,2,1
+giá tổng_cộng bil tụi giá tiền nhà_hàng giá tiền,1,1
+trà sữa thơm trà ko thơm sữa vị ko nổi_bật mấy đồ uống chất_lượng,1,1
+quá_chừng giá tiền toàn xong kêu tiếp haha nhà_hàng giá tiền,2,2
+uống trà sữa king olong trân_châu đen thạch toping giá tiền 1 món mắc ghê đồ uống giá tiền,0,1
+uống trà sữa king olong trân_châu đen thạch toping giá tiền 1 món mắc ghê đồ uống,1,1
+miếng cá mì tuyệt mùi_vị thơm thịt cảm_giác đồ đông_lạnh thức_ăn chất_lượng,2,2
+miếng cá mì tuyệt mùi_vị thơm thịt cảm_giác đồ đông_lạnh thức_ăn,2,1
+món nhậu bình_dân chiều_tối quý huế lai_rai lắm thức_ăn,1,1
+1 ly hơi no hơi đồ uống,2,0
+ngon bàn hen nhà_hàng tổng_quát,2,2
+vị cà_ri thơm cay nhẹ rau củ hầm nhừ thịt bò ngon mấy lát thịt hun khói rán hơi cháy cạnh tuyệt ngon khóc thức_ăn,2,2
+vị cà_ri thơm cay nhẹ rau củ hầm nhừ thịt bò ngon mấy lát thịt hun khói rán hơi cháy cạnh tuyệt ngon khóc thức_ăn chất_lượng,2,2
+quán mặt đường bàn_cãi ha tổng_quát,2,1
+nem nướng bò sốt tiêu chạo tôm thức_ăn,2,1
+hình lớp phomai vs dày mua 2 lớp phomai mỏng dánh hà thức_ăn,0,1
+salad ceasa thịt nguội k quen k ngon thức_ăn chất_lượng,0,1
+salad ceasa thịt nguội k quen k ngon thức_ăn,2,1
+nhà_vệ_sinh trang_trí kiểu dơ dơ nhà_hàng điều_khoản,0,0
+gà mâm bao ngon gỏi tuyệt_vời hơi củ hành thức_ăn,0,1
+gà mâm bao ngon gỏi tuyệt_vời hơi củ hành thức_ăn chất_lượng,2,2
+giá đồ_ăn cộng vat mặc_định giá tiền ko thoả_mãn đồ_ăn ko ngon thức_ăn chất_lượng,0,0
+giá đồ_ăn cộng vat mặc_định giá tiền ko thoả_mãn đồ_ăn ko ngon nhà_hàng giá tiền,1,0
+1 1 bắp_cải trộn gật đầu hoài đem đứng quầy uống gọi quản_lý phục_vụ tổng_quát,0,0
+2 cốc kem mặn kem mặn béo ngậy uống hơi ngấy tạm ổn thức_ăn chất_lượng,2,1
+2 cốc kem mặn kem mặn béo ngậy uống hơi ngấy tạm ổn đồ uống chất_lượng,1,1
+salat tươi ngon nha trang_trí thui đẹp lắm hok nỡ ý_thức chất_lượng,2,2
+salat tươi ngon nha trang_trí thui đẹp lắm hok nỡ ý_thức,2,2
+gọi bò 1 va trứng bò phân thập cầm 1 bò hon thức_ăn,2,1
+kem quán ngon thức_ăn chất_lượng,2,2
+quán đông hơi ồn nhà_hàng tổng_quát,2,0
+quán đông hơi ồn không_gian tổng_quát,0,0
+món mì soba cá_hồi cá_hồi phile rán thịt siêu juicy nha mì soba lạ rau kale rau lạ_lạ chế_biến rong biển món oke thức_ăn,2,2
+món mì soba cá_hồi cá_hồi phile rán thịt siêu juicy nha mì soba lạ rau kale rau lạ_lạ chế_biến rong biển món oke thức_ăn chất_lượng,2,2
+matcha ngon lắm trà xanh bình_thường đồ uống chất_lượng,2,1
+matcha ngon lắm trà xanh bình_thường đồ uống,1,1
+phòng tầng mùa hè điều_hoà mát_rượi không_gian tổng_quát,2,2
+phòng tầng mùa hè điều_hoà mát_rượi nhà_hàng điều_khoản,2,2
+cá ngon lắm giòn_tan thơm mềm khô thức_ăn chất_lượng,2,2
+không_gian quán đẹp bắt_mắt không_gian tổng_quát,2,2
+hai đứa giá tiền hơi đắt xíu nhà_hàng giá tiền,0,0
+order giấy_bạc hok sợ đỗ nhà_hàng điều_khoản,2,1
+2017 dunkin mấy vị bánh noel cute buồn_cười hươu nhảy_múa lẩu 1 thông ng tuyết mấy bánh giá giá tiền bánh giá tiền thui thức_ăn,2,1
+2017 dunkin mấy vị bánh noel cute buồn_cười hươu nhảy_múa lẩu 1 thông ng tuyết mấy bánh giá giá tiền bánh giá tiền thui thức_ăn giá tiền,1,1
+giá mắc thái_độ phục_vụ nhà_hàng giá tiền,0,0
+giá mắc thái_độ phục_vụ phục_vụ tổng_quát,0,0
+nam nv mặc áo sasin tức_là nv chính_thức tình_huống chuyên_nghiệp tí phục_vụ tổng_quát,0,2
+cảm_nhận món uống ổn lắm sữa đặ béo đồ uống chất_lượng,1,1
+cảm_nhận món uống ổn lắm sữa đặ béo đồ uống,2,2
+bánh toast r kèm miếng kem ngon thức_ăn chất_lượng,2,2
+bánh toast r kèm miếng kem ngon thức_ăn,1,1
+đi chi_nhánh chi_nhánh nhà_hàng tổng_quát,2,1
+2 fody nhiệt_tình lắm dễ_thương ghê kiểu ráng code suport cười_ra_nước_mắt phục_vụ tổng_quát,2,2
+đèn đuốt nhà_hàng điều_khoản,0,2
+lắm tôm bở ngon thức_ăn chất_lượng,0,2
+món ăn_ở burger saturday mỳ trứng bắt_mắt thức_ăn,2,1
+1 đĩa hai đứa thức_ăn,1,0
+trung_tâm mê_cung đường hoa cạnh khu ăn_uống phan xích long tổng_quát,1,1
+món toast lava đi gọi 1 ly trà hoa_hồng machiato size l 1 toast lava giá tiền_đồ uống giá tiền,1,1
+món toast lava đi gọi 1 ly trà hoa_hồng machiato size l 1 toast lava giá tiền_đồ uống,1,1
+lẩu lẩu cá bóp cá_song ngon đậm vị cá tươi_sống thức_ăn chất_lượng,2,2
+lẩu lẩu cá bóp cá_song ngon đậm vị cá tươi_sống thức_ăn,1,1
+chè ngon gọi 1 cốc đỗ đen bự 1 bát chè đồng giá giá tiền ngon k phí tiền thức_ăn,2,2
+chè ngon gọi 1 cốc đỗ đen bự 1 bát chè đồng giá giá tiền ngon k phí tiền thức_ăn giá tiền,2,1
+chè ngon gọi 1 cốc đỗ đen bự 1 bát chè đồng giá giá tiền ngon k phí tiền thức_ăn chất_lượng,2,2
+nhân_viên phục_vụ khách_hàng đi đông hơi hiếu_động phục_vụ tổng_quát,0,0
+1 vắt mì phá lấu bao_tử lá_mía đầy_đủ hơi 1 xí thức_ăn,0,2
+món hôm_nay gia_đình suất 329 ng vat thức_ăn giá tiền,1,0
+bạn_bè giới_thiệu quán mon s kitchen ngon bàn đi thưởng_thức nhà_hàng tổng_quát,2,2
+bánh tròn tròn áp_chảo kèm khoai_mì ngon lắm cảm giá ngán thức_ăn chất_lượng,2,2
+sinh_nhật 10 nhà_hàng điều_khoản,2,2
+cầu_thang ban_công chụp hình art không_gian tổng_quát,2,2
+takashimaya lung_linh haha nhà_hàng tổng_quát,2,2
+nhà_hàng ko 1 chỗ xe ra_hồn nhà_hàng điều_khoản,0,0
+phục_vụ_bàn thường_xuyên châm uống thường_xuyên thay đĩa món phục_vụ tổng_quát,2,2
+đường quán hơi lạ dò bản_đồ đường tổng_quát,0,0
+sốt me thức_ăn,0,2
+quán đông lắm nhà_hàng tổng_quát,1,1
+strong bow soda chanh nha đường hơi toàn đồ uống,0,0
+trà đào pha vị hơi vị trà chát chát đồ uống chất_lượng,2,1
+cơm lươn nướng ngon thức_ăn chất_lượng,2,2
+chủ quán lì_xì đầu nhà_hàng điều_khoản,2,1
+hôm quán khai_trương mua 1 tặng 1 nhà_hàng điều_khoản,2,2
+đi quán nổi_bật a tổng_quát,2,2
+vị matcha ok nha kèm bánh choco hợp đồ uống chất_lượng,2,2
+vị matcha ok nha kèm bánh choco hợp đồ uống,2,2
+nhân_viên nhiệt_tình thân_thiện phục_vụ tổng_quát,2,2
+bảo ly tưởng t t ngon đồ uống chất_lượng,1,1
+uống mấy dòng freze kèm thạch đồ uống chất_lượng,2,2
+ăn_ở quán tài phú 1 hương_vị món nhà_hàng tổng_quát,2,2
+ghé quán cảm_giác không_gian kính xung_quanh nhân_viên cực_kì thân_thiện dễ_thương bò tuyệt cộng sốt rượu_vang chuẩn phục_vụ tổng_quát,2,2
+ghé quán cảm_giác không_gian kính xung_quanh nhân_viên cực_kì thân_thiện dễ_thương bò tuyệt cộng sốt rượu_vang chuẩn không_gian tổng_quát,2,2
+ghé quán cảm_giác không_gian kính xung_quanh nhân_viên cực_kì thân_thiện dễ_thương bò tuyệt cộng sốt rượu_vang chuẩn thức_ăn chất_lượng,2,2
+ghé quán cảm_giác không_gian kính xung_quanh nhân_viên cực_kì thân_thiện dễ_thương bò tuyệt cộng sốt rượu_vang chuẩn thức_ăn,1,2
+nhân_viên tạm cười phục_vụ tổng_quát,1,1
+hôn món giá_cả suất cháo 1 ếch giá tiền 2 ếch giá tiền thức_ăn giá tiền,1,1
+hôm đi siêu_thị lote xong đẩy xe đồ đi r hàng bỏng thơm chui mua liền thức_ăn chất_lượng,2,1
+1 tô bún cua bò giá tiền kèm 1 chén cơm nguội kèm thức_ăn,2,0
+1 tô bún cua bò giá tiền kèm 1 chén cơm nguội kèm thức_ăn giá tiền,2,1
+nhân_viên bình_thường vui_vẻ lắm phục_vụ tổng_quát,1,1
+trân_châu mềm đồ uống chất_lượng,2,2
+ng review gọi thử black tea machiato trân_châu đen 50 đá 50 đường size đồ uống,1,1
+grand palace nằm hẻm to lắm kẹt xe white palace chỗ xe rộng nhà_hàng điều_khoản,2,1
+grand palace nằm hẻm to lắm kẹt xe white palace chỗ xe rộng tổng_quát,1,1
+grand palace nằm hẻm to lắm kẹt xe white palace chỗ xe rộng không_gian tổng_quát,2,2
+kêu cokies matcha kem ok bánh ngon nhân_viên gớm quành phục_vụ tổng_quát,0,2
+kêu cokies matcha kem ok bánh ngon nhân_viên gớm quành thức_ăn,1,1
+kêu cokies matcha kem ok bánh ngon nhân_viên gớm quành thức_ăn chất_lượng,2,2
+đồ_ăn kiểu sẵn gọi phục_vụ tổng_quát,2,0
+cay đậm vừa_phải thức_ăn chất_lượng,2,2
+phục_vụ k trậm trễ giá hơi 1 tiền phục_vụ tổng_quát,2,0
+phục_vụ k trậm trễ giá hơi 1 tiền nhà_hàng giá tiền,0,0
+đồ_ăn không_gian ổn không_gian tổng_quát,2,1
+đồ_ăn không_gian ổn thức_ăn chất_lượng,2,2
+tiếc quán hẻm quán không_gian thoải_mái tổng_quát,2,2
+tiếc quán hẻm quán không_gian thoải_mái không_gian tổng_quát,2,2
+không_gian lầu đi đông hơi khó_chịu tí bù món uống ngon không_gian tổng_quát,0,0
+không_gian lầu đi đông hơi khó_chịu tí bù món uống ngon đồ uống chất_lượng,2,2
+ko để_ý quán q7 kia tổng_quát,1,1
+gọi 30g sốt tiêu trai thức_ăn,1,1
+vị đắng đắng tẩy đi cảm_giác ngấy thịt dâu chua_chua chê đc thức_ăn chất_lượng,2,0
+vị đắng đắng tẩy đi cảm_giác ngấy thịt dâu chua_chua chê đc thức_ăn,1,0
+mì sụa khô mì sụa mì sụa bò cay thức_ăn,1,1
+trà xanh thơm hài_hoà hương_vị đồ uống chất_lượng,2,2
+hôn không_gian quán hơi nóng rộng_rãi nhạc_nhẹ không_gian tổng_quát,1,2
+hôn không_gian quán hơi nóng rộng_rãi nhạc_nhẹ nhà_hàng điều_khoản,2,1
+thử toast trà xanh gọi toast dâu thử toast xoài hấp_dẫn thức_ăn,2,1
+trà sữa bình_thường bao quán đặc_sắc đồ uống chất_lượng,1,1
+chỗ cay ko đc cay kêu bớt cay chút thức_ăn chất_lượng,1,1
+cực_kì hàm nghi chạy nằm chiều đường chạy bitexco í mb nằm lận trường thắng tổng_quát,2,1
+không_gian đẹp nhạc nhạc nước_ngoài không_gian tổng_quát,2,2
+không_gian đẹp nhạc nhạc nước_ngoài nhà_hàng điều_khoản,1,2
+ép lạnh uống chai 350ml đường sợ béo uống ly trà sữa giá nha đồ uống chất_lượng,2,2
+ép lạnh uống chai 350ml đường sợ béo uống ly trà sữa giá nha đồ uống giá tiền,2,1
+ép lạnh uống chai 350ml đường sợ béo uống ly trà sữa giá nha đồ uống,1,1
+đồ_ăn ngon đậm_đà thức_ăn chất_lượng,2,2
+cảm_nhận view quán lịch_sự sáng_sủa đẹp không_gian tổng_quát,2,2
+nhân_viên lịch_sự cởi_mở thân_thiện tươi_cười phục_vụ tổng_quát,2,2
+cốc trà xoài tươi chese thử ké tí vị xoài tươi chese ngậy tct giòn 3 hơi nhạt chút đồ uống giá tiền,2,0
+cốc trà xoài tươi chese thử ké tí vị xoài tươi chese ngậy tct giòn 3 hơi nhạt chút đồ uống,1,1
+giao hàng now giao nguyên_vẹn lạnh mát phục_vụ tổng_quát,2,2
+giao hàng now giao nguyên_vẹn lạnh mát đồ uống chất_lượng,2,1
+song quán trông khang_trang sáng_sủa đồ_ăn giá ngon bổ rẻ nhà_hàng tổng_quát,2,2
+song quán trông khang_trang sáng_sủa đồ_ăn giá ngon bổ rẻ nhà_hàng giá tiền,2,2
+mì quảng ngon thức_ăn chất_lượng,2,2
+caramel món yêu vị mà_còn vị đắng nhẹ cafe yêu đồ uống chất_lượng,2,2
+thuyền kem k ngon lắm kem đá k đặc_sắc khuyên đừng gọi kem thức_ăn,1,0
+thuyền kem k ngon lắm kem đá k đặc_sắc khuyên đừng gọi kem thức_ăn chất_lượng,1,1
+bánh plan bột giá tiền thức_ăn,1,2
+bánh plan bột giá tiền thức_ăn giá tiền,1,1
+dư dư tiền vô sống ảo tuyệt quán đẹp đi giá tiềnhông gian tổng_quát,2,2
+không_gian yên_tĩnh hoài_cổ họp gia_đình gặp_gỡ cũ không_gian tổng_quát,2,2
+trứng k ngon thức_ăn chất_lượng,0,0
+tập gym nhu_cầu uống thay bữa uống luminus tiện dinh_dưỡng đồ uống chất_lượng,2,0
+mặc_dù order 3 phục_vụ tổng_quát,0,0
+đồ_ăn phong_phú lắm toàn món việt cơm_chiên súp nui mì xào thức_ăn,1,2
+trà size m giá tiền_đồ uống giá tiền,1,1
+không_gian sạch_đẹp thoáng mát không_gian tổng_quát,2,2
+chính_xác nhân_viên chủ mặt hơi ghê phục_vụ tổng_quát,0,0
+sốc thương_hiệu mỹ phục_vụ tệ cửa_hàng việt_nam phục_vụ tổng_quát,0,0
+3 cục sườn kim chi thức_ăn,1,1
+vị cay hơi nhạt món bình_thường nổi_bật thức_ăn chất_lượng,1,1
+lollipop không_gian tầng 1 mua đồ thanh_toán tầng 2 hoà wifi vỗ_tay vỗ_tay không_gian tổng_quát,2,1
+lollipop không_gian tầng 1 mua đồ thanh_toán tầng 2 hoà wifi vỗ_tay vỗ_tay nhà_hàng điều_khoản,1,2
+đồ_ăn kèm mắm ruốc huế bún riêu mắm_tôm ngon thức_ăn,1,1
+thức uống vừa_miệng ngon giá_cả rẻ đồ uống chất_lượng,2,2
+thức uống vừa_miệng ngon giá_cả rẻ đồ uống giá tiền,2,2
+ta chủ_yếu quán bef steak quán quán bánh lava cười nhẹ thức_ăn chất_lượng,2,2
+bánh_bao xá_xíu giá tiền hơi nhân nhân nêm nếm ngon_miệng 1 2 thứ3 thức_ăn,0,2
+bánh_bao xá_xíu giá tiền hơi nhân nhân nêm nếm ngon_miệng 1 2 thứ3 thức_ăn giá tiền,1,1
+bánh_bao xá_xíu giá tiền hơi nhân nhân nêm nếm ngon_miệng 1 2 thứ3 thức_ăn chất_lượng,2,2
+chỗ dòm sạch_sẽ hẳn đỡ hẻm hẳn quẹo hẻm 393 23 đầu tổng_quát,2,1
+chỗ dòm sạch_sẽ hẳn đỡ hẻm hẳn quẹo hẻm 393 23 đầu không_gian tổng_quát,2,1
+ngon chất_lượng nha hôn vị chà pork flos thức_ăn chất_lượng,2,2
+giá hơi nhà_hàng giá tiền,0,0
+súp canh sườn bò miến cứng nấu ko chín gỏi cứng thức_ăn chất_lượng,0,0
+hôm uống thử trà mận đen ôi trời kiểu chanh uống quen kh chê tenren nha đồ uống chất_lượng,1,2
+ghé shop tầm 2h trưa trưa vắng nhà_hàng tổng_quát,0,1
+trà sữa olong ok thơm thơm nha chả cốc lẫn mùi vải í uống khó_chịu lắm đồ uống chất_lượng,1,2
+dạo đi hơi thị tươi món chậm phục_vụ tổng_quát,0,0
+dạo đi hơi thị tươi món chậm thức_ăn chất_lượng,0,0
+bún_bò ngon đồ_ăn thức_ăn,2,1
+bún_bò ngon đồ_ăn thức_ăn chất_lượng,2,2
+chỗ xa_lắc_xa_lơ tổng_quát,0,1
+trà xanh freze chuẩn vị matcha hơi nhạt tương_đối ổn đồ uống chất_lượng,1,1
+pescatora piza hải_sản hải_sản tươi ngon_ăn giòn sần_sật thức_ăn chất_lượng,2,2
+thưởng_thức món nhà_hàng tổng_quát,2,2
+uống ngon flan ngon đồ uống chất_lượng,2,2
+đọng vị béo thơm đặc_trưng nước_cốt dừa ngon đắng lắm ly trà lài hợp quen uống trà đậm nha haha haha đồ uống chất_lượng,2,2
+đọng vị béo thơm đặc_trưng nước_cốt dừa ngon đắng lắm ly trà lài hợp quen uống trà đậm nha haha haha đồ uống,1,2
+vàoquán đập mắt tủ ép nhà_hàng điều_khoản,2,0
+bánh vị dâu 1 vị thức_ăn,2,2
+món đặc_sắc sốt cajun phô_mai vị sốt phô_mai hiếm quán bình_dân món đa_dạng ướp chế_biến tuỳ thức_ăn,2,2
+món đặc_sắc sốt cajun phô_mai vị sốt phô_mai hiếm quán bình_dân món đa_dạng ướp chế_biến tuỳ thức_ăn chất_lượng,2,2
+bánh_mì ngon lắm kìa phô_mai ngập_tràn lắm 1 ổ giá tiền rẻ ngon thức_ăn chất_lượng,2,2
+bánh_mì ngon lắm kìa phô_mai ngập_tràn lắm 1 ổ giá tiền rẻ ngon thức_ăn,2,2
+bánh_mì ngon lắm kìa phô_mai ngập_tràn lắm 1 ổ giá tiền rẻ ngon thức_ăn giá tiền,2,2
+rose tea váng sữa ngon đồ uống chất_lượng,2,2
+sashimi cá_hồi cá_ngừ thức_ăn,2,1
+kiểu dạng vị đào sữa_chua ngậy ngậy đồ uống chất_lượng,1,2
+kiểu dạng vị đào sữa_chua ngậy ngậy đồ uống,1,2
+giá_cả hạt_dẻ nhà_hàng giá tiền,2,2
+ngon hôn nhà_hàng tổng_quát,2,2
+trừ duy_nhất ko gian hơi tối đèn vàng sống ảo không_gian tổng_quát,0,0
+độc vụ order món bộ_đàm nhà_hàng điều_khoản,2,0
+soup kêu đầu quán say godbye có_lẽ nón soup phù hop haha thức_ăn chất_lượng,0,2
+mì ngon hơi thức_ăn,0,0
+mì ngon hơi thức_ăn chất_lượng,2,2
+lẩu thái chua_cay ngon đĩa nhân đầy_đặn ngao cua viên cá mực 6 tôm thức_ăn chất_lượng,2,2
+lẩu thái chua_cay ngon đĩa nhân đầy_đặn ngao cua viên cá mực 6 tôm thức_ăn,2,2
+giá rẻ nhà_hàng giá tiền,2,2
+ok bao quán cafe trừ bánh dở nhà_hàng tổng_quát,2,0
+ok bao quán cafe trừ bánh dở thức_ăn chất_lượng,0,0
+đợi 30p ko phục_vụ tổng_quát,0,0
+gọi 2 mì cay bò giá giá tiền mì ngon chuẩn vị gọi mì cay bò 2 miếng thịt bò thức_ăn giá tiền,1,1
+gọi 2 mì cay bò giá giá tiền mì ngon chuẩn vị gọi mì cay bò 2 miếng thịt bò thức_ăn chất_lượng,2,2
+gọi 2 mì cay bò giá giá tiền mì ngon chuẩn vị gọi mì cay bò 2 miếng thịt bò thức_ăn,0,2
+bánh trắng trắng kia mochi thức_ăn,1,1
+chỗ order chật_chội không_gian tổng_quát,0,0
+làm_việc tụ_tập bạn_bè nói_chuyện nhà_hàng tổng_quát,2,2
+ngon nhà_hàng tổng_quát,2,2
+bánh_bao bánh ca dé ngon nha nhân hơi bén an_toàn vệ_sinh thực_phẩm thức_ăn,1,2
+bánh_bao bánh ca dé ngon nha nhân hơi bén an_toàn vệ_sinh thực_phẩm thức_ăn chất_lượng,2,2
+salad ngon thức_ăn chất_lượng,2,2
+món phô_mai chiên hơi mặn chút nhân thịt phô_mai ngon thức_ăn chất_lượng,2,2
+món phô_mai chiên hơi mặn chút nhân thịt phô_mai ngon thức_ăn,1,1
+giá chất_lượng nhu nhà_hàng giá tiền,2,0
+chỗ làm_việc tám không_gian tổng_quát,2,0
+đồ_ăn ngon tẩm ướt nhẹ_nhàng khẩu_vị thức_ăn chất_lượng,2,2
+cơm lắc kimbap ngon thử thức_ăn chất_lượng,2,2
+cơm lắc kimbap ngon thử thức_ăn,1,1
+cốc uống dặn đường vừa_vặn đồ uống chất_lượng,2,2
+không_gian lãng_mạn sang_trọng ấm_cúng 2 lầu ghế_ngồi sofa thoải_mái không_gian tổng_quát,2,2
+không_gian lãng_mạn sang_trọng ấm_cúng 2 lầu ghế_ngồi sofa thoải_mái nhà_hàng điều_khoản,2,2
+cộng gửi xe nắng_nóng bạt che xe hơi hịn nhà_hàng điều_khoản,2,0
+lẩu ngon giá vỉa_hè thức_ăn chất_lượng,2,2
+lẩu ngon giá vỉa_hè thức_ăn giá tiền,2,0
+không_gian đay chật_chội lụp_xụp bàn_ghế cũ không_gian tổng_quát,0,2
+không_gian đay chật_chội lụp_xụp bàn_ghế cũ nhà_hàng điều_khoản,0,0
+không_gian miễn bàn sống ảo không_gian tổng_quát,2,2
+chủ quán dễ_thương phục_vụ tổng_quát,2,2
+cabonara spagheti vừa_miệng thơm béo vừa_ý thức_ăn chất_lượng,2,2
+đi nhà_hàng tổng_quát,2,2
+suất thịt bì giòn thảm_hoạ thức_ăn,0,2
+chi_nhánh đông nằm khu trung_tâm lầu không_gian rộng chỗ tổng_quát,2,1
+chi_nhánh đông nằm khu trung_tâm lầu không_gian rộng chỗ gian tổng_quát,2,1
+chi_nhánh đông nằm khu trung_tâm lầu không_gian rộng chỗ nhà_hàng tổng_quát,1,1
+minh toi quan đông phục_vụ món nhà_hàng tổng_quát,2,2
+minh toi quan đông phục_vụ món phục_vụ tổng_quát,2,0
+ghé hơi chập_tối quán quá_trời đông nhà_hàng tổng_quát,2,1
+ghé hơi chập_tối quán quá_trời đông không_gian tổng_quát,0,0
+mn khen toast bữa đi thử hí hí thức_ăn chất_lượng,2,2
+pep 2 món salad hoa_quả mỳ sốt bq thức_ăn,2,1
+pep 2 món salad hoa_quả mỳ sốt bq nhà_hàng tổng_quát,2,1
+dịch_vụ deli đường mua nắng noi phục_vụ tổng_quát,2,2
+salad trộn ok lắm nè chua_chua đỡ ngán thức_ăn chất_lượng,2,2
+quán sẵn kêu quán microwave dở vô_cùng thức_ăn chất_lượng,0,0
+sốt mayonaise cà_chua sốt cà_chua chua cười_ra_nước_mắt k chua thức_ăn,1,1
+sốt mayonaise cà_chua sốt cà_chua chua cười_ra_nước_mắt k chua thức_ăn chất_lượng,0,0
+cơm cánh_gà chiên nước_mắm quán dầu chiên gà giòn chiên cánh_gà món cánh_gà toàn mùi ngũ_vị hương ko ngon thức_ăn,1,1
+cơm cánh_gà chiên nước_mắm quán dầu chiên gà giòn chiên cánh_gà món cánh_gà toàn mùi ngũ_vị hương ko ngon thức_ăn chất_lượng,0,1
+đi 2 ng giá tiền thức_ăn giá tiền,1,1
+đồ_ăn đi 2 order 1 mì cay đùi gà 1 1 mì cay bạch thuộc_cấp 2 1 takoyaki 1 gimbab trà đào trà sữa gọi fre thức_ăn,1,1
+đồ_ăn đi 2 order 1 mì cay đùi gà 1 1 mì cay bạch thuộc_cấp 2 1 takoyaki 1 gimbab trà đào trà sữa gọi fre đồ uống,1,1
+uống k đặc_sắc đầu gọi mojito ma vị dâu_tây 2 gọi cam xoài cam chua đồ uống chất_lượng,0,0
+uống k đặc_sắc đầu gọi mojito ma vị dâu_tây 2 gọi cam xoài cam chua đồ uống,1,1
+món xào hơi ngậm mỡ thức_ăn chất_lượng,0,2
+quán rộng tương_đối thông_thoáng sạch_sẽ nhân_viên lau dọn liên_tục không_gian tổng_quát,2,2
+cực bún_bò nấu ngon đậm_đà ớt cay cay bá chay yêu đi thức_ăn chất_lượng,2,2
+cực bún_bò nấu ngon đậm_đà ớt cay cay bá chay yêu đi thức_ăn,2,1
+đồ_hộp thừa nhân_viên dọn sạch_sẽ phục_vụ tổng_quát,2,2
+bánh quán ngon hài_lòng uống ngon thức_ăn chất_lượng,2,2
+bánh quán ngon hài_lòng uống ngon đồ uống chất_lượng,2,2
+bánh toast phô_mai bò cười mặt hạt kem vani mix ngon vô_cùng xử bánh vòng 1p30 haha thức_ăn chất_lượng,2,2
+bánh toast phô_mai bò cười mặt hạt kem vani mix ngon vô_cùng xử bánh vòng 1p30 haha thức_ăn,2,2
+giá quán mặt_bằng rẻ nhà_hàng giá tiền,2,2
+món uống colagen tươi vị hơi lạ xí thử 1 quán mấy góc sống ảo ổn mấy mấy pic đời đồ uống,2,1
+món uống colagen tươi vị hơi lạ xí thử 1 quán mấy góc sống ảo ổn mấy mấy pic đời đồ uống chất_lượng,2,2
+món uống colagen tươi vị hơi lạ xí thử 1 quán mấy góc sống ảo ổn mấy mấy pic đời không_gian tổng_quát,2,1
+thích_hợp sang_trọng đãi bufet nhà_hàng tổng_quát,2,2
+đông chục nhân_viên thái_độ khó_chịu cáu_gắt phục_vụ tổng_quát,0,0
+starter lan trứng muối m hơi khô trứng hơi cứng thức_ăn chất_lượng,0,1
+không_gian đẹp tiện_nghi không_gian tổng_quát,2,2
+quán dểt bánh toast bing su thức_ăn,1,1
+gọi giá tiềnem va ni giá tiền 1 thức_ăn giá tiền,1,1
+giá giá tiền ko rẻ í ớn ko ngon ko chả buồn chụp ảnh thức_ăn chất_lượng,0,0
+giá giá tiền ko rẻ í ớn ko ngon ko chả buồn chụp ảnh nhà_hàng giá tiền,1,0
+hôm đấy cực_kỳ đông nhà_hàng tổng_quát,2,1
+nhân_viên nhanh_nhẹn hội_trường hát phục_vụ tổng_quát,2,2
+nhân_viên nhanh_nhẹn hội_trường hát nhà_hàng điều_khoản,2,1
+hoa gia ca saturday burger sz s giá tiền thức_ăn giá tiền,1,1
+nhân_viên thân_thiện xe mấy phục_vụ phục_vụ tổng_quát,2,2
+góp_ý quán lạnh xíu lạnh lắm hơi nóng nóng không_gian tổng_quát,0,1
+nhân_viên tư_vấn giọng hơi phục_vụ tổng_quát,2,2
+thịt bò ngon hải_sản ok nước_chấm hợp_khẩu vị thức_ăn,1,2
+thịt bò ngon hải_sản ok nước_chấm hợp_khẩu vị thức_ăn chất_lượng,2,2
+nhân_viên dễ_thương phục_vụ phục_vụ tổng_quát,2,2
+mì vị ngon thức_ăn chất_lượng,2,2
+giá tiền ko nốt nhà_hàng giá tiền,1,1
+vịt ngon lợn bình_thường khoai_môn chiên dở thức_ăn chất_lượng,1,1
+vịt ngon lợn bình_thường khoai_môn chiên dở thức_ăn,1,1
+bánh_mì ngon giòn thịt hơi mặn thức_ăn,2,1
+bánh_mì ngon giòn thịt hơi mặn thức_ăn chất_lượng,2,2
+quán kfc nằm siêu_thị big c đi liền tổng_quát,2,2
+order 2 phá lấu trung 2 mì phá lấu mì 2 mì phá lấu xào tổng giá tiền bao_gồm phí dịch_vụ thức_ăn giá tiền,1,1
+order 2 phá lấu trung 2 mì phá lấu mì 2 mì phá lấu xào tổng giá tiền bao_gồm phí dịch_vụ thức_ăn,1,1
+miễn_phí bún rau nha thức_ăn,2,2
+bàn_ghế rộng_rãi khu ban_công ngoài_trời không_gian tổng_quát,2,2
+bàn_ghế rộng_rãi khu ban_công ngoài_trời nhà_hàng điều_khoản,2,2
+đồ_ăn lote chả ngon rỳ nhà_hàng tổng_quát,0,1
+minh gọi trà hoa_hồng milkfoam trà sữa vớ uống ngon trà sữa vớ hơi ghê mùi_vị uống đậm trà sữa bình_thường đồ uống,1,1
+minh gọi trà hoa_hồng milkfoam trà sữa vớ uống ngon trà sữa vớ hơi ghê mùi_vị uống đậm trà sữa bình_thường đồ uống chất_lượng,2,1
+quán không_gian rộng trang_trí đa_dạng không_gian lựa_chọn lầu không_gian tổng_quát,2,2
+mì bò bít tết giá tiền thức_ăn giá tiền,1,1
+mì bò bít tết giá tiền thức_ăn,1,1
+uống mát nhẹ dừa dễ_chịu đồ uống chất_lượng,2,2
+bánh flan beo_béo mềm mềm đồ uống chất_lượng,2,2
+không_gian bày trí đẹp kg lẫn không_gian tổng_quát,2,2
+bánh_mì phô_mai chê ngon cực_kì thức_ăn chất_lượng,2,2
+ấn_tượng đầu quán bình_dân sạch_sẽ mấy nhà_hàng tổng_quát,1,1
+nhân_viên lẹ thân_thiện lắm lịch_sự phục_vụ tổng_quát,2,2
+món trang_trí hấp_dẫn bò mềm dày hải_sản tươi ngon hương_vị thơm ngon nêm nếm hơi nhạt sốt bq đậm_đà mực khoai giòn sốt cà mì salad chua thức_ăn,2,1
+món trang_trí hấp_dẫn bò mềm dày hải_sản tươi ngon hương_vị thơm ngon nêm nếm hơi nhạt sốt bq đậm_đà mực khoai giòn sốt cà mì salad chua thức_ăn chất_lượng,2,2
+salad ngon bò nướng tái bề_mặt thức_ăn chất_lượng,2,2
+salad ngon bò nướng tái bề_mặt thức_ăn,2,2
+được_giá tiềnhoanh mực chiên vàng giòn khoanh mực to vỏ thức_ăn,2,2
+được_giá tiềnhoanh mực chiên vàng giòn khoanh mực to vỏ thức_ăn chất_lượng,2,2
+vị siêu ngon nhà_hàng tổng_quát,2,2
+quán ngon phục_vụ nhiệt_tình vui_tính phục_vụ tổng_quát,2,2
+quán ngon phục_vụ nhiệt_tình vui_tính nhà_hàng tổng_quát,2,2
+món thú_vị gỏi ốc giấy ngon sướng miệng ốc dai thơm thức_ăn,1,1
+món thú_vị gỏi ốc giấy ngon sướng miệng ốc dai thơm thức_ăn chất_lượng,2,2
+uống bình_thường ngon giá_cả đồ uống chất_lượng,1,1
+ngon lắm chả bít làm_ăn dở tệ chả j cải_tiến mới_mẻ nhà_hàng tổng_quát,0,0
+salad nổi_bật thức_ăn chất_lượng,1,2
+medium rare quán chín độ thức_ăn chất_lượng,2,0
+cà_phê thơm đồ uống chất_lượng,2,2
+chồng gọi bò truyền_thống bò kèm trứng thức_ăn,1,2
+spirulina món quán mật_ong hơi hôm uống đồ uống chất_lượng,2,1
+ủng_hộ toping bef dài_dài yêu nhà_hàng tổng_quát,2,2
+giá_cả miến vịt mề trà đào giá tiền tổng_cộng nhà_hàng giá tiền,1,1
+tráng_miệng trái_cây kem ngon lắm nha thức_ăn,2,2
+tráng_miệng trái_cây kem ngon lắm nha thức_ăn chất_lượng,2,2
+đem nước_lọc miếng cam dâu húng_quế đồ uống,1,1
+thiệt cảm_giác quán không_gian decor phong_cách cũ va tiết_kiệm cost không_gian tổng_quát,1,2
+gòi xoài ngon lắm hiuhiu tomyum chua_cay chuẩn ngon miến cx ổn thức_ăn chất_lượng,2,2
+gòi xoài ngon lắm hiuhiu tomyum chua_cay chuẩn ngon miến cx ổn thức_ăn,1,1
+choco coler kem hơi béo ổn 3 thức_ăn,2,1
+choco coler kem hơi béo ổn 3 thức_ăn chất_lượng,2,0
+giá 1 tr 7 ng 1 trẻ_con ổn lun p nhà_hàng giá tiền,2,2
+ko milkfoam charge giá tiền mấy in ly milkfoam giao k chứng_tỏ ko hề kiểm_tra đơn hàng j ko đồ uống giá tiền,1,1
+ko milkfoam charge giá tiền mấy in ly milkfoam giao k chứng_tỏ ko hề kiểm_tra đơn hàng j ko phục_vụ tổng_quát,0,0
+gửi xe ngã tư_cách quán phiếu gửi xe miễn_phí nhà_hàng điều_khoản,2,2
+khoai_lang rán sẵn khay mua chủ lắc xuất khoai xí muội nhà_hàng tổng_quát,1,1
+quán thử nhà_hàng tổng_quát,2,1
+món tủ bọn đùi gà rán combo 8 cười_ra_nước_mắt thức_ăn,2,2
+quán độ đậm_đà ngon cười nhẹ nhà_hàng tổng_quát,1,2
+cửa_hàng ghi thông_tin đầy_đủ sản_phẩm promotion fanpage nhà_hàng tổng_quát,2,2
+nhân_viên tinh_ý tiếp ớt xắt gọn phục_vụ tổng_quát,2,2
+uống 30 đường trà sữa ngon đậm vị trà lớp milkfoam béo mằn_mặn đồ uống,1,1
+uống 30 đường trà sữa ngon đậm vị trà lớp milkfoam béo mằn_mặn đồ uống chất_lượng,2,2
+quán sạch_sẽ mát không_gian tổng_quát,2,2
+thực_đơn món thức_ăn,2,2
+thực_đơn món đồ uống,2,2
+chỗ lắm quán hỉ mũi ngủ nhà_hàng điều_khoản,0,0
+trà đắng đậm vị trà quán đậm vị trà vị sữa vâỵy đồ uống chất_lượng,2,2
+toping bef tuyệt thức_ăn chất_lượng,2,2
+sơn tường màu trắng cẩn_trọng decor cốc ấm_chén đẹp xịn nhà_hàng điều_khoản,2,2
+thịt ướp ngon thấm vị quán nướng đông ngộp không_gian tổng_quát,1,2
+thịt ướp ngon thấm vị quán nướng đông ngộp nhà_hàng tổng_quát,2,1
+thịt ướp ngon thấm vị quán nướng đông ngộp thức_ăn chất_lượng,2,2
+trà phúc bồn tử ngon vị hơi 1 xíu đồ uống chất_lượng,2,2
+steak chín sốt trứng sốt trứng vị lạ bò mềm dai chấm sốt vs salad kèm ngon thức_ăn,1,2
+steak chín sốt trứng sốt trứng vị lạ bò mềm dai chấm sốt vs salad kèm ngon thức_ăn chất_lượng,2,2
+khoai lắc bột xí muội hương_vị khoai chiên cứu đói chiều mệt_mỏi thức_ăn,2,1
+tdesert thù bth cafein thủ_đức bth thức_ăn chất_lượng,1,1
+trà xoài bình_thường đặc_sắc lắm ngoại_trừ thạch xoài siêu ngon đồ uống chất_lượng,2,1
+bánh_mì 1 giá tiền thử thức_ăn giá tiền,1,1
+ếch nhân_viên quán bắt ếch sống chế_biến thành món phục_vụ tổng_quát,2,0
+món ăn_ở chất_lượng tươi thức_ăn chất_lượng,2,2
+bảo_vệ xe kĩ nha ổ_khoá khoá an_toàn phục_vụ tổng_quát,2,0
+quán đông lắm ord lắm mua ng lắm nhà_hàng tổng_quát,1,1
+siêu thu_hút bới quán tổng_quát,2,2
+phục_vụ tận bàn phục_vụ tổng_quát,2,2
+uống sinh_tố detox heathy lạ ngon tặng kèm quà 83 juice shot package lạ_lạ iu ghê đồ uống,2,1
+uống sinh_tố detox heathy lạ ngon tặng kèm quà 83 juice shot package lạ_lạ iu ghê đồ uống chất_lượng,2,2
+uống sinh_tố detox heathy lạ ngon tặng kèm quà 83 juice shot package lạ_lạ iu ghê nhà_hàng điều_khoản,2,2
+hôm đi tầm 6h tối quán đông đợi tầm 10p bàn nhà_hàng tổng_quát,1,1
+peperonis nổi_tiếng nhà_hàng tổng_quát,2,2
+đa_số đồ chiên dc liên_tục thức_ăn,2,2
+miếng befsteak chuck flap 30gr giá tiền nhạt vô_cùng thức_ăn,1,0
+miếng befsteak chuck flap 30gr giá tiền nhạt vô_cùng thức_ăn giá tiền,1,1
+miếng befsteak chuck flap 30gr giá tiền nhạt vô_cùng thức_ăn chất_lượng,0,0
+1 tô tí_tẹo bình_thường mùi_vị ngon mấy quán vỉa_hè thức_ăn,0,2
+1 tô tí_tẹo bình_thường mùi_vị ngon mấy quán vỉa_hè thức_ăn chất_lượng,1,2
+bình_thường thức_ăn chất_lượng,1,1
+tầng 1 khu ngoài_trời tầng 2 khu bố_trí 1 bàn ghế bar không_gian tổng_quát,1,1
+tầng 1 khu ngoài_trời tầng 2 khu bố_trí 1 bàn ghế bar nhà_hàng điều_khoản,1,0
+befsteak cảm_giác ngon ghé quán thức_ăn chất_lượng,1,2
+menu đa_dạng lẩu lẩu kim chi sườn sụn lẩu thái hải_sản lẩu gà nấm lẩu ếch món kèm thức_ăn,2,2
+bảo_vệ k dắt xe 1 cục ngây ng phục_vụ tổng_quát,0,0
+gọi 1 salad tôm 3 tôm ổn thức_ăn,1,1
+gọi 1 salad tôm 3 tôm ổn thức_ăn chất_lượng,2,2
+giá nhà_hàng giá tiền,0,2
+giá_cả nha nhà_hàng giá tiền,2,2
+salad cá_hồi ngon sốt trộn cá ổn thức_ăn,2,1
+salad cá_hồi ngon sốt trộn cá ổn thức_ăn chất_lượng,2,2
+1 shop bánh chất_lượng uy_tín yêu nhà_hàng tổng_quát,2,2
+đọc coment hình_như bánh_mì đi kèm phá lấu ko thức_ăn,1,1
+giá tiền vé nha nhà_hàng giá tiền,1,1
+xong 1 bát no căng thức_ăn,2,2
+xe cửa quán nhà_hàng điều_khoản,1,1
+bánh plab dẻo ngon đồ uống chất_lượng,2,2
+thái_độ phục_vụ hạch chi_nhánh chi làm_ăn phục_vụ cực_kì tệ phục_vụ tổng_quát,0,0
+nhân_viên hàng oki phục_vụ tổng_quát,2,2
+cộng đi đi gửi xe phiếu xe miễn_phí ròi nhà_hàng điều_khoản,2,2
+cộng đi đi gửi xe phiếu xe miễn_phí ròi phục_vụ tổng_quát,2,2
+bánh nguyên_chất hoa_cúc k rắc mè đen hạnh_nhân thức_ăn,2,1
+đi 2 1 chuck flap 30gr ghét mỡ nạc 2 kèm sốt tiêu đen nha sốt ngon lắm ấm nóng thức_ăn,1,1
+đi 2 1 chuck flap 30gr ghét mỡ nạc 2 kèm sốt tiêu đen nha sốt ngon lắm ấm nóng thức_ăn chất_lượng,2,2
+không_gian hiện_đại đơn_giản sang_trọng không_gian tổng_quát,2,2
+hôm_qua bánh su kem thức_ăn chất_lượng,0,2
+nhân_viên nói_chuyện đớp chát bốp bốp mặt nch nhẹ_nhàng từ_tốn phục_vụ tổng_quát,0,2
+nổi_tiếng giò bò pate thức_ăn,2,2
+quán bố_trí cổng đẹp tông máu xanh cỏ cảm_giác tươi_mát không_gian tổng_quát,2,2
+đợt quán khuyến_mãi tranh_thủ đi hokube striploin usda rib eye nhà_hàng điều_khoản,2,2
+đợt quán khuyến_mãi tranh_thủ đi hokube striploin usda rib eye thức_ăn,1,1
+nhân_viên lịch_sự chăm lắm phục_vụ tổng_quát,2,1
+lẩu công_nhận ngon_ngọt chua_cay độ thức_ăn chất_lượng,2,2
+matcha morico siêu chuẩn vị đồ uống chất_lượng,2,2
+trình_bày đẹp sườn nướng thơm cơm dẻo ngon chả trứng lạnh_ngắt tủ_lạnh nước_mắm pha vừa_miệng thức_ăn,2,2
+trình_bày đẹp sườn nướng thơm cơm dẻo ngon chả trứng lạnh_ngắt tủ_lạnh nước_mắm pha vừa_miệng thức_ăn chất_lượng,2,2
+tổng bil giá tiền 10 thẻ thành_viên nhà_hàng điều_khoản,2,1
+tổng bil giá tiền 10 thẻ thành_viên nhà_hàng giá tiền,1,1
+miếng bò bự mỏng thức_ăn,1,2
+toping trừ trái_cây ngon thức_ăn chất_lượng,0,2
+công_việc bitexco xong_xuôi ghé phúc long mua ly trà sữa đào uống đồ uống,1,1
+công_việc bitexco xong_xuôi ghé phúc long mua ly trà sữa đào uống tổng_quát,1,1
+ôk vs xe haha phục_vụ tổng_quát,2,2
+giá chỗ rơi giá tiền giá tiền oke nhà_hàng giá tiền,1,2
+lẩu ngon đồ_ăn tươi rau tươi k ghẹ bù tôm thức_ăn,1,2
+lẩu ngon đồ_ăn tươi rau tươi k ghẹ bù tôm thức_ăn chất_lượng,2,2
+trừ hộp xốp k bày đĩa thức_ăn,0,0
+kho kiểu sing hơi cay ngon tà hợp vị thức_ăn chất_lượng,2,2
+kêu 2 1 strongbow 1 pasion tea nửa tiếng trời hút xong 1 điếu thuốc vô_lại đồ uống,1,0
+kêu 2 1 strongbow 1 pasion tea nửa tiếng trời hút xong 1 điếu thuốc vô_lại phục_vụ tổng_quát,0,0
+giá tiền 1 túi thức_ăn giá tiền,1,1
+pha vừa_miệng đường đá mấy đứa uống lạt đồ uống,2,1
+pha vừa_miệng đường đá mấy đứa uống lạt đồ uống chất_lượng,2,2
+món mì sốt bơ kem quán ngon lớp phô_mai béo béo ngấy thức_ăn chất_lượng,2,2
+tổng bil giá tiền xíu 2 no lăn nhà_hàng giá tiền,1,1
+gọi 1 top blade 30gr thức_ăn,1,1
+không_gian trẻ_trung pha lẫn cổ_điển phòng điều_hoà nha không_gian tổng_quát,2,2
+không_gian trẻ_trung pha lẫn cổ_điển phòng điều_hoà nha nhà_hàng điều_khoản,1,2
+menu mỏng tờ báo món giá giá tiền nhà_hàng điều_khoản,1,2
+menu mỏng tờ báo món giá giá tiền nhà_hàng giá tiền,1,1
+đế bánh giòn nóng rưới sốt dịu tẩm ướt thạch yogurt dai dai thơm thơm kem dâu chua_ngọt matcha thơm nhẫn whiping cream béo th r thức_ăn,2,2
+đế bánh giòn nóng rưới sốt dịu tẩm ướt thạch yogurt dai dai thơm thơm kem dâu chua_ngọt matcha thơm nhẫn whiping cream béo th r thức_ăn chất_lượng,2,2
+giá bàn xác_định giá tiền trở bình_thường nhà_hàng giá tiền,1,1
+bò món kèm bánh ngon thức_ăn chất_lượng,2,2
+giá tầm giá tiền trở nhà_hàng giá tiền,1,1
+cạnh kích_thước khổng_lồ đột_biến chúng_bạn mùi_vị ngon đồ uống,2,2
+cạnh kích_thước khổng_lồ đột_biến chúng_bạn mùi_vị ngon đồ uống chất_lượng,2,2
+góc sống ảo vô_số thoải_mái không_gian tổng_quát,2,2
+tụi gỏi gà 2 góc tư 2 tô cháo huyết tổng giá tiền thức_ăn giá tiền,1,1
+tụi gỏi gà 2 góc tư 2 tô cháo huyết tổng giá tiền thức_ăn,1,1
+bò mềm ngon đậm_đà hơi lẫn vụn thịt thức_ăn,0,1
+bò mềm ngon đậm_đà hơi lẫn vụn thịt thức_ăn chất_lượng,2,2
+đồn bánh_mì ngon lắm 1 tuần bánh_mì thay cơm thức_ăn chất_lượng,2,0
+hoạt giá tiền đồ uống giá tiền,1,1
+gọi cơm gà bánh hoa_hồng lẩu cá giò nấu măng chua thức_ăn,1,1
+nem_lụi đậm_đà nước_chấm đặc thơm thức_ăn chất_lượng,2,2
+nem_lụi đậm_đà nước_chấm đặc thơm thức_ăn,1,1
+lẩu bò đậm_đà nước_ngọt xương chất_lượng giá_cả túi_tiền thức_ăn giá tiền,2,1
+lẩu bò đậm_đà nước_ngọt xương chất_lượng giá_cả túi_tiền thức_ăn chất_lượng,2,2
+xe chỗ giá tiền nv chở chỗ xe nhà_hàng điều_khoản,0,0
+xe chỗ giá tiền nv chở chỗ xe phục_vụ tổng_quát,2,0
+sushi đay ổn thức_ăn chất_lượng,2,2
+khu_vực thoải_mái cảm_giác ngoài_trời không_gian tổng_quát,2,2
+gọi 4 món 2 món thức_ăn,0,0
+đẹp thoáng_đãng tổng_quát,2,2
+dù_vậy đồ_ăn đa_dạng chất_lượng thức_ăn,2,2
+dù_vậy đồ_ăn đa_dạng chất_lượng thức_ăn chất_lượng,2,2
+rau bún fre thức_ăn,0,2
+không_gian sáng_sủa rộng_rãi sang_trọng không_gian tổng_quát,2,2
+cốt bánh ok thức_ăn chất_lượng,2,2
+quán nằm mặt đường đắc_địa tổng_quát,2,2
+bò mềm độ chín ổn béo thức_ăn chất_lượng,2,2
+món ngon sài thành nằm đường huỳnh thúc kháng ngã tư rẽ nguyễn_chí tổng_quát,1,2
+đồ_ăn ngon bàn thức_ăn chất_lượng,2,2
+salad ko chua nước_ngọt ok thức_ăn chất_lượng,1,2
+salad ko chua nước_ngọt ok đồ uống chất_lượng,2,2
+nhân_viên nhiệt_tình phục_vụ tổng_quát,2,1
+hồi chese lắm ghiền trà sữa hạnh_nhân 1 tuần 2 3 uống đồ uống chất_lượng,2,1
+viên chấm vàng giá tiền thức_ăn giá tiền,1,1
+thức_ăn chất_lượng,2,2
+chủ quán yêu mời đọc review cũ nhá phục_vụ tổng_quát,2,2
+la fleur 2b hai_bà_trưng tổng_quát,1,1
+mặt_bằng giá quán nhật hẻm lê_thánh tôn so_sánh món mắc nhà_hàng giá tiền,1,0
+không_gian sạch_sẽ thoáng mát không_gian tổng_quát,2,2
+gửi xe đoạn kia đc quán tiền gửi xe nhân_viên ko nhà_hàng điều_khoản,1,0
+gửi xe đoạn kia đc quán tiền gửi xe nhân_viên ko phục_vụ tổng_quát,0,0
+mã code giảm_giá nhân_viên phục_vụ nhiệt_tình phục_vụ tổng_quát,2,2
+bữa ghé wifi vô nhà_hàng điều_khoản,0,0
+quán sạch_sẽ mát_mẻ vui_vẻ không_gian tổng_quát,2,2
+quán sạch_sẽ mát_mẻ vui_vẻ phục_vụ tổng_quát,2,2
+topblade hơi dai sốt tiêu lạt bò lúc_lắc thấm vị ngon thức_ăn chất_lượng,2,2
+topblade hơi dai sốt tiêu lạt bò lúc_lắc thấm vị ngon thức_ăn,1,1
+nhân_viên nhanh_nhẹn thiện_cảm hơi lúng_túng khoản order có_lẽ đông nhân_viên quen phục_vụ tổng_quát,2,0
+nhân_viên nhanh_nhẹn thiện_cảm hơi lúng_túng khoản order có_lẽ đông nhân_viên quen nhà_hàng tổng_quát,1,0
+không_gian nhỏ_hẹp 45 chỗ gian tổng_quát,0,1
+nhân_viên ổn nhanh_nhẹn phục_vụ tổng_quát,2,2
+cháo sườn tạm đặc_sắc lắm thức_ăn chất_lượng,1,1
+giá_cả nhà_hàng giá tiền,2,2
+thit bò kêu bò bò vằm kĩ thức_ăn,2,0
+thit bò kêu bò bò vằm kĩ thức_ăn chất_lượng,2,0
+bufe tầm giá tiền giá tiền người_nhà hàng giá tiền,1,1
+cảm_quan bát bún ốc đầy_đặn sạch_sẽ vị_thanh thức_ăn,2,2
+cảm_quan bát bún ốc đầy_đặn sạch_sẽ vị_thanh thức_ăn chất_lượng,2,2
+olongteaking uống vị lạ lắm k quen lắm cười_ra_nước_mắt đồ uống chất_lượng,1,1
+không_gian quán lãng_mạn hợp cặp đôi không_gian tổng_quát,2,2
+decor nhẹ_nhàng pha chút cổ_điển dễ_thương không_gian tổng_quát,2,2
+món kèm ngon cũ nấm khoai_tây hầm thức_ăn,1,1
+món kèm ngon cũ nấm khoai_tây hầm thức_ăn chất_lượng,2,2
+1 vị đồ uống,2,0
+1 tokpoki miếng chả cá chả cá to lắm bắp_cải thức_ăn,2,1
+red wine bò cuộn nấm sốt vang hơi chua lắm thức_ăn,1,1
+red wine bò cuộn nấm sốt vang hơi chua lắm thức_ăn chất_lượng,1,1
+hôm uống olong sữa bự cũ uống trà đào ảnh tấm_tắc khen ngon đồ uống,2,1
+hôm uống olong sữa bự cũ uống trà đào ảnh tấm_tắc khen ngon đồ uống chất_lượng,2,2
+túm quán đi nhà_hàng tổng_quát,2,0
+steak nướng chín miếng dày mềm sốt ngon đậm_đà thức_ăn,2,2
+steak nướng chín miếng dày mềm sốt ngon đậm_đà thức_ăn chất_lượng,2,2
+bánh_quy dạng bánh gạo crack lạ tinh_bột vs năng_lượng haha cười_ra_nước_mắt thức_ăn chất_lượng,2,2
+bánh_quy dạng bánh gạo crack lạ tinh_bột vs năng_lượng haha cười_ra_nước_mắt thức_ăn,2,2
+đi hồi 1312 quán xây sửa đấy menu món dắt đi thử bò hokube update menu thức_ăn,2,1
+đồ_ăn ngon vừa_phải thức_ăn chất_lượng,2,2
+trứng muối bùi_mà kiểu trứng cắt k fai trứng vụn thức_ăn chất_lượng,2,1
+trứng muối bùi_mà kiểu trứng cắt k fai trứng vụn thức_ăn,2,2
+quán mặt_tiền to sửa_sang không_gian tổng_quát,2,2
+không_gian bí hơi ngợp cộng quán nướng cảm_giác lò lửa quán trang_bị quạt không_gian tổng_quát,0,0
+trân_châu đen ok dai_nhách trân_châu nhai trân_châu vui hehe đồ uống chất_lượng,2,2
+trân_châu đen ok dai_nhách trân_châu nhai trân_châu vui hehe đồ uống,2,2
+nhân_viên nhiệt_tình vui_vẻ tư_vấn tận_tình đồ_ăn nóng_hổi nhanh_chóng thức_ăn chất_lượng,2,2
+nhân_viên nhiệt_tình vui_vẻ tư_vấn tận_tình đồ_ăn nóng_hổi nhanh_chóng phục_vụ tổng_quát,2,2
+ghé quán nhà_hàng tổng_quát,2,2
+quán nằm góc đường 6 hướng đi chợ da sà tỉnh_lộ 10 tổng_quát,1,1
+mua tiếp nhà_hàng tổng_quát,2,2
+gọi cơm kèm thịt hun khói hình giá tiền nha thức_ăn giá tiền,1,1
+hải_sản ko tươi lắm đẹp_mắt thức_ăn chất_lượng,0,0
+hải_sản ko tươi lắm đẹp_mắt thức_ăn,2,2
+thata vọng nem nướng thức_ăn chất_lượng,0,0
+tệ hết_sức nhà_hàng tổng_quát,0,0
+món mỳ béo ngậy ngon chê đc thức_ăn chất_lượng,2,2
+uống khoẻ ngon cực đồ uống chất_lượng,2,2
+đợt vô quán vắng nhân_viên 3 nói_chuyện cười giỡn vô_cùng lớn_tiếng khó_chịu bàn kế vô nge tiếng ồn v phục_vụ tổng_quát,0,0
+đồ uống ngon đồ uống chất_lượng,2,2
+chi_nhánh hơi chật_chội view sát đường gian tổng_quát,0,0
+menu hơi xấu rối suy_tư nhà_hàng điều_khoản,0,0
+đi quan đông nguyễn_thái học ta đứng xếp_hàng tận xuống_đường quán bún cá chấm nhà_hàng tổng_quát,2,1
+đi quan đông nguyễn_thái học ta đứng xếp_hàng tận xuống_đường quán bún cá chấm tổng_quát,1,1
+k bàn trc đồ_ăn chậm cười_ra_nước_mắt phục_vụ tổng_quát,0,0
+chủ nhân_viên vui_vẻ phục_vụ tổng_quát,2,2
+salad tôm giá tiền tôm tôm dai ngon salad nêm vừa_miệng lắm thức_ăn,2,2
+salad tôm giá tiền tôm tôm dai ngon salad nêm vừa_miệng lắm thức_ăn chất_lượng,2,2
+salad tôm giá tiền tôm tôm dai ngon salad nêm vừa_miệng lắm thức_ăn giá tiền,1,1
+phá dạo dai nhai k nỗi cười_ra_nước_mắt thức_ăn chất_lượng,0,2
+cộng quán menu phong_phú đồ_ăn vặt thức_ăn,2,2
+giá giá tiền bát thức_ăn giá tiền,1,1
+giá_cả thiệt_hại giá tiền nhà_hàng giá tiền,1,1
+gắn_bó dunkin donut thử bánh nhà_hàng tổng_quát,2,1
+chính_xác trà sữa uống vui ngon cười_ra_nước_mắt đồ uống chất_lượng,1,2
+khoai_tây chiên giá tiền kèm món bò đỡ ngán thức_ăn giá tiền,1,1
+khoai_tây chiên giá tiền kèm món bò đỡ ngán thức_ăn,1,1
+bò ngon màu k đẹp_mắt lắm k màu salat vớt thức_ăn chất_lượng,2,2
+bò ngon màu k đẹp_mắt lắm k màu salat vớt thức_ăn,0,1
+trà cực thơm dịu dịu đồ uống chất_lượng,2,2
+không_gian quán xinh_xắn kiểu desert hàn không_gian tổng_quát,2,2
+salad pha chút rượu hơi đắng lạ_lạ nha thức_ăn chất_lượng,2,2
+lollipop giá_cả cửa_hàng tiện_lợi giá hợp_lý mua đồ hệ_thống circle k nhà_hàng giá tiền,2,1
+lollipop giá_cả cửa_hàng tiện_lợi giá hợp_lý mua đồ hệ_thống circle k nhà_hàng tổng_quát,2,2
+băng_chuyền ổn k rau cười nhẹ ngêu cá thịt heo rong biển phở mì màu rau tôm thức_ăn,2,1
+thề k bao h ghé quán nhà_hàng tổng_quát,0,0
+rainbow địa_điểm nằm ngã tư phố huế trần xuân soạn tổng_quát,1,1
+hôm đấy 5 mua thử mấy munchkin xinh_xinh thức_ăn,2,2
+đầu quán thèm trà sữa ghé nhà_hàng tổng_quát,2,2
+đồ_ăn tương_xứng giá tiền ngập mặt thức_ăn chất_lượng,2,2
+đồ_ăn tương_xứng giá tiền ngập mặt thức_ăn,2,2
+bánh su nhồi nhân thức_ăn,2,2
+nhân_viên dễ_thương hết_biết nhiệt_tình order lắm phục_vụ tổng_quát,2,2
+nhân_viên dễ_thương hết_biết nhiệt_tình order lắm nhà_hàng tổng_quát,2,2
+gọi phở bò tái viên 1 mía giá tiền thức_ăn giá tiền,1,1
+gọi phở bò tái viên 1 mía giá tiền thức_ăn chất_lượng,1,0
+trà bá_tước kem chese vị trà lạ đồ uống chất_lượng,2,2
+tiền hơi ngạc_nhiên 1 tô giá tiền tiền khăn ướt thức_ăn giá tiền,0,1
+tổng thiệt_hại giá tiền người_nhà hàng giá tiền,1,1
+ăn_ở xong chả chỗ nhà_hàng tổng_quát,2,2
+hqua order món đi order deli order giá tiền 2 đứa tốn bình_quân giá tiền giá nhà_hàng giá tiền,1,1
+hy_vọng khuyến_mãi đừng cắt bớt nguyên_liệu thức_ăn,0,1
+giá tiền 1 giá tiền chất_lượng món đem xứng_đáng nhà_hàng giá tiền,0,2
+giá tiền 1 giá tiền chất_lượng món đem xứng_đáng thức_ăn chất_lượng,2,2
+uống giải_nhiệt vô_cùng siêu_thanh mát chua tỉnh nhe đồ uống chất_lượng,2,2
+dịp gé quán nhà_hàng tổng_quát,2,1
+bàn lau dọn nhà_hàng điều_khoản,0,0
+khoai_tây chiên mặn giòn lắm thức_ăn chất_lượng,1,2
+view đẹp không_gian đẹp không_gian tổng_quát,2,2
+gọi oyster blade 30g 1 salad gril bef 2 ly vang đỏ thức_ăn,1,1
+đồ uống ổn ngon đồ uống chất_lượng,1,2
+hơi vị traia gắt át vị trà đồ uống chất_lượng,0,0
+bàn_ghế phối_hợp lý tổng_thể sang_trọng không_gian tổng_quát,2,2
+bàn_ghế phối_hợp lý tổng_thể sang_trọng nhà_hàng điều_khoản,2,2
+uống trà sữa alisan gong size trân_châu trắng đồ uống,1,1
+sò lông nướng mỡ hành tươi to nước_mắm chua_ngọt thức_ăn chất_lượng,2,1
+sò lông nướng mỡ hành tươi to nước_mắm chua_ngọt thức_ăn,2,2
+vốn thèm khó_tính cao_lầu tuyệt_cú mèo thức_ăn chất_lượng,2,2
+ly lài đắng_nghét chấp_nhận đồ uống chất_lượng,0,0
+2 xuất_sắc quán bò ngon nhà_hàng tổng_quát,2,1
+lúng_túng hơi lộn_xộn phục_vụ tổng_quát,1,1
+chi_nhánh đông ko ồn lắm nhe mỗi_tội đông đứng đợi mỏi chân í nhà_hàng tổng_quát,0,0
+giá hơi chất_lượng vừa_miệng uống thường_xuyên nhà_hàng giá tiền,0,0
+giá hơi chất_lượng vừa_miệng uống thường_xuyên nhà_hàng tổng_quát,2,2
+dịp đi ngang ủng_hộ típ nhà_hàng tổng_quát,1,2
+nhân_viên tuyệt_vời phục_vụ tổng_quát,2,2
+nhân_viên thân_thiện nhanh_nhẹn không_gian quán rộng_rãi sạch_sẽ đẹp phục_vụ tổng_quát,2,2
+nhân_viên thân_thiện nhanh_nhẹn không_gian quán rộng_rãi sạch_sẽ đẹp không_gian tổng_quát,2,2
+góc không_gian đẹp tiện chụp ảnh không_gian tổng_quát,2,2
+đi ăn_ở quán ưng_ý nhà_hàng tổng_quát,2,2
+gọi piza mấy vị bò dứa thức_ăn chất_lượng,2,0
+vị trà đậm_đà k vừa_phải vị kem muối ngon đồ uống chất_lượng,2,2
+vị trà đậm_đà k vừa_phải vị kem muối ngon thức_ăn chất_lượng,2,2
+đắt chất_lượng bình_thường nhà_hàng tổng_quát,1,1
+đắt chất_lượng bình_thường nhà_hàng giá tiền,0,0
+nc ngon chụp đẹp tám làm_việc học_tập cân_nhắc thức_ăn chất_lượng,2,2
+nc ngon chụp đẹp tám làm_việc học_tập cân_nhắc không_gian tổng_quát,1,2
+chân trâu dẻo lắm mềm nhão nhai ngon lắm đồ uống chất_lượng,2,2
+ngon bánh nóng_hổi giòn_rụm kem đi kèm chấm ngon thức_ăn chất_lượng,2,2
+ngon bánh nóng_hổi giòn_rụm kem đi kèm chấm ngon thức_ăn,2,1
+quán đông nhà_hàng tổng_quát,2,2
+nhân_viên phục_vụ nhanh_nhẹn thay vỉ thường_xuyên phục_vụ tổng_quát,2,2
+không_gian rộng đi lựa_chọn đúng_đắn không_gian tổng_quát,2,2
+mua bịch giá tiền thức_ăn,2,2
+mua bịch giá tiền thức_ăn giá tiền,1,1
+súp bí hơi lỏng vị béo lắm thức_ăn chất_lượng,1,1
+ngon nem nướng nước_chấm thức_ăn chất_lượng,2,2
+nhân_viên đôi_lúc hơi chậm một_chút phục_vụ tổng_quát,0,0
+không_gian rộng sắp_xếp gọn_gàng không_gian tổng_quát,1,2
+đồ uống trà alisan kem phô_mai size l giá tiền trân_châu đen giá tiền_đồ uống,1,1
+đồ uống trà alisan kem phô_mai size l giá tiền trân_châu đen giá tiền_đồ uống giá tiền,1,1
+ngon nè 2 tôm to thịt lắm thức_ăn,2,2
+ngon nè 2 tôm to thịt lắm thức_ăn chất_lượng,2,2
+máy_lạnh sạch nhà_hàng điều_khoản,2,2
+goky 1 k hề xa_lạ giới trà sữa nhà_hàng tổng_quát,2,1
+gọi cơm nị hạt cơm cà_ri hợp_thức,2,2
+bánh_mì bơ tỏi kèm steak hơi béo thức_ăn,1,2
+bánh_mì bơ tỏi kèm steak hơi béo thức_ăn chất_lượng,1,0
+hợp ngon thức_ăn chất_lượng,2,2
+quán hình_như mấy món bún_bò bún mắm đi đầu ok gọi chất_lượng đấy thức_ăn,2,2
+quán hình_như mấy món bún_bò bún mắm đi đầu ok gọi chất_lượng đấy thức_ăn chất_lượng,2,2
+menu bò giá hơi chát thức_ăn giá tiền,0,0
+nhân_viên nhiệt_tình quán đông chờ kêu phục_vụ tổng_quát,1,1
+thức_ăn ngon nêm nếm khẩu_phần thức_ăn,2,2
+thức_ăn ngon nêm nếm khẩu_phần thức_ăn chất_lượng,2,2
+kem_cây aeon rẻ ngon giá tiền 3 vị thức_ăn giá tiền,2,2
+kem_cây aeon rẻ ngon giá tiền 3 vị thức_ăn chất_lượng,2,2
+kem_cây aeon rẻ ngon giá tiền 3 vị thức_ăn,1,2
+chín 10 ngon chín đi thức_ăn chất_lượng,2,2
+đầu_bếp ấn yên_tâm sợ lạc nấu món ấn hehe thức_ăn chất_lượng,2,2
+giá_cả mặt_bằng chất_lượng ổn_định nhà_hàng giá tiền,1,2
+giá_cả mặt_bằng chất_lượng ổn_định nhà_hàng tổng_quát,2,2
+thiệt_hại giá tiền 2 người_nhà hàng giá tiền,1,1
+hài_lòng nhà_hàng tổng_quát,2,2
+kèm bún rau ngon thức_ăn chất_lượng,2,2
+kèm bún rau ngon thức_ăn,2,2
+houjicha late kem float houjicha xay siêu hoijicha morico matcha ngon thơm dã_man giá tiềnem ngon kem tươi phủ béo ngon thức_ăn chất_lượng,2,2
+houjicha late kem float houjicha xay siêu hoijicha morico matcha ngon thơm dã_man giá tiềnem ngon kem tươi phủ béo ngon thức_ăn,2,1
+bù không_gian lạ kiểu ghế_ngồi tám bạn_bè vui không_gian tổng_quát,2,2
+bù không_gian lạ kiểu ghế_ngồi tám bạn_bè vui nhà_hàng điều_khoản,2,2
+món ăn_theo chất_lượng món ngon thức_ăn chất_lượng,2,2
+món ăn_theo chất_lượng món ngon thức_ăn,2,2
+bọn gọi set combo 249 lẩu món thái cười nhẹ rẻ thức_ăn,2,2
+bọn gọi set combo 249 lẩu món thái cười nhẹ rẻ thức_ăn giá tiền,2,2
+giá_cả giá hơi chát 1 tí nhà_hàng giá tiền,0,0
+mê ẩm_thực thái vị chua_chua cay cay hợp_khẩu vị thức_ăn chất_lượng,2,2
+set đĩa salad lẻ ảnh gọi combo thức_ăn,1,0
+không_gian thái_độ phục_vụ bàn ổn duy_nhất chất_lượng đồ_ăn phục_vụ tổng_quát,2,0
+không_gian thái_độ phục_vụ bàn ổn duy_nhất chất_lượng đồ_ăn không_gian tổng_quát,2,0
+không_gian thái_độ phục_vụ bàn ổn duy_nhất chất_lượng đồ_ăn thức_ăn chất_lượng,1,1
+nướng nạc vai ướp đậm_đà lắm hình_như bảo ướp rượu nướng xong cảm_giác thấm vị thức_ăn,1,1
+nướng nạc vai ướp đậm_đà lắm hình_như bảo ướp rượu nướng xong cảm_giác thấm vị thức_ăn chất_lượng,0,2
+vị yogurt yogen fruz chua nhẹ ngon dẻo hơi mau tan chảy 10 phút nhâm_nhi chảy toàn đồ uống chất_lượng,2,2
+vị yogurt yogen fruz chua nhẹ ngon dẻo hơi mau tan chảy 10 phút nhâm_nhi chảy toàn đồ uống,0,1
+size m giá coa giá tiền kèm kem chese đồ uống giá tiền,1,1
+size m giá coa giá tiền kèm kem chese đồ uống,2,2
+uống việt quất ngon bá cháy mấy món ko bít khuyên mn ún thử ciệt quất đồ uống chất_lượng,2,2
+quán thích_hợp tụ_tập bạn_bè nhà_hàng tổng_quát,2,2
+chất_lượng phục_vụ phục_vụ tổng_quát,2,2
+cửa_hàng tiện_lợi nằm phô đinh tiên hoàng thẳng hòi gươm chỗ tầng 2 mát_mẻ ban_công hồ tổng_quát,1,1
+cửa_hàng tiện_lợi nằm phô đinh tiên hoàng thẳng hòi gươm chỗ tầng 2 mát_mẻ ban_công hồ không_gian tổng_quát,2,2
+nửa miếng ngán thức_ăn chất_lượng,0,0
+trà thơm uống hơi nhạt vị đồ uống chất_lượng,1,1
+khuyến_mãi nhánh đông chỗ khóc nhà_hàng điều_khoản,2,0
+bếp nấu_ăn hợp_khẩu vị nêm nếm ko đi độ tươi hải_sản thức_ăn chất_lượng,2,2
+vị cảm_giác hoie mặn nổi thức_ăn chất_lượng,1,0
+đồ uống đặc_sắc đồ uống chất_lượng,1,1
+giá tiền cốc trà sữa đồ uống chất_lượng,2,0
+giá tiền cốc trà sữa đồ uống giá tiền,1,1
+2 món uống ưng trà xoài thơm mùi xoài chua_chua thú_vị cười đểu đồ uống chất_lượng,2,2
+uống thử gongcha trà xanh đào kêu kem sữa trân_châu trắng tổng_cộng giá tiền_đồ uống giá tiền,1,1
+uống thử gongcha trà xanh đào kêu kem sữa trân_châu trắng tổng_cộng giá tiền_đồ uống,1,1
+canh rau giá tiền 1 bát chả chả ngon thức_ăn giá tiền,1,1
+canh rau giá tiền 1 bát chả chả ngon thức_ăn chất_lượng,0,0
+hài_lòng nhà_hàng tổng_quát,2,2
+cười nhe kêu bánh toast sữa hạnh_nhân toast bánh sữa thái thức_ăn,1,1
+khoai_tây nướng ngon chiên tàm_tạm thức_ăn chất_lượng,1,2
+quýt thơm qtqđ đường_khé cổ đồ uống chất_lượng,0,2
+chese ổn kphai ngon đồ uống chất_lượng,1,2
+k phomai thức_ăn,0,1
+đồ uống đa_dạng giá hợp_lí đồ uống,2,2
+đồ uống đa_dạng giá hợp_lí đồ uống giá tiền,2,2
+tình_hình ủng_hộ quán nhà_hàng tổng_quát,2,2
+cốc dâu nam mỹ vị cam đào chanh tươi có_lẽ vị trà xanh bối_rối đồ uống chất_lượng,1,1
+giá tiền tô cháo no trưa thức_ăn giá tiền,1,1
+giá tiền tô cháo no trưa thức_ăn,2,2
+toping bef video cảnh cắt thịt siêu ngon nè thức_ăn chất_lượng,2,2
+bufet xe fre nhà_hàng điều_khoản,2,2
+mùi trứng thơm lắm í thức_ăn chất_lượng,2,2
+bảo_vệ dễ_thương nhiệt_tình phục_vụ tổng_quát,2,2
+giá_cả sinh_viên bàn nhà_hàng giá tiền,2,2
+nhân_viên phục_vụ nhiệt_tình yêu phục_vụ tổng_quát,2,2
+cháo_lòng 1 thức_ăn chất_lượng,2,2
+shamrock không_gian quán vỉa_hè vỉa_hè chỗ hơi bí_bách liếc mắt không_gian tổng_quát,1,0
+quán tông k hợp lắm không_gian tổng_quát,1,1
+quán thử bánh lọc nha nước_mắm ngon thức_ăn chất_lượng,0,2
+combo nha thức_ăn,2,2
+không_gian rộng món phong_phú lắm không_gian tổng_quát,2,2
+không_gian rộng món phong_phú lắm thức_ăn,1,2
+cream brule mịn béo thơm thức_ăn,2,2
+cream brule mịn béo thơm thức_ăn chất_lượng,2,2
+hai ng dx đĩa cá ảnh tưởng k hề cá rán dòn chấm nc chấm cực ngon k dc hai ng hai bát chi ban hàng kêu lãng_phí thức_ăn,2,1
+hai ng dx đĩa cá ảnh tưởng k hề cá rán dòn chấm nc chấm cực ngon k dc hai ng hai bát chi ban hàng kêu lãng_phí thức_ăn chất_lượng,2,2
+giá_cả bình_thường choáng chai nước_khoáng aqua 50ml giá giá tiền chai nhà_hàng giá tiền,1,1
+giá_cả bình_thường choáng chai nước_khoáng aqua 50ml giá giá tiền chai đồ uống giá tiền,0,1
+trứng muối_ăn to xong mềm mịn khoái thức_ăn,2,2
+trứng muối_ăn to xong mềm mịn khoái thức_ăn chất_lượng,2,2
+khai_trương đợi 1 tiếng mua ly trà sữa 50 nhà_hàng điều_khoản,2,2
+hành vòng chiên 2 salad kia quái quên sốt thức_ăn,0,0
+nhân_viên nữ lễ_phép dễ_thương phục_vụ tổng_quát,2,2
+gọi chanh yu trân_châu trắng gọi sugar 0 chs đồ uống,1,1
+gọi chanh yu trân_châu trắng gọi sugar 0 chs đồ uống chất_lượng,1,1
+tầng mua xong đem tiện nhà_hàng tổng_quát,2,2
+nhân_viên thân_thiện nhanh_nhẹn lắm nha phục_vụ tổng_quát,2,2
+quán gỏi gà vịt nằm đầu hẻm 606 địa_chỉ đẹp 606 tổng_quát,1,2
+1 đĩa ghẹ 6 nha hàng tặng nhà_hàng điều_khoản,2,0
+cực lí_do nước_chấm ngon giá_cả mềm thức_ăn ổn thức_ăn chất_lượng,2,2
+cực lí_do nước_chấm ngon giá_cả mềm thức_ăn ổn nhà_hàng giá tiền,2,0
+gọi lẩu kim chi pha lẫn lẩu nấm thức_ăn,1,1
+chè kia giá tiền đồ_ăn vătj dao_động giá tiền thức_ăn giá tiền,1,1
+gọi khẩu_phần rẻ ngon toping blade kèm sốt rượu_vang tái thức_ăn giá tiền,2,0
+gọi khẩu_phần rẻ ngon toping blade kèm sốt rượu_vang tái thức_ăn chất_lượng,2,2
+chi_nhánh khai_trương không_gian hiện_đại sạch_sẽ mới_mẻ không_gian tổng_quát,2,2
+niềm_nở thân_thiện hôn gió phục_vụ tổng_quát,2,2
+lí_do công_ty lớp_học tổ_chức liên_hoan nhà_hàng tổng_quát,2,2
+ngon thức_ăn chất_lượng,2,2
+ngon thức_ăn chất_lượng,2,2
+giá_cả cũg chất lượg trug tâm tổng_quát,2,1
+giá_cả cũg chất lượg trug tâm nhà_hàng giá tiền,2,1
+trà hoa_hồng machiato đen đá nx uống ngon bt hồng trà milk foam đồ uống chất_lượng,1,2
+không_gian hơi ồn_ào gửi xe đi nhà_hàng điều_khoản,0,0
+không_gian hơi ồn_ào gửi xe đi gian tổng_quát,0,0
+ko hợp_khẩu vị lắm thức_ăn chất_lượng,1,1
+mấy a xe nhiệt_tình dễ_thương phục_vụ tổng_quát,2,2
+tổng_quan món ngon thịt bò mềm vị salad sốt béo kèm thịt bò ngon cá ba_sa mực chiên giòn sốt chấm ngon lắm thức_ăn,1,1
+tổng_quan món ngon thịt bò mềm vị salad sốt béo kèm thịt bò ngon cá ba_sa mực chiên giòn sốt chấm ngon lắm thức_ăn chất_lượng,2,2
+gọi món chút bù món nóng_hổi thức_ăn chất_lượng,2,0
+gọi món chút bù món nóng_hổi phục_vụ tổng_quát,0,0
+góc đường tổng_quát,2,2
+quán nằm cạnh toà_soạn báo tuổi_trẻ đường trần phú tổng_quát,1,2
+cải gan thịt và1 miếng bong_bóng cá thức_ăn,2,1
+nhân đa_phần nấm_hương cắt lát lòng_đỏ trứng muối thịt cắt thức_ăn,0,2
+ngon lắm cx chấp_nhận đc nhà_hàng tổng_quát,2,1
+không_gian quán sang_trọng đẹp lắm không_gian tổng_quát,2,2
+đi bufet nhìu rùi dìn ký nhà_hàng tổng_quát,2,2
+sốt ngon ngậy ngậy mặn mặn thức_ăn chất_lượng,2,2
+ngon thức_ăn chất_lượng,2,2
+uống ly trà sữa trân_châu đen puding trà sữa thơm vị trà đặc_trưng xen_lẫn chỗ trân_châu dai dai ngon ngon puding ngon lắm yêu đồ uống,1,1
+uống ly trà sữa trân_châu đen puding trà sữa thơm vị trà đặc_trưng xen_lẫn chỗ trân_châu dai dai ngon ngon puding ngon lắm yêu đồ uống chất_lượng,2,2
+dịch_vụ đi đầu nhân_viên đông phục_vụ chào to rõ_ràng phục_vụ tổng_quát,2,2
+không_gian vỉa_hè chà bá rộng_rãi thoáng mát không_gian tổng_quát,2,2
+nhà_hàng tổng_quát,2,2
+menu đa_dạng món đồ uống món bánh_tráng miệng thức_ăn,2,2
+menu đa_dạng món đồ uống món bánh_tráng miệng đồ uống,2,2
+hnay uống thử trà đào ôi trời_ơi dở kinh_khủng khóc đắng_nghét uống lắm đồ uống chất_lượng,0,0
+khu_vực trung_tâm đối_diện bệnh_viện tổng_quát,1,1
+lẩu cực_kì chán vị nhạt thức_ăn chất_lượng,0,0
+nhà_hàng ấm_cúng máy_lạnh sợ nóng mài sắc phong_cách ấn_độ cảm_tưởng mùa hè nóng_nảy lắm không_gian tổng_quát,1,2
+nhà_hàng ấm_cúng máy_lạnh sợ nóng mài sắc phong_cách ấn_độ cảm_tưởng mùa hè nóng_nảy lắm nhà_hàng điều_khoản,1,2
+kêu giao giao nhg k tệ ẩu kiểu k ktra đơn hàng_phục_vụ tổng_quát,0,0
+trân_châu gọi double trân_châu đen đồ uống,1,1
+thông_báo quán hình_như đổi địa_chỉ nha báo 3 tương_tác lo quán địa_chỉ 192 trường_sa p13 phú_nhuận tổng_quát,1,1
+đồ_ăn càng_ngày_càng dở thức_ăn chất_lượng,0,0
+món trình_bày đẹp thẻ thành_viên giảm_giá thức_ăn,2,2
+món trình_bày đẹp thẻ thành_viên giảm_giá nhà_hàng điều_khoản,1,2
+quán đông đồ uống đa_dạng nhân_viên nhiệt_tình nhà_hàng tổng_quát,2,2
+quán đông đồ uống đa_dạng nhân_viên nhiệt_tình đồ uống,2,2
+quán đông đồ uống đa_dạng nhân_viên nhiệt_tình phục_vụ tổng_quát,2,2
+đi nhân_viên nhỏ_nhắn nhiệt_tình lắm phục_vụ tổng_quát,2,0
+mấy ghế_ngồi 12 c chủ_yếu vỉa_hè không_gian tổng_quát,1,1
+thức uống đa_dạng ngon pha_chế k nhạt đồ uống,2,2
+thức uống đa_dạng ngon pha_chế k nhạt đồ uống chất_lượng,2,2
+thất_vọng món menu mấy cá_lăng thức_ăn,0,0
+phục_vụ nhân_viên thân_thiện nhiệt_tình xe dắt phục_vụ tổng_quát,2,2
+k mặn thức_ăn chất_lượng,0,2
+1 suất cơm to no căng a nhà_hàng tổng_quát,2,2
+quán mỳ cay thất_vọng thức_ăn chất_lượng,0,0
+trà thơm mùi nc vải chua_chua dịu dịu đồ uống chất_lượng,2,2
+2 đứng đối_diện k tự_nhiên cố_tình 2 đổi chỗ phục_vụ tổng_quát,0,0
+sườn bò mỏng thịt hơi khô bù thơm lắm sốt bq vừa_miệng thức_ăn,0,2
+sườn bò mỏng thịt hơi khô bù thơm lắm sốt bq vừa_miệng thức_ăn chất_lượng,1,2
+chán nhà_hàng tổng_quát,0,0
+món gà xương hành baro gà xương sốt cay món mì cơm kèm gà ổn thức_ăn,2,1
+món gà xương hành baro gà xương sốt cay món mì cơm kèm gà ổn thức_ăn chất_lượng,2,2
+không_gian quán đẹp ánh_sáng thoải_mái không_gian tổng_quát,2,2
+mỳ ổn thức_ăn chất_lượng,2,2
+piza bò tôm ngon phủ 1 lớp chese mặt piza thơm thơm béo béo ok nè thức_ăn,2,1
+piza bò tôm ngon phủ 1 lớp chese mặt piza thơm thơm béo béo ok nè thức_ăn chất_lượng,2,2
+vỏ bánh dai dai nhân mát lạnh thức_ăn chất_lượng,2,2
+trăm king bq xứng_đáng thất_vọng nhà_hàng tổng_quát,0,0
+review xấu thái_độ phục_vụ hôm_nay phục_vụ tổng_quát,0,0
+không_gian âm_nhạc nhân_viên tuyệt không_gian tổng_quát,2,2
+không_gian âm_nhạc nhân_viên tuyệt phục_vụ tổng_quát,2,2
+không_gian âm_nhạc nhân_viên tuyệt nhà_hàng điều_khoản,2,2
+phục_vụ dễ_thương mấy nữ thân_thiện cười phục_vụ tổng_quát,2,2
+phục_vụ nhanh_nhẹn nhiệt_tình phục_vụ tổng_quát,2,2
+mì rau phá lấu ngon chấm nước_mắm cay cay xuất_sắc thức_ăn,2,1
+mì rau phá lấu ngon chấm nước_mắm cay cay xuất_sắc thức_ăn chất_lượng,2,2
+quán nằm đường hồ_tùng_mậu đối_diện bitexco đi tổng_quát,2,1
+ánh_sáng nội_thất vẻ sang_trọng cung_điện không_gian tổng_quát,2,2
+gà aeon ngon giá_cả hợp_lý gà rán thức_ăn giá tiền,2,2
+gà aeon ngon giá_cả hợp_lý gà rán thức_ăn chất_lượng,2,2
+phục_vụ đùa_giỡn om_sòm ăn_hàng quán ăn_ở cười giỡn ha_hả phục_vụ ko phục_vụ tổng_quát,0,2
+vô_cùng ấm_ức thất_vọng đen đá đầu nhà_hàng tổng_quát,0,2
+gọi 1 trà xanh kem chese ô long kem chée chân trâu trắng đồ uống,1,1
+bánh mặn thức_ăn,2,2
+nhân_viên phục_vụ nhanh_nhẹn đồ_ăn mặc_dù hôm đi quán đông ha_ha nhà_hàng tổng_quát,1,2
+nhân_viên phục_vụ nhanh_nhẹn đồ_ăn mặc_dù hôm đi quán đông ha_ha phục_vụ tổng_quát,2,2
+bò gà bê cá_tôm hải_sản đầy_đủ chế_biến ngon thức_ăn,2,2
+bò gà bê cá_tôm hải_sản đầy_đủ chế_biến ngon thức_ăn chất_lượng,2,2
+giá_cả rẻ chấp_nhận nhà_hàng giá tiền,1,1
+đồ_ăn chất_lượng tuyệt đợi mấy đồ_ăn nửa tiếng phục_vụ tổng_quát,0,2
+đồ_ăn chất_lượng tuyệt đợi mấy đồ_ăn nửa tiếng thức_ăn chất_lượng,2,2
+3 9 1 soda chanh đồ uống,1,1
+la ngon nha ng thử nhà_hàng tổng_quát,2,2
+ngon hồi xưa thức_ăn chất_lượng,2,2
+thịt nhạt màu khô bã mùi tươi ngon thức_ăn chất_lượng,0,2
+thông_minh tranh tô màu bàn nhà_hàng tổng_quát,2,2
+bạch tuột cay phô_mai cay phô_mai bánh gạo lạ_lạ thức_ăn,1,2
+bạch tuột cay phô_mai cay phô_mai bánh gạo lạ_lạ thức_ăn chất_lượng,1,2
+trà nc trái_cây đồ uống,1,1
+thịt ếch mềm ngon lắm thức_ăn chất_lượng,2,2
+hẳn lote kfc nhà_hàng tổng_quát,2,1
+rau_sống chấm sốt ớt cay cay chuẩn thức_ăn,2,2
+rau_sống chấm sốt ớt cay cay chuẩn thức_ăn chất_lượng,2,2
+nhà_hàng rộng_rãi thoáng mát phòng tổ_chức tiệc_tùng sinh_nhật không_gian tổng_quát,2,2
+nhà_hàng rộng_rãi thoáng mát phòng tổ_chức tiệc_tùng sinh_nhật nhà_hàng điều_khoản,2,2
+circle k đinh tiên hoàng tổng_quát,1,1
+bufet gọi món nhà_hàng tổng_quát,1,2
+quán mùi dầu_mỡ mấy quán xung_quanh hơi ngấy không_gian tổng_quát,0,0
+không_gian quán rộng_rãi đầy_đủ tiện_nghi wifi máy_lạnh nhà_vệ_sinh không_gian tổng_quát,2,2
+không_gian quán rộng_rãi đầy_đủ tiện_nghi wifi máy_lạnh nhà_vệ_sinh nhà_hàng điều_khoản,2,0
+lớp kem béo uống trà vị nhạt đồ uống chất_lượng,0,0
+olong sữa đồ uống chất_lượng,2,2
+olong sữa đồ uống,1,2
+đồ_ăn ổn ngon tệ thức_ăn chất_lượng,2,2
+bánh bánh kẻng í kiểu bánh_bèo í nhg kfai bánh_bèo chấm nước_chấm quẩy bánh_bèo cười_ra_nước_mắt thức_ăn,1,2
+quán nằm mặt đường phố huế đoạn giao tô hiến thành tổng_quát,1,2
+trừ nv bàn món dư đĩa đĩa thường_xuyên rớt bàn choáng chỗ đứng kế cảm_giác tự_nhiên phục_vụ tổng_quát,0,0
+ngon lắm nhà_hàng tổng_quát,2,2
+chất_lượng miễn chê nhà_hàng tổng_quát,2,2
+chỗ thoải_mái ghép nhà_hàng điều_khoản,2,0
+chicken nuget 10 miếng giá tiền thức_ăn giá tiền,1,1
+chicken nuget 10 miếng giá tiền thức_ăn,1,1
+menu chủ_yếu bef steak mấy món đa_dạng lắm thức_ăn,1,2
+phục_vụ lắm đông xong mấy dọn sạch_sẽ phục_vụ tổng_quát,0,2
+lẩu bình_thường gọi hotpot story thua mấy bậc thức_ăn chất_lượng,1,1
+ta bữa_nay fre 4 voucher giá tiền ăn_uống thả ga giá tiền nhà_hàng giá tiền,2,1
+chờ oder 1 đường bưng 1 nẻo phục_vụ tổng_quát,0,0
+đồ_ăn bàn ngon giá_cả hợp_lí thức_ăn chất_lượng,2,2
+đồ_ăn bàn ngon giá_cả hợp_lí thức_ăn giá tiền,2,2
+món vừa_miệng hôm đi cua ghẹ gà_ác hầm thuốc_bắc cháo thào thức_ăn chất_lượng,2,2
+món vừa_miệng hôm đi cua ghẹ gà_ác hầm thuốc_bắc cháo thào thức_ăn,1,2
+tươi dừa dứa giá giá tiền ma tuyệt ngon đồ uống giá tiền,1,1
+tươi dừa dứa giá giá tiền ma tuyệt ngon đồ uống chất_lượng,2,2
+nước_mặn mặn cạn nhân đổ giúp phục_vụ tổng_quát,2,2
+bánh lan trứng muối hơi khô cứng đồ uống ổn đồ uống chất_lượng,1,0
+bánh lan trứng muối hơi khô cứng đồ uống ổn thức_ăn chất_lượng,0,2
+ghé lẩu 1 mua sushi nhà_ăn thức_ăn,1,1
+không_gian lắm không_gian tổng_quát,1,1
+ngạc_nhiên quán ngon review fody nhà_hàng tổng_quát,2,2
+bảo hơi bình_thường đồ uống chất_lượng,1,1
+bingsu ổn giá tiền 1 đồ uống giá tiền,1,1
+bingsu ổn giá tiền 1 đồ uống chất_lượng,1,2
+khoai_tây chiên giá tiền thui lắm cọng giòn vàng ươm ưng khoai_tây thức_ăn,2,1
+khoai_tây chiên giá tiền thui lắm cọng giòn vàng ươm ưng khoai_tây thức_ăn giá tiền,2,1
+chất_lượng uống ngon phục_vụ dễ_thương trang_trí đẹp thích_hợp hẹn_hò học_hành đồ uống chất_lượng,2,2
+chất_lượng uống ngon phục_vụ dễ_thương trang_trí đẹp thích_hợp hẹn_hò học_hành phục_vụ tổng_quát,2,2
+chất_lượng uống ngon phục_vụ dễ_thương trang_trí đẹp thích_hợp hẹn_hò học_hành không_gian tổng_quát,2,2
+nhân socola ngập_ngụa trân_châu mềm_dẻo bánh sandwich phủ 1 lớp bột socola thức_ăn,2,1
+nhân_viên ngoan_ngoãn đồ hơi phục_vụ tổng_quát,1,2
+phô_mai nhìu 2 3 bắp đỡ thèm thức_ăn,2,2
+hôm lễ đợi 1 bàn phục_vụ tổng_quát,1,2
+món bạch_tuộc sống trộn wasabi lạ_miệng thức_ăn chất_lượng,2,2
+bọn gọi set trà chiều đôi trà cam quế trà hoa_cúc vị ngon thơm vị trà hoa_cúc nhẹ đồ uống,1,1
+bọn gọi set trà chiều đôi trà cam quế trà hoa_cúc vị ngon thơm vị trà hoa_cúc nhẹ đồ uống chất_lượng,2,2
+k đường 50 nha uống đầu ngố ngố 70 hơi vị đắng đắng trà đồ uống,1,1
+k đường 50 nha uống đầu ngố ngố 70 hơi vị đắng đắng trà đồ uống chất_lượng,1,1
+nv khó_chịu hẳn hơi ngại đi ghế chờ ko đứng lát 2 nam_vô phục_vụ tổng_quát,0,0
+uống 2 trà sữa trân_châu trà sữa trà xanh milkfoam đồ uống,1,1
+trung_tâm thành_phố đồ_ăn thức uống rẻ đa_dạng view lầu ngắm đường_phố máy_lạnh wifi fre tổng_quát,1,2
+trung_tâm thành_phố đồ_ăn thức uống rẻ đa_dạng view lầu ngắm đường_phố máy_lạnh wifi fre nhà_hàng điều_khoản,1,2
+trung_tâm thành_phố đồ_ăn thức uống rẻ đa_dạng view lầu ngắm đường_phố máy_lạnh wifi fre nhà_hàng giá tiền,2,2
+pasta steak mushrom sốt kem thịt bò mềm k vị sốt kem áp nấm k thơm sốt kem đậm_đà thích_hợp mấy cảm_giác béo ngậy vừa_miệng gọi sốt kem vs thịt hun khói hải_sản hợ thức_ăn,1,1
+pasta steak mushrom sốt kem thịt bò mềm k vị sốt kem áp nấm k thơm sốt kem đậm_đà thích_hợp mấy cảm_giác béo ngậy vừa_miệng gọi sốt kem vs thịt hun khói hải_sản hợ thức_ăn chất_lượng,1,2
+chi_nhánh chỗ đi chỗ gửi xe cửa mặt_tiền góc 2 đường tổng_quát,2,0
+chi_nhánh chỗ đi chỗ gửi xe cửa mặt_tiền góc 2 đường nhà_hàng điều_khoản,2,0
+nhân_viên lễ_phép chuyên_nghiệp k phàn_nàn phục_vụ tổng_quát,2,2
+hình_như earl grey hợp khẩu_vị order trà sữa earl grey cảm_giác chẳng t t đồ uống chất_lượng,1,2
+menu cực món mì xong no dịp thử thức_ăn,2,2
+quán nằm mặt_phố triệu rẽ tô hiến thành đi ngược chiều tổng_quát,1,2
+phục_vụ ấn_tượng order siêu giỏi niềm_nở vs lanh lanh chân lắm phục_vụ tổng_quát,2,0
+nam phục_vụ bưng 2p mì cay bàn hơi khó_chịu ra_vẻ phục_vụ tổng_quát,0,0
+mặt_bằng huế giá_như hơi đắt 1 tẹo thức_ăn giá tiền,0,0
+bún_bò hôi gân dai_nhách hôi mù thức_ăn chất_lượng,0,1
+quán hơi caia ko gian tổng_quát,0,0
+quán hơi caia ko gian không_gian tổng_quát,2,0
+bingsu bingsu seol hwa thức_ăn chất_lượng,2,2
+gà sốt gia_vị đậm_đà bình_thường có_lẽ hợp lạt gà mật_ong đậm vị thức_ăn chất_lượng,2,1
+đồ ngon cà_phê ngon không_gian dễ_chịu thức_ăn chất_lượng,2,2
+đồ ngon cà_phê ngon không_gian dễ_chịu đồ uống chất_lượng,2,2
+đồ ngon cà_phê ngon không_gian dễ_chịu không_gian tổng_quát,2,2
+coca sprite panta đồ uống,1,1
+set hai no căng bụng thức_ăn,2,2
+món ếch đặc_trưng quán ngon thức_ăn chất_lượng,2,2
+giá tiền uống matcha ngon đồ uống giá tiền,1,1
+giá tiền uống matcha ngon đồ uống chất_lượng,2,2
+pxl đối_diện vus tổng_quát,2,1
+soda chanh đường đường đá chanh thoải_mái nha mấy nhân_viên dễ_chịu lắm đồ uống,2,2
+soda chanh đường đường đá chanh thoải_mái nha mấy nhân_viên dễ_chịu lắm phục_vụ tổng_quát,2,2
+nhân_viên phục_vụ tệ gọi mấy ko đứa thèm phục_vụ tổng_quát,0,2
+thưởng_thức đóng_cửa đồ tráng_miệng dọn đuổi đi 9h phục_vụ tổng_quát,0,0
+trà sữa hk thử gọi uống bình_thường bù khoản trân_châu tím ngon mùi khoai_môn đồ uống chất_lượng,2,1
+kem tan nhâm_nhi nói_chuyện thức_ăn chất_lượng,2,0
+trà hơi đắng nhẹ dễ_chịu đồ uống chất_lượng,2,2
+chu mạ ôi chè rẻ quá_trời đất rẻ giá tiền đắt giá tiền thức_ăn giá tiền,2,0
+quán nằm hơi khuất đbp giao cmt8 đường lê_ngô cát tổng_quát,0,1
+quán nằm syrena xuân diệu kiểu khu nước_ngoài sinh_sống cực_kì lắm nước_ngoài mua_sắm ăn_uống tổng_quát,2,2
+uống gong đường hồ_tùng_mậu gửi xe bất_tiện chỗ gửi giá giá tiền nhà_hàng điều_khoản,0,0
+bánh_canh ngon kém thức_ăn chất_lượng,2,2
+gọ 1 set lunch cơm cuộn sushi 1 tô salad rong biển chay thức_ăn,1,2
+cốt bánh k vị khóc thức_ăn chất_lượng,0,0
+nhân_viên nhanh_nhẹn dọn bàn sạch_sẽ phục_vụ tổng_quát,2,2
+tụi ăn_không hợp_khẩu vị ngán nửa dĩa buồn dĩa nhiều_nhặn buồn_buồn ghê thức_ăn chất_lượng,0,0
+tụi ăn_không hợp_khẩu vị ngán nửa dĩa buồn dĩa nhiều_nhặn buồn_buồn ghê thức_ăn,1,0
+cơm_chiên duong chau cháo súp súp hãi sãn bò kho gõi ngó sen bánh phông tôm salad nga thức_ăn,1,1
+uống 70 đường hơi nhạt đồ uống,1,1
+uống 70 đường hơi nhạt đồ uống chất_lượng,0,0
+gói mì chả bn cảm_giác k đầy_đặn thức_ăn,0,1
+mắm mít mắm_nêm ngon cay quá_trời thức_ăn chất_lượng,2,2
+siêu bực nhân_viên nhầm oder giận_dữ phục_vụ tổng_quát,0,0
+đi 9 ăn_đủ món ngô chiên sụn gà rang muối ếch rang muối ếch chiên bơ lẩu kim chi bò mỹ ngon_miệng thức_ăn,1,1
+đi 9 ăn_đủ món ngô chiên sụn gà rang muối ếch rang muối ếch chiên bơ lẩu kim chi bò mỹ ngon_miệng thức_ăn chất_lượng,2,2
+xưa ko bánh toast bingsu lắm í thức_ăn chất_lượng,0,1
+đồ_ăn ko xuất_sắc thức_ăn chất_lượng,1,1
+món đa_dạng ngon_miệng giá chấp_nhận đc thức_ăn,2,2
+món đa_dạng ngon_miệng giá chấp_nhận đc thức_ăn chất_lượng,2,2
+món đa_dạng ngon_miệng giá chấp_nhận đc thức_ăn giá tiền,1,2
+món gà món ngon vừa_miệng khẩu_vị vị món gà có_lẽ hơi thiên vị bình_thường một_chút xíu thức_ăn chất_lượng,2,1
+ly trà sữa_panda tạm ổn may_mắn toping ngon đồ uống chất_lượng,2,2
+ly trà sữa_panda tạm ổn may_mắn toping ngon đồ uống,2,1
+quán uống ok nhg k train nhân_viên tồn_tại phục_vụ tổng_quát,0,2
+quán uống ok nhg k train nhân_viên tồn_tại đồ uống chất_lượng,2,1
+thủ_tục order nhanh_nhẹn vòng 30phut giao tận khách_sạn phục_vụ tổng_quát,2,2
+đen đá tổ_chức chương_trình khuyến_mãi quản_lí khách_hàng ghé thoi nhà_hàng tổng_quát,0,2
+đen đá tổ_chức chương_trình khuyến_mãi quản_lí khách_hàng ghé thoi nhà_hàng điều_khoản,2,2
+quán bar trang_trí đơn_giản chất quả_đất thích_hợp khu_vực leo núi nhân_tạo x rock climbing không_gian tổng_quát,2,2
+quán bar trang_trí đơn_giản chất quả_đất thích_hợp khu_vực leo núi nhân_tạo x rock climbing nhà_hàng điều_khoản,2,2
+không_gian món tuyệt_vời lý_tưởng không_gian tổng_quát,2,2
+không_gian món tuyệt_vời lý_tưởng thức_ăn chất_lượng,2,2
+không_gian món tuyệt_vời lý_tưởng nhà_hàng tổng_quát,2,2
+chiều đi vs quán đông nhà_hàng tổng_quát,1,1
+chà gà hợp cừ kỳ kỳ mặc_dù chà ngon bánh đêm khô queo thức_ăn chất_lượng,0,2
+chà gà hợp cừ kỳ kỳ mặc_dù chà ngon bánh đêm khô queo thức_ăn,0,1
+món phục_vụ bưng dĩa hết_hồn bự bực_bội thức_ăn,2,2
+cá mềm tẩm ướp gưng nghệ đậm_đà màu vàng tươi_đẹp mắt lắm haha thức_ăn chất_lượng,2,2
+cá mềm tẩm ướp gưng nghệ đậm_đà màu vàng tươi_đẹp mắt lắm haha thức_ăn,2,2
+đi cao_điểm chờ phục_vụ tổng_quát,0,2
+cháo ếch cháo vị lá dứa thơm rưới sốt nồi ếch nóng_hổi kèm thịt ếch mềm mềm thức_ăn chất_lượng,2,2
+cháo ếch cháo vị lá dứa thơm rưới sốt nồi ếch nóng_hổi kèm thịt ếch mềm mềm thức_ăn,2,2
+size gongcha uống ná thở uống no cơm cụng đồ uống,2,2
+1 nhà_vệ_sinh tầng giá tiềnhông gian tổng_quát,1,2
+phục_vụ niềm_nở chu_đáo 1 phục_vụ chuyên 1 bàn gọi món phục_vụ tổng_quát,2,2
+quạt điều_hoà mát nhà_hàng điều_khoản,2,0
+cherries gà ngon sốt phô_mai cay ok miếng dính miếng ko ko lắm thức_ăn,0,2
+cherries gà ngon sốt phô_mai cay ok miếng dính miếng ko ko lắm thức_ăn chất_lượng,2,2
+1 tụ_tập bạn_bè ưng bụng hôn nhà_hàng tổng_quát,2,2
+nhà_vệ_sinh nằm ban_công sạch_sẽ nhà_hàng điều_khoản,2,2
+món bày đẹp_mắt sạch_sẽ sang_trọng thức_ăn,2,2
+cua_thịt chắc_nịch kiểu tươi thơm lắm thức_ăn,2,2
+cua_thịt chắc_nịch kiểu tươi thơm lắm thức_ăn chất_lượng,2,2
+quán trang_trí dễ_thương trang_nhã sạch_sẽ không_gian tổng_quát,2,2
+đợi tầm 15p hên phục_vụ tổng_quát,2,0
+yogurt xay toping kèm đồ uống chất_lượng,2,2
+yogurt xay toping kèm đồ uống,2,1
+hoá_đơn giá tiền tích 1 nhà_hàng điều_khoản,1,2
+vô_tình kiếm 1 quán cafe cực ưng_ý nhà_hàng tổng_quát,2,2
+không_gian quán đèn vàng cảm_giác ấm_cúng nhân_viên siêu dễ_thương nhiệt_tình không_gian tổng_quát,2,2
+không_gian quán đèn vàng cảm_giác ấm_cúng nhân_viên siêu dễ_thương nhiệt_tình phục_vụ tổng_quát,2,2
+gọi steak lover giá tiềng giá tiền khoai_tây đút lò tặng kèm 3 sauce thử sốt vang đỏ sốt nấm sốt trứng thức_ăn,1,1
+gọi steak lover giá tiềng giá tiền khoai_tây đút lò tặng kèm 3 sauce thử sốt vang đỏ sốt nấm sốt trứng thức_ăn giá tiền,1,1
+đồ_ăn ngon không_gian thoáng mát rộng_rãi thức_ăn chất_lượng,2,2
+đồ_ăn ngon không_gian thoáng mát rộng_rãi không_gian tổng_quát,2,2
+quán đông_đúc đa_phần sinh_viên nhà_hàng tổng_quát,2,2
+chờ quản_lý mặt bậm_trợn xăm trổ tô mì nở tô phục_vụ tổng_quát,1,2
+chờ quản_lý mặt bậm_trợn xăm trổ tô mì nở tô thức_ăn,0,2
+giá hợp_lý tầm giá tiền giá tiền nhà_hàng giá tiền,2,2
+nhân_viên phục_vụ tổng_quát,0,2
+bát 2 đỡ cay ngon thức_ăn chất_lượng,2,2
+món chê thức_ăn chất_lượng,2,2
+phục_vụ phục_vụ 1 bàn thường_xuyên châm uống thường_xuyên thay đĩa món chia sẵn chia 10ng 10 phục_vụ tổng_quát,2,0
+âm_thanh khung_cảnh hỗn_loạn khủng_khiếp nhà_hàng điều_khoản,0,0
+chén nấm_rơm xào tỏi đc 10gr giá giá tiền thức_ăn,1,1
+chén nấm_rơm xào tỏi đc 10gr giá giá tiền thức_ăn giá tiền,0,1
+bánh toast ngon ngon nhỏ_xíu giá mắc tương_xứng lắm thức_ăn chất_lượng,2,2
+bánh toast ngon ngon nhỏ_xíu giá mắc tương_xứng lắm thức_ăn,0,0
+bánh toast ngon ngon nhỏ_xíu giá mắc tương_xứng lắm thức_ăn giá tiền,0,0
+quán chuyên đồ_ăn huế đương_nhiên bún_bò huế bánh bánh_bèo bánh_đúc món hến thức_ăn,2,2
+hôm_nay dịp ghé quán mì cay ngon quán cập_nhật món giá giá tiền r nha thức_ăn giá tiền,1,1
+hôm_nay dịp ghé quán mì cay ngon quán cập_nhật món giá giá tiền r nha thức_ăn chất_lượng,2,2
+hôm_nay dịp ghé quán mì cay ngon quán cập_nhật món giá giá tiền r nha thức_ăn,2,2
+sốt tartar cực ngon meat bal spagheti lasagna hơi mặn món món âu mặn thức_ăn chất_lượng,1,1
+sốt tartar cực ngon meat bal spagheti lasagna hơi mặn món món âu mặn thức_ăn,1,1
+hơi lạ phết tưởng k hợp hợp ghê thức_ăn chất_lượng,2,0
+đổi món canh kim chi 15phút đợi phục_vụ tổng_quát,0,0
+bánh nhân sầu_riêng bánh mềm k lắm nóng ngon thức_ăn chất_lượng,1,2
+3 tầng thoải_mái lựa_chọn tầng 2 đẹp không_gian tổng_quát,2,2
+chỗ xe nv đùn_đẩy đi chỗ chỗ kia hơi phiền_phức nhà_hàng điều_khoản,0,0
+chỗ xe nv đùn_đẩy đi chỗ chỗ kia hơi phiền_phức phục_vụ tổng_quát,0,0
+phô_mai nướng siêu béo ngon thức_ăn chất_lượng,2,2
+mấy món vặt mực khoanh bạch_tuộc hải_sản tôm khoanh hơi bột bột ngon lắm thức_ăn,1,1
+mấy món vặt mực khoanh bạch_tuộc hải_sản tôm khoanh hơi bột bột ngon lắm thức_ăn chất_lượng,1,2
+phong_cảnh đẹp phục_vụ chu_đáo không_gian tổng_quát,2,2
+phong_cảnh đẹp phục_vụ chu_đáo phục_vụ tổng_quát,2,2
+thức_ăn ngon hợp_khẩu vị thức_ăn chất_lượng,2,2
+cuồng hana bình_thường đi chi_nhánh điện_biên_phủ hài_lòng bàn thất_vọng nhà_hàng tổng_quát,0,0
+bù món tráng_miệng tuyệt vơig thức_ăn chất_lượng,2,2
+lẩu chua_cay ngon nồi lẩu coi lắm hoài thức_ăn,2,1
+lẩu chua_cay ngon nồi lẩu coi lắm hoài thức_ăn chất_lượng,2,2
+bình_thường đi một_mình tiết_kiệm kêu rẻ top blade 150g giá tiền thui sauce giá tiền khoai giá tiền no top blade ngon no rùi nha mấy j kêu 30g thức_ăn giá tiền,1,1
+bình_thường đi một_mình tiết_kiệm kêu rẻ top blade 150g giá tiền thui sauce giá tiền khoai giá tiền no top blade ngon no rùi nha mấy j kêu 30g thức_ăn,1,1
+quán nổi_tiếng xưa nha_trang mệnh_danh quán hải_sản hàng ngon nha_trang nhà_hàng tổng_quát,2,2
+bò nướng cuộn nấm sốt vang đỏ thịt mềm thấm gia_vị lớp đỏ chín xíu thức_ăn,1,2
+bò nướng cuộn nấm sốt vang đỏ thịt mềm thấm gia_vị lớp đỏ chín xíu thức_ăn chất_lượng,2,2
+dịch_vụ giao hành tận đi mua xa_xôi yêu yêu yêu yêu yêu phục_vụ tổng_quát,2,2
+nhân_viên phục_vụ lịch_sự nhẹ_nhàng phục_vụ tổng_quát,2,2
+món thái chili lắm ngon hợp_khẩu vị gia_đình giá mắc thức_ăn giá tiền,2,0
+món thái chili lắm ngon hợp_khẩu vị gia_đình giá mắc thức_ăn chất_lượng,2,1
+rau thịt bò gọi thức_ăn,0,0
+nhân_viên phục_vụ nhan chóng nhiệt_tình lắm phục_vụ tổng_quát,2,1
+quán đông nhân_viên phục_vụ khâu order món nhà_hàng tổng_quát,1,2
+quán đông nhân_viên phục_vụ khâu order món phục_vụ tổng_quát,2,2
+trà thơm dượm mùi hoa_quả đồ uống chất_lượng,2,2
+quán dán thông_báo 54 dời hàn hải nguyên tiền chủ dặn vs tờ_rơi địa_chỉ xây building mini thu mặt_bằng chỗ nhà_hàng tổng_quát,1,2
+chất_lượng bao_gồm salad nước_ngọt bánh_mì thức_ăn,1,2
+quán bingsu hàn nhà_hàng tổng_quát,1,2
+không_gian quán rộng_rãi 2 tầng không_gian tổng_quát,2,2
+ghé 1 tổng_quát,2,1
+uống trà milkfoam chuyên uống trà sữa trân_châu nè đồ uống,1,1
+đồ_ăn chế_biến vừa_miệng thức_ăn chất_lượng,2,2
+khoai nghiền giá tiền rẻ ngon bùi_thơm thức_ăn giá tiền,2,2
+khoai nghiền giá tiền rẻ ngon bùi_thơm thức_ăn chất_lượng,2,2
+hôm quán đông chỗ thoải_mái nhà_hàng tổng_quát,2,1
+tụi nhân_viên niềm_nở auto chào phục_vụ tổng_quát,2,2
+trà đào ngon miếng đào lắm đồ uống chất_lượng,2,2
+bàn 23 mì đi kiếm 23 tới_lui 3 phục_vụ tổng_quát,0,1
+trà đào váng sữa thơm lắm váng sữa béo béo siêu nghiện đồ uống chất_lượng,2,2
+cạnh rộng xe_hơi gửi nhà_hàng điều_khoản,2,1
+cười híp mắt lẩu bưng quá_trời đồ_ăn 2 ghẹ thịt bò hàu sò điệp tôm mực bạch tuột cá cá viên rau thức_ăn,2,2
+quán món kem bơ thơm béo ng note sinh_viên học_sinh giảm_giá giá tiền uống trà đào trà sữa trân_châu hồng trà hân châu d thức_ăn,2,2
+quán món kem bơ thơm béo ng note sinh_viên học_sinh giảm_giá giá tiền uống trà đào trà sữa trân_châu hồng trà hân châu d nhà_hàng điều_khoản,2,2
+quán món kem bơ thơm béo ng note sinh_viên học_sinh giảm_giá giá tiền uống trà đào trà sữa trân_châu hồng trà hân châu d đồ uống,1,2
+đi 4 5 gọi 1 tukboki cơm trộn 1 nồi lẩu bò úc 3 món tủ thịt nướng ngon rau ớt kiểu thức_ăn,2,1
+đi 4 5 gọi 1 tukboki cơm trộn 1 nồi lẩu bò úc 3 món tủ thịt nướng ngon rau ớt kiểu thức_ăn chất_lượng,2,2
+sườn heo nướng bq sốt hàn nấm kim châm chiên sốt mùi sốt ớt hàn_quốc cay nồng ngon sườn dao cắt tiệc bốc hơi kì thức_ăn,0,1
+sườn heo nướng bq sốt hàn nấm kim châm chiên sốt mùi sốt ớt hàn_quốc cay nồng ngon sườn dao cắt tiệc bốc hơi kì thức_ăn chất_lượng,2,2
+khồn gian siêu rộng_rãi tổng_quát,2,2
+khồn gian siêu rộng_rãi không_gian tổng_quát,2,2
+quầy sushi okonomiyak đồ chiên thức_ăn,1,1
+facebok bánh_giò bánh da lợn làm_giá rẻ_rề thức_ăn giá tiền,2,2
+facebok bánh_giò bánh da lợn làm_giá rẻ_rề thức_ăn,1,2
+quán hơi bàn_ghế hôm_nay lộn_xộn không_gian tổng_quát,0,0
+ưng hải_sản tôm nhân gà thịt bở bở kiểu khoai chiên í thức_ăn,1,2
+ưng hải_sản tôm nhân gà thịt bở bở kiểu khoai chiên í thức_ăn chất_lượng,1,2
+ngon mát_mẻ nói_chuyện xẩy hoàn_hảo đồ uống chất_lượng,2,2
+nhà_hàng nằm mặt_tiền đường ấp bắc lắm tổng_quát,2,2
+tí_ti gạch cua gạch thức_ăn,0,1
+bánh bột chiên rán thức_ăn,1,2
+quán xinh đông khủng_khiếp nhà_hàng tổng_quát,2,2
+quán xinh đông khủng_khiếp không_gian tổng_quát,1,2
+giá_cả hơi chênh_lệch size nhỏlớn nhỉnh ly ly mấy chỗ giá tầm giá tiền trở đồ uống giá tiền,1,0
+giá_cả hơi chênh_lệch size nhỏlớn nhỉnh ly ly mấy chỗ giá tầm giá tiền trở đồ uống,1,1
+phong_cách industrial hiện trendy không_gian tổng_quát,2,2
+đồ_ăn siêu thức_ăn,2,2
+toast phô_mai hạnh_nhân ko thơm mùi phô_mai hạnh_nhân mùi hành buồn tập 2 thức_ăn chất_lượng,0,0
+okonomiyaki đồ chiên giòn độ nóng thức_ăn chất_lượng,2,1
+tô giá tiền lòngn o chạy vui_vẻ hiếu_khách thức_ăn,2,2
+tô giá tiền lòngn o chạy vui_vẻ hiếu_khách thức_ăn giá tiền,1,1
+tô giá tiền lòngn o chạy vui_vẻ hiếu_khách phục_vụ tổng_quát,2,2
+quán đông tiếng ko ngon ngon nhà_hàng tổng_quát,0,1
+đen đá chất_lượng món phục_vụ tệ phục_vụ tổng_quát,0,0
+đen đá chất_lượng món phục_vụ tệ nhà_hàng tổng_quát,0,0
+gọi trà nhài kem mặn vs trà hơi khuyên mn order đườg đi lớp kem mặn ngon thử đồ uống chất_lượng,1,2
+gọi trà nhài kem mặn vs trà hơi khuyên mn order đườg đi lớp kem mặn ngon thử đồ uống,1,2
+trở_lại 2 thử món bò cuộn nấm gọi cơm thổ thức_ăn,1,1
+trà sữa chocolate khuyến_cáo order đường bình_thường 70 đấy đồ uống chất_lượng,0,1
+trà sữa chocolate khuyến_cáo order đường bình_thường 70 đấy đồ uống,1,1
+mấy né chỗ nha nhà_hàng tổng_quát,0,2
+sẵn voucher giá tiền thử bò nhà_hàng điều_khoản,1,2
+tổ_chức sinh_nhật peperonis giá_cả tầm không_gian ấm_cúng sang_trọng đồ_ăn ngon phục_vụ chu_đáo thức_ăn chất_lượng,2,2
+tổ_chức sinh_nhật peperonis giá_cả tầm không_gian ấm_cúng sang_trọng đồ_ăn ngon phục_vụ chu_đáo phục_vụ tổng_quát,2,2
+tổ_chức sinh_nhật peperonis giá_cả tầm không_gian ấm_cúng sang_trọng đồ_ăn ngon phục_vụ chu_đáo không_gian tổng_quát,2,2
+tổ_chức sinh_nhật peperonis giá_cả tầm không_gian ấm_cúng sang_trọng đồ_ăn ngon phục_vụ chu_đáo nhà_hàng giá tiền,1,1
+xếp_hàng nhân_viên phải_gió thái_độ ra_hiệu bil xong cúi bấm điện_thoại nản phục_vụ tổng_quát,0,0
+chủ dễ_tính ngộ ngộ phục_vụ tổng_quát,2,2
+gọi vị bò ngô kèm ớt xanh ok ngô a thức_ăn chất_lượng,2,2
+gọi vị bò ngô kèm ớt xanh ok ngô a thức_ăn,1,2
+hai ng hơi gọi giá món hơi đô cug thức_ăn giá tiền,0,0
+hai ng hơi gọi giá món hơi đô cug thức_ăn,2,0
+ngon gongcha nha đồ uống chất_lượng,2,2
+tráng_miệng cream brule thử ngon béo mềm mịn nha thức_ăn chất_lượng,2,2
+top blade medium nha medium rare dai lắm nhai ko nổi thức_ăn chất_lượng,0,1
+phomai lắm ưa vị phomai thiều thức_ăn chất_lượng,1,0
+đồ uống giá_cả hợp_lí trung_bình 45 giá tiền_đồ uống giá tiền,2,1
+bữa đi gọi combo thuyền hải_sản hình món thức_ăn,2,2
+mặc_định dịch_vụ 5 đỡ nhận_xét nhân_viên trừ sa_thải toàn_bộ hơi buồn phục_vụ tổng_quát,0,0
+vứt giấy lung_tung ghê ghê nhà_hàng điều_khoản,0,1
+order delivery quán chu_đáo bịch đá to_đùng bọc ly cẩn_thận nhà_hàng điều_khoản,2,2
+milkfoam ngon kiêng đồ béo ko cưỡng dc đồ uống chất_lượng,2,2
+quán không_gian hơi chật_hẹp dầu_mỡ quán đông khuyên gọi đồ lượt đợi thể không_gian tổng_quát,0,0
+quán không_gian hơi chật_hẹp dầu_mỡ quán đông khuyên gọi đồ lượt đợi thể nhà_hàng tổng_quát,1,1
+xong tặng áo xinh xinh nhà_hàng điều_khoản,2,2
+không_gian yên_tĩnh nhạc tiếng toàn không_gian tổng_quát,2,2
+không_gian yên_tĩnh nhạc tiếng toàn nhà_hàng điều_khoản,2,0
+góp_ý nhân_viên quán mấy đóng_cửa 10h nhân_viên cầm chổi quét liếc mắt phục_vụ tổng_quát,0,0
+gọi hokaido hình_như giá tiền độ béo độ vừa_phải ngon đồ uống giá tiền,1,1
+gọi hokaido hình_như giá tiền độ béo độ vừa_phải ngon đồ uống chất_lượng,2,2
+update menu mấy món bánh_tráng thịt heo thức_ăn,2,1
+cơm_chiên bình_thường hà toping tôm khô thức_ăn,0,1
+cơm_chiên bình_thường hà toping tôm khô thức_ăn chất_lượng,1,1
+thức_ăn bình_thường đặc_sắc lắm thức_ăn chất_lượng,1,1
+thức_ăn bình_thường đặc_sắc lắm phục_vụ tổng_quát,2,1
+sốt tiêu ngon tương_ớt thức_ăn chất_lượng,2,2
+cảm_nhận giá nước_tương đối ổn 1 bánh 5 0 0đ lận 3040 0 hợp_lí đồ uống giá tiền,2,1
+cảm_nhận giá nước_tương đối ổn 1 bánh 5 0 0đ lận 3040 0 hợp_lí thức_ăn giá tiền,0,1
+sparkles quán nằm đoạn giảng võ dêz biển quán to đặc_trưng đi a tổng_quát,2,2
+calamari mực khoanh chiên giá tiền giòn ngon thức_ăn,2,1
+calamari mực khoanh chiên giá tiền giòn ngon thức_ăn giá tiền,1,1
+calamari mực khoanh chiên giá tiền giòn ngon thức_ăn chất_lượng,2,2
+qán phục_vụ phục_vụ tổng_quát,2,2
+qán phục_vụ nhà_hàng tổng_quát,2,2
+bò nướng chín mềm nêm vừa_miệng chấm kèm sốt ướp muối ngon thức_ăn chất_lượng,2,2
+ấn_tượng không_gian quán rộng_rãi đẹp không_gian tổng_quát,2,2
+gọi bò top blade giá tiềng 2 kèm sốt nấm sốt bq khoai_tây đút lò thức_ăn,1,1
+tiền lắm giá tiền giá tiền đời nhà_hàng giá tiền,1,1
+đường kiếm đoạn đường khu 2 xao_xuyến mấy mê chụp hình lắm tổng_quát,1,1
+đồ_ăn mặn đc giá giá tiền bufet trưa thức_ăn chất_lượng,2,2
+đồ_ăn mặn đc giá giá tiền bufet trưa thức_ăn giá tiền,1,2
+decor phong_cách vintage toàn đồ_cổ cũ_kĩ nghệ_thuật không_gian tổng_quát,2,2
+cơm okie thức_ăn chất_lượng,2,2
+gọi 1 tô hủ_tiếu bò cay bạc_liêu v trai gọi bún thịt nướng thức_ăn,1,1
+đồ món tiêu_biểu mua đa_dạng thức_ăn,1,2
+món lạt nêm nếm đậm_đà huhu fre sâm nhe nhà_hàng điều_khoản,2,2
+món lạt nêm nếm đậm_đà huhu fre sâm nhe thức_ăn chất_lượng,0,2
+phục_vụ siêu siêu phục_vụ tổng_quát,0,0
+ngao chế_biến há miệng thức_ăn,1,2
+giá_cả ok thay_vì uống trà sữa uống detox thay đồ uống chất_lượng,2,2
+giá_cả ok thay_vì uống trà sữa uống detox thay nhà_hàng giá tiền,2,2
+thèm bq lựa_tới_lựa_lui king chi_nhánh km 10 fre 2 ly pepsi nè nhà_hàng điều_khoản,2,2
+order 1 trà xanh earl grey gongcha đồ uống,1,1
+chính_xác nằm mặt đường tương_đối biển đặc_trưng to_đùng tổng_quát,2,2
+chính_xác nằm mặt đường tương_đối biển đặc_trưng to_đùng nhà_hàng điều_khoản,2,0
+tụ_họp đi du_lịch nhà_hàng tổng_quát,2,2
+uống ngon lắm lắm đồ uống chất_lượng,2,2
+trà sữa olong ko ngon phúc long phúc long lắm toàn đá đồ uống chất_lượng,1,0
+trà sữa olong ko ngon phúc long phúc long lắm toàn đá đồ uống,2,0
+ko nhà_hàng tổng_quát,0,0
+đồ âu phong_phú hơi trung_tâm thức_ăn,2,1
+đồ âu phong_phú hơi trung_tâm tổng_quát,0,1
+mấy món chiên xào nướng hàu nướng mỡ hành chả_giò sốt mayonaise khoai_tây chiên blahblah thức_ăn,1,1
+chỗ xuống_đường view đẹp tổng_quát,2,1
+đi 9 1tr giá ok nhà_hàng giá tiền,2,2
+sườn dê ngon cay lắm nha gọi 23 ah thức_ăn chất_lượng,2,2
+sườn dê ngon cay lắm nha gọi 23 ah thức_ăn,2,2
+thanh_toán tổng tiền mất_giá tiền món ngon thế_này tiếc phục_vụ vui_vẻ không_gian thoải_mái nhà_hàng giá tiền,1,2
+thanh_toán tổng tiền mất_giá tiền món ngon thế_này tiếc phục_vụ vui_vẻ không_gian thoải_mái phục_vụ tổng_quát,2,2
+thanh_toán tổng tiền mất_giá tiền món ngon thế_này tiếc phục_vụ vui_vẻ không_gian thoải_mái không_gian tổng_quát,2,2
+thanh_toán tổng tiền mất_giá tiền món ngon thế_này tiếc phục_vụ vui_vẻ không_gian thoải_mái nhà_hàng tổng_quát,2,2
+thanh_toán tổng tiền mất_giá tiền món ngon thế_này tiếc phục_vụ vui_vẻ không_gian thoải_mái thức_ăn chất_lượng,2,2
+vị trà xanh uống cực nhạt hơi mùi trà đồ uống chất_lượng,0,1
+lương_sơn ngoằn_ngoèo lương_sơn nguyễn_thị định hic tổng_quát,1,2
+chờ 2030 p phục_vụ tổng_quát,0,0
+bánh_cuốn thịt nướng dở bột bánh bở thịt nướng vị thức_ăn,1,0
+bánh_cuốn thịt nướng dở bột bánh bở thịt nướng vị thức_ăn chất_lượng,0,0
+giá hơi quán piza chất_lượng lắm nhà_hàng giá tiền,0,0
+giá hơi quán piza chất_lượng lắm nhà_hàng tổng_quát,2,0
+món trà uống thơm đặc lắm thử đồ uống chất_lượng,2,2
+giá hơi đắt nhà_hàng giá tiền,0,0
+quán lầu bố_trí hợp_lý thoáng mát ngoài_trời không_gian tổng_quát,2,2
+tầng sáng_sủa thoáng không_gian tổng_quát,2,2
+lớp caramel ấn nhẹ thìa nứt mặt băng thức_ăn,2,2
+lớp caramel ấn nhẹ thìa nứt mặt băng thức_ăn chất_lượng,2,2
+uống loteria tám bạn_bè oke lắm không_gian rộng máy_lạnh thời_tiết nóng đổ lửa thế_này gian tổng_quát,2,2
+uống loteria tám bạn_bè oke lắm không_gian rộng máy_lạnh thời_tiết nóng đổ lửa thế_này nhà_hàng điều_khoản,2,2
+dìn ký rộng_rãi thoáng mát chỗ ngăn_nắp sạch_sẽ quán nằm giá tiềnhu grand plaza không_gian tổng_quát,2,2
+dìn ký rộng_rãi thoáng mát chỗ ngăn_nắp sạch_sẽ quán nằm giá tiềnhu grand plaza tổng_quát,2,1
+sốt nấm thơm thức_ăn chất_lượng,2,2
+sốt thấm vị bò úc giá tiềnhay chán bò mỹ ngon thức_ăn chất_lượng,1,2
+sốt thấm vị bò úc giá tiềnhay chán bò mỹ ngon thức_ăn,1,1
+đảo mắt sữa socola uống ổn mỗi_tội đồ đóng_hộp hơi cặn í đồ uống chất_lượng,1,1
+đảo mắt sữa socola uống ổn mỗi_tội đồ đóng_hộp hơi cặn í đồ uống,2,1
+quán đối_diện hồ rùa tổng_quát,1,1
+giá_cả hợp_lý nhà_hàng giá tiền,2,2
+gỏi ngó sen ngon thức_ăn chất_lượng,2,2
+salad toping dĩa thịt tạm ổn thức_ăn,0,1
+salad toping dĩa thịt tạm ổn thức_ăn chất_lượng,1,1
+quán trang_trí đẹp chủ_yếu gam màu tối quán yên_tĩnh ngon bánh giòn hơi cứng đc không_gian tổng_quát,1,2
+quán trang_trí đẹp chủ_yếu gam màu tối quán yên_tĩnh ngon bánh giòn hơi cứng đc đồ uống chất_lượng,2,2
+quán trang_trí đẹp chủ_yếu gam màu tối quán yên_tĩnh ngon bánh giòn hơi cứng đc thức_ăn chất_lượng,1,2
+phục_vụ quán chu_đáo phục_vụ tổng_quát,2,2
+background tuyệt đẹp dễ_thương giá tiềnhông gian tổng_quát,2,2
+món tok lắc phô_mai trà sữa tá lả đồ uống chất_lượng,2,2
+món tok lắc phô_mai trà sữa tá lả thức_ăn chất_lượng,2,2
+phục_vụ 1 dàn mấy thân_thiện đẹp_trai ahihi hôn phục_vụ tổng_quát,2,2
+nhân_viên ổn thân_thiện phục_vụ tổng_quát,2,0
+hải_sản tươi rẻ chất_lượng thức_ăn giá tiền,2,2
+hải_sản tươi rẻ chất_lượng thức_ăn chất_lượng,2,2
+ribbon giá befsteak mắc gọi rẻ menu cười_ra_nước_mắt thức_ăn giá tiền,0,0
+ps toilet cửa dám đi v cải_thiện nhà_hàng điều_khoản,0,1
+món 1 xíu thức_ăn,0,2
+bò gọi chín mềm thịt đậm_đà gia_vị ngon sốt tuyệt_vời thức_ăn chất_lượng,2,2
+thức_ăn tạm ngon lắm phong_phú thức_ăn chất_lượng,1,1
+thức_ăn tạm ngon lắm phong_phú thức_ăn,0,1
+quán nằm tầng 1 24t2 biển nổi_bật tổng_quát,1,1
+quán nằm tầng 1 24t2 biển nổi_bật nhà_hàng điều_khoản,2,1
+chủ quán nhật đẹp_trai hiền_lành cười nhẹ ôi tim phục_vụ tổng_quát,2,2
+giao 1 ly k thể uống đc giá tiền_đồ uống giá tiền,1,1
+phục_vụ lắm nha thân_thiện vui_vẻ phục_vụ tổng_quát,2,2
+bún cá giòn_rụm thức_ăn chất_lượng,2,2
+hôm nai mua mặt bánh hơi nát cười_ra_nước_mắt thức_ăn,0,1
+không_gian siêu sang_trọng bảo_đảm không_gian tổng_quát,2,2
+ưng_ý phong_cách phục_vụ nhân_viên tận_tình chu_đáo đồ_ăn phục_vụ tổng_quát,2,2
+mua vé mắc thả ga thức_ăn giá tiền,1,0
+mua vé mắc thả ga thức_ăn,2,2
+gọi 2 combo family combo 1 burger tôm 1 burger bò 2 miếng gà giá tiềnhoai lắc 2 cốc thức_ăn,1,1
+cơm đựng hộp giấy xinh lắm cưng cưng nhà_hàng điều_khoản,2,2
+ko gọi chén sốt bánh_đa kèm thức_ăn,1,1
+piza hut thức_ăn chất_lượng,2,0
+quán set up ghế kế thiểt cute hết_sức đựng giỏ phụ_kiện quán biết_nghĩ nhà_hàng điều_khoản,2,2
+burger cảm_giác bánh hơi khô thức_ăn chất_lượng,1,1
+trà sữa quá_trời đá ly giá tiền đồ uống chất_lượng,0,2
+trà sữa quá_trời đá ly giá tiền đồ uống giá tiền,0,1
+trà sữa quá_trời đá ly giá tiền đồ uống,0,2
+menu tiếng việt tiếng tiếng nhật nhà_hàng điều_khoản,2,1
+ngày_trước không_gian còng thoáng mát xíu chật_chội nóng_nực không_gian tổng_quát,0,2
+uống blacktea trân_châu trắng vui vui đồ uống,2,2
+gọi nhân_viên mấy ng nhân_viên trách k tiếng xin_lỗi phục_vụ tổng_quát,0,0
+decor cửa_hàng lắm hàng_hoá thức_ăn,2,1
+decor cửa_hàng lắm hàng_hoá không_gian tổng_quát,0,1
+mong_đợi tưởng_tượng nhà_hàng tổng_quát,2,2
+xe vỉa_hè quán vỉa_hè đầu đường trông dắt xe nhà_hàng điều_khoản,2,1
+view đẹp thoáng mát không_gian tổng_quát,2,2
+bò cuộn phomai hơi ngấy buồn miếng đầu ngon thức_ăn chất_lượng,0,2
+bò cuộn phomai hơi ngấy buồn miếng đầu ngon thức_ăn,1,0
+trang trí phục_vụ gọn lẹ không_gian tổng_quát,2,2
+trang trí phục_vụ gọn lẹ phục_vụ tổng_quát,2,2
+phục_vụ_viên lịch_sự nhanh_nhẹn phục_vụ tổng_quát,2,2
+thường_xuyên nhà_hàng tổng_quát,2,2
+xếp_hàng mua cá đợi 30 phút lượt phục_vụ tổng_quát,0,0
+ngon_ngọt thơm nhà_hàng tổng_quát,2,2
+rộng_rãi thoáng_đãng đông ngộp thở cơ_sở giá tiềnia sạch_sẽ không_gian tổng_quát,2,2
+quán decor đơn_giản đặc_sắc không_gian tổng_quát,1,2
+trân_châu dai ngon vón cục đồ uống chất_lượng,1,2
+giá giá tiền 2 người_nhà hàng giá tiền,1,1
+giá trà sữa ko béo lắm đồ uống chất_lượng,1,2
+giá trà sữa ko béo lắm đồ uống giá tiền,0,1
+dao_động 3050 đồ_ăn tầm 4060 món miễn chê đồ uống giá tiền,1,1
+dao_động 3050 đồ_ăn tầm 4060 món miễn chê thức_ăn giá tiền,1,1
+gọi trà sữa trà đen trà sữa trà xanh uống ngon đồ uống,1,1
+gọi trà sữa trà đen trà sữa trà xanh uống ngon đồ uống chất_lượng,2,2
+tôm_sú to chiên xù sốt bơ tỏi tươi ngon thức_ăn,2,2
+tôm_sú to chiên xù sốt bơ tỏi tươi ngon thức_ăn chất_lượng,2,2
+kèm 1 chén cơm trắng nha thức_ăn,1,1
+bò nướng ngon thơm_phức thịt mềm thức_ăn chất_lượng,2,2
+ko gian rộng_rãi phục_vụ tận_tình phục_vụ tổng_quát,2,2
+ko gian rộng_rãi phục_vụ tận_tình không_gian tổng_quát,2,2
+ưng khoai_tây chiên cực kiểu khoai chiên giòn thơm ý_thức chất_lượng,2,2
+ưng khoai_tây chiên cực kiểu khoai chiên giòn thơm ý_thức,2,2
+quán view đẹp cực_kì không_gian cổ nhạc_nhẹ nhàng nhạc bigbang bọn cực không_gian tổng_quát,2,2
+quán view đẹp cực_kì không_gian cổ nhạc_nhẹ nhàng nhạc bigbang bọn cực nhà_hàng điều_khoản,2,0
+thịt bò ngon miếng bò mềm thơm mà_còn độ giòn nhẹ chút gân mỡ thớ thịt thức_ăn,2,1
+thịt bò ngon miếng bò mềm thơm mà_còn độ giòn nhẹ chút gân mỡ thớ thịt thức_ăn chất_lượng,2,2
+hải_sản tươi chế_biến ngon thức_ăn chất_lượng,2,2
+ngon thức_ăn chất_lượng,2,2
+trìa hấp tươi mọng lắm giá tầm giá tiềng thức_ăn chất_lượng,2,2
+trìa hấp tươi mọng lắm giá tầm giá tiềng thức_ăn giá tiền,1,1
+hai đùi gà lẻ_loi kia chiên tạm ok vỏ k kiểu giòn_rụm hơi ủi vs dai vị duyệt đc thức_ăn chất_lượng,1,1
+ăn_ở quán món cao_lầu order delivery cao_lầu cơm gà chè sen thức_ăn,1,2
+bánh vỏ hồng cam bánh đắt tiền thức_ăn giá tiền,0,0
+bánh vỏ hồng cam bánh đắt tiền thức_ăn chất_lượng,2,0
+1 câu 1 đại_diện nhà_hàng phục_vụ tổng_quát,0,2
+wowpopcorn tầng b1 loete center tổng_quát,1,2
+nhân_viên xe quăng xe_khách đùng_đùng ầm_ầm xót phục_vụ tổng_quát,0,2
+trà sữa hokaido ngon lắm uống thử tiếc món đồ uống chất_lượng,2,2
+tầm giá giá tiền tệ cà_phê hoà_tan đá xay xong xịt whiping crem àh uống xong tiếc tiền quá_trời đồ uống giá tiền,1,1
+tầm giá giá tiền tệ cà_phê hoà_tan đá xay xong xịt whiping crem àh uống xong tiếc tiền quá_trời đồ uống chất_lượng,0,0
+tầm giá giá tiền tệ cà_phê hoà_tan đá xay xong xịt whiping crem àh uống xong tiếc tiền quá_trời đồ uống,1,0
+đa_số đám_cưới tổ_chức mỹ_tho tin_tưởng nhà_hàng tổng_quát,2,2
+3 lai nhà_hàng tổng_quát,0,0
+nhân_viên đem mì tô 1 miếng bò nhỏ_xíu thức_ăn,0,0
+ngân viên chuyên_nghiệp nhiệt_tình phục_vụ tổng_quát,2,2
+nhân_viên bt nhiệt_tình khó_chịu quên điện_thoại đấy nv hối_hả giúp hộ phục_vụ tổng_quát,1,1
+deco đặc_sắc hẳn tầng 2 3 2 hình tường sống ảo không_gian tổng_quát,1,2
+refil a kia bảo xong mập mập chủ quán giật bảo ko phục_vụ tổng_quát,0,0
+giá hợp_lý phố triệu quán nhà_hàng giá tiền,2,2
+đùi gà gà viên rán giòn kem tornado kẹo nổ siêu vui_miệng d thức_ăn chất_lượng,2,2
+đùi gà gà viên rán giòn kem tornado kẹo nổ siêu vui_miệng d thức_ăn,1,2
+tối hôm gọi trà chiều giá tiền_nhân_viên ấm trà cốc trông lạ_mắt đồ uống giá tiền,1,1
+tối hôm gọi trà chiều giá tiền_nhân_viên ấm trà cốc trông lạ_mắt đồ uống,2,2
+không_gian tuyệt không_gian tổng_quát,2,2
+mắc nhà_hàng giá tiền,1,0
+bảo thanh_toán nv đứng xong đi in bil chẳng thẻ thành_viên mặc_dù đem thẻ sẵn nhân_viên đứng chẳng buồn cầm phục_vụ tổng_quát,0,0
+nhân_viên thân_thiện bánh 1 phục_vụ tổng_quát,2,2
+món ngon nêm nếm vừa_miệng trình_bày đẹp_mắt giá_cả vô_cùng thức_ăn,2,2
+món ngon nêm nếm vừa_miệng trình_bày đẹp_mắt giá_cả vô_cùng thức_ăn chất_lượng,2,2
+món ngon nêm nếm vừa_miệng trình_bày đẹp_mắt giá_cả vô_cùng nhà_hàng giá tiền,2,2
+uống ngon đồ uống chất_lượng,2,2
+trời_ơi ngán dở nhà_hàng tổng_quát,0,0
+gọi bàn ngập miệng 1 7 tr bia nước_ngọt uống thoải_mái nhà_hàng giá tiền,2,2
+rib eye giá tiền order red wine sauce sốt rượu_vang sốt nồng mùi rượu lắm steak ổn sốt lỏng lắm thức_ăn giá tiền,1,1
+rib eye giá tiền order red wine sauce sốt rượu_vang sốt nồng mùi rượu lắm steak ổn sốt lỏng lắm thức_ăn chất_lượng,2,1
+chả cá bình_thường ko nổi_trội lắm 1 chỗ thức_ăn chất_lượng,1,1
+chỗ hơi món thức_ăn,0,0
+chỗ hơi món không_gian tổng_quát,0,0
+tóm_lại voucher kiểu nhà_hàng tổng_quát,0,2
+không_gian màu xanh lá chủ_đạo mát 2 máy_lạnh mát trưa hè oi_bức sài_gòn không_gian tổng_quát,2,2
+không_gian màu xanh lá chủ_đạo mát 2 máy_lạnh mát trưa hè oi_bức sài_gòn nhà_hàng điều_khoản,2,0
+tráng_miệng đa_dạng thức_ăn,2,2
+bọn ghé chất_lượng nhân_viên phục_vụ nhiệt_tình đồ_ăn hải_sản bao tươi ngon hợp_khẩu vị bọn phục_vụ tổng_quát,2,2
+bọn ghé chất_lượng nhân_viên phục_vụ nhiệt_tình đồ_ăn hải_sản bao tươi ngon hợp_khẩu vị bọn thức_ăn chất_lượng,2,2
+nhân_viên bình_thường phục_vụ tổng_quát,1,1
+bàn hên vô kêu món mấy bàn kia đợi tầm 30p nv báo đồ_ăn bàn con_nít phục_vụ tổng_quát,0,0
+cơm cá_chiên rau luôc thập_cẩm ngon thức_ăn,1,1
+cơm cá_chiên rau luôc thập_cẩm ngon thức_ăn chất_lượng,2,2
+không_gian rộng đa_phần không_gian tổng_quát,2,2
+không_gian rộng đa_phần nhà_hàng tổng_quát,1,2
+mì thơm rau chân_vịt sốt bò nấm mềm hoà_quyện ngon thức_ăn chất_lượng,2,2
+mì thơm rau chân_vịt sốt bò nấm mềm hoà_quyện ngon thức_ăn,1,1
+lớp kem béo vừa_phải trà chỗ uống vừa_miệng lắm đồ uống,2,2
+lớp kem béo vừa_phải trà chỗ uống vừa_miệng lắm đồ uống chất_lượng,2,2
+1 thịt phục_vụ tổng_quát,0,0
+nhân_viên giao hàng phục_vụ tổng_quát,2,0
+thử nhà_hàng tổng_quát,2,1
+uống nhà_hàng tổng_quát,2,2
+không_gian lịch_sự trang_trọng ấm_cúng không_gian tổng_quát,2,2
+gân kiệu rẻ lắm nha mua giá tiền mua thuỳ thức_ăn,2,2
+gân kiệu rẻ lắm nha mua giá tiền mua thuỳ thức_ăn giá tiền,2,2
+quán không_gian sạch_sẽ phục_vụ vui_vẻ nhiệt_tình phục_vụ tổng_quát,2,2
+quán không_gian sạch_sẽ phục_vụ vui_vẻ nhiệt_tình không_gian tổng_quát,2,2
+giá rẻ mặt_bằng chất_lượng thức_ăn xuất_sắc bù món vô_cùng đa_dạng tây ta tàu nhật trung thức_ăn,2,2
+giá rẻ mặt_bằng chất_lượng thức_ăn xuất_sắc bù món vô_cùng đa_dạng tây ta tàu nhật trung thức_ăn chất_lượng,1,2
+giá rẻ mặt_bằng chất_lượng thức_ăn xuất_sắc bù món vô_cùng đa_dạng tây ta tàu nhật trung nhà_hàng giá tiền,2,0
+caramel frap starbucks đa_số gọi caramel frap venti đồ uống chất_lượng,2,2
+ghé thử lươn cua đút lò phô_mai nha must try thức_ăn,2,2
+dạo nhân_viên deli ăn_nói lịch_sự thân_thiện lắm lắm order phục_vụ tổng_quát,2,2
+1 món việt dân_dã bánh_mì haha bánh_mì nhân cá ổn lắm bánh_mì dòn yểu thức_ăn chất_lượng,2,2
+dở khủng_khiếp xếp_hàng 20 30phut mua nhà_hàng tổng_quát,0,0
+dở khủng_khiếp xếp_hàng 20 30phut mua phục_vụ tổng_quát,0,0
+món phong_phú đa_phần đồ chiên dầu_mỡ ngán thức_ăn,2,2
+món phong_phú đa_phần đồ chiên dầu_mỡ ngán thức_ăn chất_lượng,1,2
+bánh cx k hề mẹ đc thức_ăn chất_lượng,2,2
+giá_như dìn ký thức_ăn ổn thức_ăn chất_lượng,2,2
+tôm nướng cay lắm ngon thức_ăn chất_lượng,1,2
+lựa bq sause ngon peper sause hạp lắm đậm_đà bq thức_ăn chất_lượng,2,2
+đợi món canh sườn bò 30p kêu phục_vụ tổng_quát,0,0
+thức_ăn ngon nhân_viên nhiệt_tình hơi chậm nhà_hàng đông thông_cảm thức_ăn chất_lượng,2,2
+thức_ăn ngon nhân_viên nhiệt_tình hơi chậm nhà_hàng đông thông_cảm nhà_hàng tổng_quát,2,1
+thức_ăn ngon nhân_viên nhiệt_tình hơi chậm nhà_hàng đông thông_cảm phục_vụ tổng_quát,1,2
+nhân_viên lịch_sự lắm haha phục_vụ tổng_quát,2,2
+bún_bò 1 tuyệt_phẩm bún phở hủ_tiếu kiểu bún_bò bún_bò gánh 1 địa_chỉ bún_bò ổn khu trung_tâm nhà_hàng tổng_quát,2,1
+cơm trộn chuẩn hq nè thức_ăn chất_lượng,2,2
+uống tối sân_thượng view cực đẹp kiểu thưởng trà ngắm hoa bitexco không_gian tổng_quát,2,2
+tráng_miệng đá ngán đồ uống chất_lượng,0,2
+tráng_miệng đá ngán đồ uống,0,2
+hàng nhg chtrinh kmai mua giá tiềnhoai tanwnjg 1 trà đào hồi khai_trương cười ngại_ngùng nhà_hàng điều_khoản,2,2
+sườn giá tiền thức_ăn giá tiền,1,1
+quán thoáng mát tương_đối sạch không_gian tổng_quát,2,2
+sát tết dịch_vụ giao hàng lote làm_việc chuẩn gọi tổng_đài tổng_đài địa_chỉ phục_vụ tổng_quát,2,2
+địa_điểm quán lắm đường bảng bự chà bá tổng_quát,2,2
+giá mắc chấp_nhận đc phục_vụ thân_thiện nhiệt_tình phục_vụ tổng_quát,2,2
+giá mắc chấp_nhận đc phục_vụ thân_thiện nhiệt_tình nhà_hàng giá tiền,0,0
+1 hình_như đi chai tương cà sẵn quán đem quên phục_vụ tổng_quát,0,2
+1 hình_như đi chai tương cà sẵn quán đem quên thức_ăn,0,2
+phòng to lắm đông phục_vụ cỡ 78 tụ_tập quầy bar nói_chuyện to to nam văng del quá_trời del 1 loạt del đĩa salad gà uống li trà đào hóc nước_đá không_gian tổng_quát,1,2
+phòng to lắm đông phục_vụ cỡ 78 tụ_tập quầy bar nói_chuyện to to nam văng del quá_trời del 1 loạt del đĩa salad gà uống li trà đào hóc nước_đá nhà_hàng tổng_quát,1,1
+phòng to lắm đông phục_vụ cỡ 78 tụ_tập quầy bar nói_chuyện to to nam văng del quá_trời del 1 loạt del đĩa salad gà uống li trà đào hóc nước_đá phục_vụ tổng_quát,0,2
+nằm hẻm đường cộng_hoà không_gian bufet dìn ký rộng_rãi thoáng mát không_gian tổng_quát,2,2
+nằm hẻm đường cộng_hoà không_gian bufet dìn ký rộng_rãi thoáng mát tổng_quát,1,2
+đồ đem mỗi_tội tiền đầu rẻ no đầy_đặn gọi rẻ phục_vụ tổng_quát,2,2
+đồ đem mỗi_tội tiền đầu rẻ no đầy_đặn gọi rẻ nhà_hàng giá tiền,0,2
+cháo mấy vị lá dứa hành cháo trắng cháo gọi bánh mỳ chấm ngon thức_ăn,1,1
+cháo mấy vị lá dứa hành cháo trắng cháo gọi bánh mỳ chấm ngon thức_ăn chất_lượng,2,2
+nhân_viên ok đôi_lúc kiểu cuống cuống nhầm_lẫn lung_tung đông k cố_gắng khắc_phục đc chủ quán nhiệt_tình phục_vụ tổng_quát,2,2
+madame hương bh nổi_tiếng nhà_hàng tổng_quát,2,2
+món cầm máy đẹp filter đồ uống,2,1
+món cầm máy đẹp filter thức_ăn,2,1
+hôm_nay luc 6h30 quán vắng 7h3 08 g quán đông khải chờ hơi nhà_hàng tổng_quát,1,1
+hôm_nay luc 6h30 quán vắng 7h3 08 g quán đông khải chờ hơi phục_vụ tổng_quát,0,0
+khuyến_mãi quán khai_trương đi thử nhà_hàng điều_khoản,2,2
+đẹp yên_tĩnh tổng_quát,2,2
+tụi 3 món bún_bò đầy_đủ hến xúc bánh_tráng bánh thâp cẩm trà đá sâm giá tiền ngon no thức_ăn chất_lượng,2,2
+tụi 3 món bún_bò đầy_đủ hến xúc bánh_tráng bánh thâp cẩm trà đá sâm giá tiền ngon no thức_ăn,1,2
+tụi 3 món bún_bò đầy_đủ hến xúc bánh_tráng bánh thâp cẩm trà đá sâm giá tiền ngon no nhà_hàng giá tiền,1,1
+đồ_ăn ngon đấy kêu món món báo đợi món báo món thức_ăn chất_lượng,2,2
+đồ_ăn ngon đấy kêu món món báo đợi món báo món thức_ăn,0,0
+đồ_ăn ngon đấy kêu món món báo đợi món báo món phục_vụ tổng_quát,0,2
+đi địa_chỉ cv gia định doanh_trại gọi đt đi tý quán địa_chỉ tổng_quát,0,1
+món nóng quầy nhân_viên nấu thức_ăn chất_lượng,2,2
+món nóng quầy nhân_viên nấu thức_ăn,2,2
+chĩ thôi_thì vị ngon hấp_dẫn tứ món thức_ăn chất_lượng,2,2
+chĩ thôi_thì vị ngon hấp_dẫn tứ món thức_ăn,2,2
+không_gian kiểu hơi_hướng nhật_bản thú_vị hôn không_gian tổng_quát,2,0
+ảnh fb vẻ đẹp hôm đi review không_gian haha không_gian tổng_quát,2,2
+quán bánh khọt đông vô_thường xuyên ghé thử nhà_hàng tổng_quát,2,2
+ko xúc_xích cá kêu bò nhiêu 1 giá tiền bình_thường thức_ăn giá tiền,1,1
+ko xúc_xích cá kêu bò nhiêu 1 giá tiền bình_thường thức_ăn,1,1
+nhân_viên thân_thiện nhiệt_tình phục_vụ tổng_quát,2,2
+bọn kêu 1 slide brownie đặc_điểm bánh l usine siêu to 1 1 slide no kềnh thức_ăn,2,2
+giá_như kha nhà_hàng giá tiền,0,0
+mango cokies blended ngon kết_hợp lớp kem rắc kèm cốm xoài hạt orio xay nhuyễn đồ uống chất_lượng,2,2
+mango cokies blended ngon kết_hợp lớp kem rắc kèm cốm xoài hạt orio xay nhuyễn đồ uống,2,1
+burger saturday dc to khoai_tây chiên kèm k đăc biệt ah cười_ra_nước_mắt thức_ăn,2,1
+gió biển hp đồ_sơn đẹp đồ_ăn hải_sản rẻ tươi đĩa ụ mê món mực xào ghẹ tươi hào hơi bé tuỳ mùa bàn mai ngon k không_gian tổng_quát,2,2
+gió biển hp đồ_sơn đẹp đồ_ăn hải_sản rẻ tươi đĩa ụ mê món mực xào ghẹ tươi hào hơi bé tuỳ mùa bàn mai ngon k thức_ăn chất_lượng,2,2
+gió biển hp đồ_sơn đẹp đồ_ăn hải_sản rẻ tươi đĩa ụ mê món mực xào ghẹ tươi hào hơi bé tuỳ mùa bàn mai ngon k thức_ăn giá tiền,2,2
+gió biển hp đồ_sơn đẹp đồ_ăn hải_sản rẻ tươi đĩa ụ mê món mực xào ghẹ tươi hào hơi bé tuỳ mùa bàn mai ngon k thức_ăn,2,2
+bánh mua 1 tặng giá tiền chất_lượng tiêu_chuẩn mua 1 tặng 1 k but bánh mua k đc 1 tặng 1 chất_lượng nhà_hàng điều_khoản,2,0
+bánh mua 1 tặng giá tiền chất_lượng tiêu_chuẩn mua 1 tặng 1 k but bánh mua k đc 1 tặng 1 chất_lượng thức_ăn chất_lượng,2,0
+tết ghé ko đen đá đổi sauce bánh đi đám giới_thiệu ngon lắm vô hụt_hẫng vị cay cay mặn ko beo_béo chà mặn_chát thức_ăn chất_lượng,0,0
+shop online đt ghé nhà_hàng tổng_quát,1,2
+khaoi ngon khoai đút lò must try thức_ăn chất_lượng,2,2
+quán kiếm hơi quán đơn_giản tưởng tưởng tổng_quát,2,0
+quán kiếm hơi quán đơn_giản tưởng tưởng không_gian tổng_quát,0,0
+hơi ngon thịt nướng thịt cuộn rau củ nấm hải_sản tôm mực tươi thức_ăn chất_lượng,2,2
+hơi ngon thịt nướng thịt cuộn rau củ nấm hải_sản tôm mực tươi thức_ăn,1,1
+xe 3 0 đ chi_nhánh nhà_hàng điều_khoản,0,1
+xe 3 0 đ chi_nhánh nhà_hàng tổng_quát,0,1
+khoai_môn tươi kem 2 trân_châu ổn đồ uống,2,1
+vỏn_vẹn đĩa rau_câu thức_ăn,0,2
+bánh ngon nè bánh ngàn lớp vị vừa_phải gắt nè thức_ăn chất_lượng,2,2
+bưởi cứng tủ_đá thức_ăn chất_lượng,0,2
+bữa máy_lạnh s lạnh kinh_hồn nhà_hàng điều_khoản,0,1
+được_cái_là đồ_ăn chất_lượng ổn nấu_ăn ngon thức_ăn chất_lượng,2,2
+cá rán giòn mẻ mẻ đấy chấm mắm ngon thức_ăn chất_lượng,2,2
+cá rán giòn mẻ mẻ đấy chấm mắm ngon thức_ăn,2,2
+chả cá lã vọng chảo sẵn bật bếp xào hành kèm mắm_tôm ngon thức_ăn chất_lượng,2,2
+chả cá lã vọng chảo sẵn bật bếp xào hành kèm mắm_tôm ngon thức_ăn,1,1
+quán phong_cách dân_dã đậm chất việt lịch_sự tinh_tế không_gian tổng_quát,2,2
+giá quán hơi nhà_hàng giá tiền,0,0
+giá tiền ly đồ uống giá tiền,1,0
+toàn cốc xinh xinh yêu yêu nhà_hàng điều_khoản,2,2
+ổn nhà_hàng tổng_quát,2,2
+quán ngoài_trời tối mát_mẻ cười nhẹ bán_thân thiện giá ok đồ_ăn ngon fre sâm xe không_gian tổng_quát,2,2
+quán ngoài_trời tối mát_mẻ cười nhẹ bán_thân thiện giá ok đồ_ăn ngon fre sâm xe phục_vụ tổng_quát,2,2
+quán ngoài_trời tối mát_mẻ cười nhẹ bán_thân thiện giá ok đồ_ăn ngon fre sâm xe nhà_hàng giá tiền,2,2
+quán ngoài_trời tối mát_mẻ cười nhẹ bán_thân thiện giá ok đồ_ăn ngon fre sâm xe thức_ăn chất_lượng,2,2
+quán ngoài_trời tối mát_mẻ cười nhẹ bán_thân thiện giá ok đồ_ăn ngon fre sâm xe nhà_hàng điều_khoản,2,2
+hl 1 thương_hiệu giới trẻ nhà_hàng tổng_quát,2,2
+sốt siêu ngon thức_ăn chất_lượng,2,2
+tường treo đĩa sứ không_gian tổng_quát,2,2
+ko ngon uống ok mấy uống vị chua_chua mặn mặn uống đồ uống chất_lượng,2,2
+món saturday burger ang mix gril video tôm gà thịt lơn thức_ăn,2,1
+dịch_vụ vs khăn fre cực nhà_hàng điều_khoản,2,2
+chi_nhánh gongcha thất_vọng milkfoam dở tệ nhà_hàng tổng_quát,0,0
+chi_nhánh gongcha thất_vọng milkfoam dở tệ đồ uống chất_lượng,0,0
+bát bún max nhìu rau sướng mồm k bứ thức_ăn,2,0
+gửi xe cute thái_độ nv quán tệ phục_vụ tổng_quát,0,0
+quán k dc đông k dc ng biêt chất_lượng đồ_ăn siêu ngon đặn cực_kì nhà_hàng tổng_quát,1,2
+quán k dc đông k dc ng biêt chất_lượng đồ_ăn siêu ngon đặn cực_kì thức_ăn chất_lượng,2,2
+quán k dc đông k dc ng biêt chất_lượng đồ_ăn siêu ngon đặn cực_kì thức_ăn,2,0
+không_gian không_gian mát bật điều_hoà không_gian tổng_quát,0,0
+không_gian không_gian mát bật điều_hoà nhà_hàng điều_khoản,2,0
+set gà mật_ong giảm_giá set b gọi giá tiền giá tiền quên k chụp khóc nhà_hàng điều_khoản,2,0
+cơ_bản nc chấm nc chấm ốc ngon lm thèm thức_ăn chất_lượng,2,2
+bò ngon mềm thức_ăn chất_lượng,2,2
+herb giá bao_gồm 10 thuế vat giá mặt_bằng view kia phí hợp_lý nhà_hàng giá tiền,0,1
+đồ_ăn ngon xà_lách trộn mệt lắm thức_ăn chất_lượng,2,2
+uống vị ngon lắm đồ uống chất_lượng,2,2
+nóng_hổi giòn ngon thức_ăn chất_lượng,2,2
+sparkles quán nằm đoạn royal city khu trung_tâm thương_mại tầng bgiá tiềnhu ẩm_thực ăn_uống tổng_quát,1,1
+quán nằm 1 hẻm rộng đường trần quang diệu tổng_quát,2,1
+vị bơ sữa vị thơm mùi bơ ngon thức_ăn chất_lượng,2,2
+quán thiệt hàng chục lớp trường chỗ nhà_hàng tổng_quát,1,1
+dịch_vụ phục_vụ tổng_quát,2,2
+thịt mềm màu đẹp sốt bq ổn xin_lỗi lựa_chọn ưng lắm thức_ăn chất_lượng,2,2
+thịt mềm màu đẹp sốt bq ổn xin_lỗi lựa_chọn ưng lắm thức_ăn,2,2
+món bún thịt nướng ngon trừ miếng thịt mềm lắm xét tổng_thể thức_ăn chất_lượng,2,2
+kem mặn quán chẳng ngon tí trà xanh tệ gấp 10 đồ uống chất_lượng,0,0
+kem mặn quán chẳng ngon tí trà xanh tệ gấp 10 thức_ăn chất_lượng,0,0
+đen đá phát_triển không_gian rộng như_vầy riêng_tư yên_tĩnh thưởng_thức bánh phục_vụ tổng_quát,0,2
+món ngon menu đẹp_mắt thức_ăn chất_lượng,2,2
+món ngon menu đẹp_mắt nhà_hàng điều_khoản,2,2
+đi ngã tư_thái hà tổng_quát,1,1
+trung_thành chỗ hoy 2 3 giảm_giá nhà_hàng điều_khoản,2,0
+trung_thành chỗ hoy 2 3 giảm_giá nhà_hàng tổng_quát,2,0
+gọi 2 món bò sốt hàn_quốc mì xào hải_sản cơm trộn thức_ăn,1,1
+quán trung_tâm thành_phố q1 sầm_uất tổng_quát,1,2
+thức_ăn đa_dạng đa_số món ngon món ngon thức_ăn,2,2
+thức_ăn đa_dạng đa_số món ngon món ngon thức_ăn chất_lượng,2,2
+đồ_ăn bao ngon uống milkfoam í haha đồ uống chất_lượng,2,2
+đồ_ăn bao ngon uống milkfoam í haha thức_ăn chất_lượng,2,2
+món lẩu rau sài_gòn vị hẳn thức_ăn chất_lượng,2,2
+gà chiên ra_lò nóng giòn thức_ăn chất_lượng,2,2
+tổng bữa 2 đứa giá tiền xài voucher d nhà_hàng giá tiền,1,1
+phục_vụ chu_đáo vô nước_ngọt rau nhúng dấm bánh_mì phục_vụ tổng_quát,2,2
+phục_vụ chu_đáo vô nước_ngọt rau nhúng dấm bánh_mì thức_ăn,1,2
+sốt a1 sốt xí muội hợp steak thức_ăn chất_lượng,0,1
+tổng_kết 2 món ngoại_hình ấn_tượng đi kèm chất_lượng ấn_tượng kém đồ uống chất_lượng,2,1
+tổng_kết 2 món ngoại_hình ấn_tượng đi kèm chất_lượng ấn_tượng kém đồ uống,2,2
+mắm_tôm ngon_ăn thơm cực_kỳ thức_ăn chất_lượng,2,2
+quán bất_tiện chỗ mua đi hà không_gian tổng_quát,0,2
+thanh_toán tiền nhà_hàng tổng_quát,0,2
+trà kem mặn_mà ko nắp kiểu kia đục_khoét bọc uống kiểu kem chese nhà_hàng điều_khoản,0,2
+giá_cả rẻ ly capuchino món thái kiki ngon ah đồ uống giá tiền,2,2
+giá_cả rẻ ly capuchino món thái kiki ngon ah đồ uống chất_lượng,2,2
+nhân_viên vui_vẻ thân thiệt phục_vụ tổng_quát,2,2
+chất_lượng order 2 top blade 150g medium kèm 2 sốt bq sốt tiêu thịt bò mềm lắm nha sốt bq chua_chua ngon sốt tiêu_thức,1,1
+chất_lượng order 2 top blade 150g medium kèm 2 sốt bq sốt tiêu thịt bò mềm lắm nha sốt bq chua_chua ngon sốt tiêu_thức chất_lượng,2,2
+món duy_nhất ngon niềm an_ủi nhỏ_bé cream brule giá tiền thức_ăn giá tiền,1,1
+món duy_nhất ngon niềm an_ủi nhỏ_bé cream brule giá tiền thức_ăn chất_lượng,2,2
+bánh ship nóng_hổi phục_vụ tổng_quát,2,2
+bánh ship nóng_hổi thức_ăn chất_lượng,2,2
+giá tiền hình 2 bil nhân_viên quên tiền lava cake nhắc nhà_hàng giá tiền,1,1
+mua 1 mini choco 1 mini chà gà cay thức_ăn,1,1
+trà sữa thái đậm dà lắm đồ uống chất_lượng,1,2
+no giá tiền nhà_hàng giá tiền,1,1
+kem sữa thua_kém gongcha nha thức_ăn chất_lượng,2,2
+mỳ trứng cà_chua giá tiền thức_ăn giá tiền,1,1
+bánh_mì bơ tỏi giòn thơm_lừng nè thức_ăn chất_lượng,2,2
+nhân_viên ổn nhanh_nhẹn phục_vụ tận_tình phục_vụ tổng_quát,2,2
+bánh red velvet giá tiền nhỏ_xíu cupcake đắt lòi hồi tui dc nâng_cấp miếng bánh to oạch tầy thức_ăn giá tiền,1,1
+bánh red velvet giá tiền nhỏ_xíu cupcake đắt lòi hồi tui dc nâng_cấp miếng bánh to oạch tầy thức_ăn,2,2
+nhân_viên lẹ phục_vụ chu_đáo phục_vụ tổng_quát,2,2
+quán hồi mấy 8h mấy dọn quán mấy đi trễ uống buồn lắm dịp mua nhà_hàng tổng_quát,1,0
+mê chả_giò nóng giòn chấm mắm ớt lắm huhu thịt nướng nha thức_ăn,2,1
+mê chả_giò nóng giòn chấm mắm ớt lắm huhu thịt nướng nha thức_ăn chất_lượng,2,2
+quán rộng vs 3 tầng trang_trí hướng hoài_cổ 1 sài_gòn xưa không_gian tổng_quát,2,1
+cơm cháy chà ngon thức_ăn chất_lượng,2,2
+quán decor bình_thường không_gian tổng_quát,2,2
+đá bào sữa béo ngon thức_ăn chất_lượng,2,2
+kim chi cá khô củ_cải ngâm thức_ăn,1,1
+sr viết văn dở ngon ngon thui nhà_hàng tổng_quát,2,1
+salad gọi set siêu ngon trứng lòng_đào sệt trộn salad sốt mê_li thức_ăn chất_lượng,2,2
+salad gọi set siêu ngon trứng lòng_đào sệt trộn salad sốt mê_li thức_ăn,2,2
+quán nhà_hàng tổng_quát,2,2
+1 ly thế_này trung_bình giá tiền_đồ uống giá tiền,1,0
+chỗ anh_trai đi 3 giá tiền tô giá thức_ăn giá tiền,1,1
+thịt giò mên ngon yêu thức_ăn chất_lượng,2,2
+pha_chế tạm đồ uống chất_lượng,1,1
+trà hoa_cúc uống ok ghét hút hoa_cúc ghét lắm đồ uống chất_lượng,2,1
+thức uống ngon tuyệt_cú mèo đồ uống chất_lượng,2,2
+đồ_ăn tàm_tạm ngon lắm thức_ăn chất_lượng,1,1
+chính_xác hàng 1 tủ khoai nằm đoạn hàng lược giao hàng_mã í tổng_quát,1,1
+trà ngon đậm_đà vị mè đen mè đen đồ uống chất_lượng,1,2
+quán cải_thiện mặt vệ_sinh phục_vụ chất_lượng món thức_ăn chất_lượng,2,0
+quán cải_thiện mặt vệ_sinh phục_vụ chất_lượng món phục_vụ tổng_quát,2,0
+quán cải_thiện mặt vệ_sinh phục_vụ chất_lượng món không_gian tổng_quát,2,0
+gọi 1 topblade 30gr 1 nạc vai 20gr sốt tiêu bq thức_ăn,1,1
+piza bào 2 ko bữa oder mua 1 tặng 1 chủ_nhật bữa 12inch giao đồ thức_ăn chất_lượng,2,2
+piza bào 2 ko bữa oder mua 1 tặng 1 chủ_nhật bữa 12inch giao đồ phục_vụ tổng_quát,2,2
+piza bào 2 ko bữa oder mua 1 tặng 1 chủ_nhật bữa 12inch giao đồ nhà_hàng điều_khoản,2,2
+chese hơi hơi thơm mùi sữa mặn chân trâu giòn ngon đồ uống chất_lượng,2,2
+chese hơi hơi thơm mùi sữa mặn chân trâu giòn ngon đồ uống,1,1
+không_gian quán rộng_rãi thích_hợp ẩm_thực pháp không_gian tổng_quát,2,2
+mấy kêu sai món í đen đá lắm nhà_hàng tổng_quát,1,0
+giá_cả đi_đôi vs chất_lượng nhà_hàng giá tiền,1,2
+bắp_cải thức_ăn chất_lượng,1,2
+ghế nhân_viên đẩy ghế dùm nhà_hàng điều_khoản,1,2
+thịt mềm ngon thức_ăn chất_lượng,2,2
+giá chát giá tiền ly trà sữa thạch trân_châu chất_lượng đặc_sắc đồ uống chất_lượng,1,0
+giá chát giá tiền ly trà sữa thạch trân_châu chất_lượng đặc_sắc nhà_hàng giá tiền,0,0
+giá chát giá tiền ly trà sữa thạch trân_châu chất_lượng đặc_sắc đồ uống giá tiền,1,0
+giá_cả combo gia_đình giá tiền kha_khá 23 nhà_hàng giá tiền,1,1
+gọi đợi món cũg đợi tầm 15p phục_vụ tổng_quát,1,0
+hôm_nay medium medium rare ngon hẳn thức_ăn chất_lượng,2,2
+không_gian chả nhỏ_hẹp xấu lắm không_gian tổng_quát,0,0
+đen đá vị cà_phê đậm_đà lạ ng thưởng_thức ko quên vị đắng cà_phê vị béo sữa hài_hoà vs hương_vị hoài_niệm sài_gòn đồ uống chất_lượng,2,2
+gọi desert bánh flan caramel giá tiền ngon 2 đồ uống giá tiền,1,1
+gọi desert bánh flan caramel giá tiền ngon 2 đồ uống chất_lượng,2,1
+xí muội lắc khoai rời_rạc k hề ăn_nhập khoai thức_ăn,0,1
+duy_nhất k lắm điều_hoà lạnh nhà_hàng điều_khoản,0,1
+đầu uống chi_nhánh k đông k chờ gọi đồ uống chi_nhánh phan văn trị nhà_hàng tổng_quát,2,1
+tổng_quan đầy_đủ quán chảnh giá giá tiền rẻ nhà_hàng tổng_quát,2,2
+tổng_quan đầy_đủ quán chảnh giá giá tiền rẻ nhà_hàng giá tiền,2,2
+mushroom hàng tủ hàng vỉa_hè hàng lược giao hàng chai tổng_quát,1,1
+bánh bọn gọi set 3 matcha choco chese xinh ngon vị matcha kiểu matcha nhật xịn vị k lắm thức_ăn chất_lượng,2,1
+bánh bọn gọi set 3 matcha choco chese xinh ngon vị matcha kiểu matcha nhật xịn vị k lắm thức_ăn,2,2
+tô mì thừa nghĩa thức_ăn chất_lượng,0,2
+toàn đi trưa 1213 h quán đông thoáng dễ_chịu nhà_hàng tổng_quát,1,1
+toàn đi trưa 1213 h quán đông thoáng dễ_chịu không_gian tổng_quát,2,2
+hôm_nay bọn mã giảm_giá jamja thử vị nhà_hàng điều_khoản,2,2
+hôm_nay bọn mã giảm_giá jamja thử vị cùng_đồ uống,2,2
+quán lựa_chọn yêu món hàn nhà_hàng tổng_quát,2,2
+uống ngon trà tươi vị đặc_trưng trà sữa trân_châu hoàng_gia ngon uống không_gian quán quý s tộc vô_cùng đồ uống,1,2
+uống ngon trà tươi vị đặc_trưng trà sữa trân_châu hoàng_gia ngon uống không_gian quán quý s tộc vô_cùng không_gian tổng_quát,2,2
+uống ngon trà tươi vị đặc_trưng trà sữa trân_châu hoàng_gia ngon uống không_gian quán quý s tộc vô_cùng đồ uống chất_lượng,2,2
+dễ_dãi rủ đồ thái k hợp chua thức_ăn chất_lượng,0,2
+không_gian thoáng rộng khu ghế đất tuỳ_thích tuỳ king nguyễn_tri phương bàn đi 10 chật không_gian tổng_quát,2,2
+hơi hụt_hẫng quán nhoa nhà_hàng tổng_quát,0,0
+2 hủ_tiếu nam vang khô khô khô nhân_viên đem 1 chén kèm thịt nêm nếm gia_vị thức_ăn,1,1
+2 hủ_tiếu nam vang khô khô khô nhân_viên đem 1 chén kèm thịt nêm nếm gia_vị thức_ăn chất_lượng,2,0
+hẳn toast trà xanh toast dâu cảm_giác hơi ngán thức_ăn chất_lượng,1,0
+nhân_viên trang_phục đẹp vs k ng xinh cơ_sở htk nhà_hàng điều_khoản,0,0
+bánh_mì ổn ko giòn lắm thức_ăn chất_lượng,1,1
+lớp vỏ ngon nhân chocolate cực ngon thức_ăn chất_lượng,2,2
+lớp vỏ ngon nhân chocolate cực ngon thức_ăn,2,2
+chẳng hàng_chợ ngon ghê gứm thức_ăn chất_lượng,2,0
+phục_vụ quán thân_thiện vui_vẻ phục_vụ tổng_quát,2,2
+morico mắc xứng_đáng chất_lượng 3 nhà_hàng giá tiền,0,0
+morico mắc xứng_đáng chất_lượng 3 nhà_hàng tổng_quát,2,2
+1 cơm k đc 1 chén miếng dưa_leo miếng cà_chua 1 miếng palad thức_ăn,0,1
+kiểu kỳ ghê pha đường đồ uống,0,0
+chất_lượng ko nhìu khó_chịu thức_ăn ngon mấy thành dở thức_ăn chất_lượng,1,1
+salad chén dc thức_ăn,2,2
+hôm bữa order xong đứng đợi mấy anh_chị sắp_xếp đổ bột đấy li đóng nắp xong cất đi 15 phục_vụ tổng_quát,0,0
+2 xuấy bún cá chấm ôi món đổ bao mồ_hôi công_sức xếp_hàng tiếng kiểu bõ công bõ sức nhà_hàng tổng_quát,1,0
+cơm khô cứng nhai rụng thức_ăn chất_lượng,0,0
+nhân_viên thân_thiện dễ_thương phục_vụ tổng_quát,2,2
+thanh_toán nv nam gầy mắt mí râu cố_tình tiền chục nghìn cố_tình phát_hiện tỏ thái_độ phục_vụ tổng_quát,0,0
+trà xanh đá xay lớp kem ngon ko lắm đồ uống chất_lượng,1,2
+cực circle k nè trung_tâm gân hồ gươm tổng_quát,2,2
+salad hoa_quả độ ngon thức_ăn chất_lượng,2,2
+đồ_ăn tưới giá tiền tuần vợ_con thức_ăn chất_lượng,2,0
+đồ_ăn tưới giá tiền tuần vợ_con thức_ăn giá tiền,2,1
+bò ướp thấm nha k hề tủ đông_lạnh bò mềm thấm sốt hơi mặn xíu chấm ngon thức_ăn chất_lượng,2,2
+thịt hình_như xíu_mại xúc_xích tàu hủ bánh gạo cắt lát mì thức_ăn,1,1
+uống trà đào trà olong matcha đồ uống,1,1
+hình_như nhiệt_độ chuẩn lắm gọi medium rare hơi sống máu 1 lớp mỡ gân dai nhai thức_ăn chất_lượng,0,0
+không_gian quán sang_trọng lãng_mạn phục_vụ cực_kì lịch_sự nhiệt_tình không_gian tổng_quát,2,2
+không_gian quán sang_trọng lãng_mạn phục_vụ cực_kì lịch_sự nhiệt_tình phục_vụ tổng_quát,2,2
+xài voucher đối_xử lịch_thiệp phục_vụ tổng_quát,2,0
+giá_cả rẻ hợp_lý nhà_hàng giá tiền,2,2
+quán tối đông hầm bí quá_trời nhà_hàng tổng_quát,1,2
+quán tối đông hầm bí quá_trời không_gian tổng_quát,0,0
+sparkles chất_lượng đồ uống highland ko đặc_sắc ổn giá_cả hợp_lí ưa_chuộng ko đc quán xuất_sắc đồ uống chất_lượng,2,1
+sparkles chất_lượng đồ uống highland ko đặc_sắc ổn giá_cả hợp_lí ưa_chuộng ko đc quán xuất_sắc đồ uống giá tiền,2,1
+hình_như giá giá tiền 1 rẻ thức_ăn thức_ăn giá tiền,2,2
+chỗ gọi bánh_mì 2 quên gọi khùng phục_vụ tổng_quát,0,0
+mua giá tiền toping trân_châu trắng mãi cười híp mắt đồ uống giá tiền,1,1
+mua giá tiền toping trân_châu trắng mãi cười híp mắt đồ uống,2,2
+nhà_hàng rộng không_gian đẹp món phong_phú bày_biện ngon_mắt không_gian tổng_quát,2,2
+nhà_hàng rộng không_gian đẹp món phong_phú bày_biện ngon_mắt thức_ăn,2,2
+sốt bq thức_ăn chất_lượng,2,1
+đồ uống ngon mấy milk foam đồ uống chất_lượng,2,2
+deliverynow giao lắm hộp há cảo đầy_đủ cục cục to nhân thịt lắm nước_tương chấm sệt sệt mặn cay cay vừa_miệng giá_cả rẻ lắm dịp thức_ăn,2,2
+deliverynow giao lắm hộp há cảo đầy_đủ cục cục to nhân thịt lắm nước_tương chấm sệt sệt mặn cay cay vừa_miệng giá_cả rẻ lắm dịp thức_ăn giá tiền,2,2
+deliverynow giao lắm hộp há cảo đầy_đủ cục cục to nhân thịt lắm nước_tương chấm sệt sệt mặn cay cay vừa_miệng giá_cả rẻ lắm dịp thức_ăn chất_lượng,2,2
+deliverynow giao lắm hộp há cảo đầy_đủ cục cục to nhân thịt lắm nước_tương chấm sệt sệt mặn cay cay vừa_miệng giá_cả rẻ lắm dịp phục_vụ tổng_quát,2,2
+món tráng_miệng món ngon kem matcha lắm d thức_ăn,1,1
+món tráng_miệng món ngon kem matcha lắm d thức_ăn chất_lượng,2,1
+order ân_cần nhiệt_tình tư_vấn cười híp mắt phục_vụ tổng_quát,2,2
+chấm 4 nha nhà_hàng tổng_quát,2,2
+cửa_hàng chuyên giò chả pate hải_phòng bánh mỳ que hải_phòng bánh_mì thập_cẩm thức_ăn,1,2
+cửa_hàng chuyên giò chả pate hải_phòng bánh mỳ que hải_phòng bánh_mì thập_cẩm nhà_hàng tổng_quát,2,2
+chất_lượng ấn_tượng đồ_ăn ngon thức_ăn chất_lượng,2,2
+giá_cả chia giá tiền người_nhà hàng giá tiền,1,1
+sốt kem nấm ngon hợp thịt thức_ăn chất_lượng,2,2
+sốt kem nấm ngon hợp thịt thức_ăn,2,2
+hội_an bảo cao_lầu ngon thức_ăn chất_lượng,2,2
+kem ngon hai miếng bánh kẹp hai hơi kem thức_ăn,1,0
+kem ngon hai miếng bánh kẹp hai hơi kem thức_ăn chất_lượng,1,2
+ngon sốt đậm_đà chỗ d thức_ăn chất_lượng,2,2
+hagen dazs kem siêu cao_cấp chất_lượng siêu ngon không_gian quán cực sang_trọng thức_ăn chất_lượng,2,2
+hagen dazs kem siêu cao_cấp chất_lượng siêu ngon không_gian quán cực sang_trọng không_gian tổng_quát,2,2
+phục_vụ nhiệt_tình tư_vấn dthg bảo_vệ kì_cục phục_vụ tổng_quát,1,2
+2 1 1 salat salat rau dập đen cà_chua héo giá tiền thức_ăn giá tiền,1,1
+2 1 1 salat salat rau dập đen cà_chua héo giá tiền thức_ăn chất_lượng,0,0
+tổng_chi giá tiền nhà_hàng giá tiền,1,1
+giá tiềnhách hang thân_thiết thường_niên nh làng việt nhà_hàng tổng_quát,2,2
+ko thử thưởng_thức bề_bề phí thức_ăn chất_lượng,2,0
+thích_hợp liên_hoan họp lớp nhà_hàng tổng_quát,2,2
+kèm dâu siêu ngon thức_ăn chất_lượng,2,2
+mấy món nhẹ khoai_tây nghiền súp bí_đỏ nấm măng_tây thức_ăn,1,1
+thiết_kế đơn_giản chụp hìh đẹp lắm không_gian tổng_quát,2,2
+món desert bánh flan thạch thức_ăn,1,1
+cực_kì thất_vọng không_gian món gian tổng_quát,0,0
+cực_kì thất_vọng không_gian món thức_ăn chất_lượng,0,0
+ngon hơi chua chút nước_mắm gia_vị chuẩn thức_ăn chất_lượng,2,2
+nhân_viên phục_vụ quán nhân_viên phục_vụ lo lơ phục_vụ tổng_quát,2,2
+trà sữa ô long pha ngon chi_nhánh đồ uống chất_lượng,2,2
+yêu ôi hàng bánh_trái chất lương lắm thức_ăn chất_lượng,2,1
+tươi_cười chu_đáo nhiệt_tình khách_hàng phục_vụ tổng_quát,2,2
+giá_cả là_hơi nằm 1 thế_này chấp_nhận nhà_hàng giá tiền,0,1
+giá_cả là_hơi nằm 1 thế_này chấp_nhận tổng_quát,1,1
+quán nằm khách_sạn blue diamond gửi xe tầng hầm khách_sạn tổng_quát,2,2
+quán nằm khách_sạn blue diamond gửi xe tầng hầm khách_sạn nhà_hàng điều_khoản,1,0
+gọi menu xong đứng chờ phục_vụ tổng_quát,0,0
+không_gian rộng_rãi wifi cực không_gian tổng_quát,2,2
+không_gian rộng_rãi wifi cực nhà_hàng điều_khoản,2,0
+hình_như cửa_hàng chất_lượng ko lý thắng lê_quý đôn nhà_hàng tổng_quát,1,2
+đầu bufet bình_dân hơi ko hài_lòng lắm khách_quan ổn nhà_hàng tổng_quát,1,0
+quán rộng_rãi nhân_viên nhiệt_tình món phong_phú ngon giá_cả hợp_lý không_gian tổng_quát,2,2
+quán rộng_rãi nhân_viên nhiệt_tình món phong_phú ngon giá_cả hợp_lý phục_vụ tổng_quát,2,2
+quán rộng_rãi nhân_viên nhiệt_tình món phong_phú ngon giá_cả hợp_lý thức_ăn,2,2
+quán rộng_rãi nhân_viên nhiệt_tình món phong_phú ngon giá_cả hợp_lý thức_ăn chất_lượng,2,2
+quán rộng_rãi nhân_viên nhiệt_tình món phong_phú ngon giá_cả hợp_lý nhà_hàng giá tiền,2,2
+bù chất_lượng bàn nhà_hàng tổng_quát,2,2
+thơm vị ngon đồ uống chất_lượng,2,2
+tiếp gà rim mắm khoai_tây chiên tạm thức_ăn chất_lượng,1,1
+tiếp gà rim mắm khoai_tây chiên tạm thức_ăn,1,1
+chẳng kể_lể review cạn_kiệt từ_ngữ chữ lắm rùi thui kem tiếp kem ngon ko chảy ngon thức_ăn chất_lượng,2,2
+trà đào ngon miếng đào tươi đồ uống chất_lượng,2,2
+nhân_viên phục_vụ nhanh_nhẹn lắm order món phục_vụ tổng_quát,2,2
+đen đá tụi cỡ 9h đông lắm sân rộng mát đỡ nhà_hàng tổng_quát,2,2
+đen đá tụi cỡ 9h đông lắm sân rộng mát đỡ không_gian tổng_quát,2,2
+nằm vỉa_hè hàng lược món vặt thử đường khám_phá phố cổ tổng_quát,2,1
+nhà_hàng phục_vụ nhiệt_tình chuyên_nghiệp phục_vụ tổng_quát,2,2
+mỳ trộn shop go best best thức_ăn chất_lượng,2,2
+quán trưa nườm_nượp nhà_hàng tổng_quát,2,1
+giá_cả bánh_mì rẻ tầm giá tiền 1 thức_ăn giá tiền,2,2
+nổi_bật nhà_hàng tổng_quát,1,1
+shop nhà_riêng mua gọi trc chủ nhẹ_nhàng lịch_sự phục_vụ tổng_quát,2,2
+trà sữa gongcha ngon giá_cả kh đắt lắm đồ uống chất_lượng,2,2
+trà sữa gongcha ngon giá_cả kh đắt lắm đồ uống giá tiền,2,1
+mì ngon thức_ăn chất_lượng,2,2
+giá giá tiền giá tiền xứng_đáng chất_lượng trọng_lượng thức_ăn giá tiền,1,1
+giá giá tiền giá tiền xứng_đáng chất_lượng trọng_lượng thức_ăn chất_lượng,0,2
+giá giá tiền giá tiền xứng_đáng chất_lượng trọng_lượng thức_ăn,0,2
+vs kêu 2 mì kim chi bò thức_ăn,1,1
+mặt_tiền quán khuất 2 rậm ban_ngày bật đèn tổng_quát,0,2
+đông đành mua đi chờ hơi nhà_hàng tổng_quát,2,1
+đông đành mua đi chờ hơi phục_vụ tổng_quát,0,0
+đường_sắt trái tổng_quát,1,1
+phục_vụ ân_cần đơn_thuần phục_vụ tổng_quát,2,2
+quán 2 quán toping bef nhà_hàng tổng_quát,2,2
+đậu_phộng bắp_cải trắng rau chuối thức_ăn,1,2
+quán mở_rộng kia rộng_rãi dễ_chịu lắm không_gian tổng_quát,2,1
+nhân_viên phục_vụ trẻ_trung nhiệt_tình thái_độ phục_vụ vừa_ý phục_vụ tổng_quát,2,2
+thất_vọng nhà_hàng tổng_quát,0,0
+không_gian đẹp trà chiều bạn_bè không_gian tổng_quát,2,2
+cực cực ngon nha nhà_hàng tổng_quát,2,2
+buồn phục_vụ chính_xác phục_vụ tổng_quát,0,0
+3 hàng tuần mã khuyến_mãi chewyjunior30 30 nhà_hàng điều_khoản,2,2
+quán view đẹp nhân_viên thân_thiện chủ tư_vấn tâm_lý lắm giọng nhỏ_nhẹ dễ_thương cực phục_vụ tổng_quát,2,2
+quán view đẹp nhân_viên thân_thiện chủ tư_vấn tâm_lý lắm giọng nhỏ_nhẹ dễ_thương cực không_gian tổng_quát,2,2
+nằm khu chợ phố_phường mai khu tập_thể đi đia đi tổng_quát,2,1
+tác_phong chú_ý thực_khách phục_vụ tổng_quát,2,2
+nhân_viên siêu dễ_thương phục_vụ tổng_quát,2,2
+nicoise salad wel ko đẹp ko hêv ngon thức_ăn,0,1
+nicoise salad wel ko đẹp ko hêv ngon thức_ăn chất_lượng,0,2
+mìnb fan ruột bami bánh_mì trứng pate n mềm gà hội_an thức_ăn chất_lượng,2,2
+mìnb fan ruột bami bánh_mì trứng pate n mềm gà hội_an nhà_hàng tổng_quát,2,2
+ngon ới ngon sốt cajun tôm_hùm đất giá ăn_đứt the crab shark thức_ăn chất_lượng,2,2
+ngon ới ngon sốt cajun tôm_hùm đất giá ăn_đứt the crab shark thức_ăn giá tiền,2,1
+chén dĩa thìa muỗng đi kèm đồ_ăn 1 khuất đầy_đủ nhà_hàng điều_khoản,0,2
+mỳ ya ko j đặc_sắc lắm salda cá_ngừ ngon ne thức_ăn chất_lượng,1,2
+mỳ ya ko j đặc_sắc lắm salda cá_ngừ ngon ne thức_ăn,1,1
+2 nhân_viên tiếp thái_độ khinh_khỉnh ko chuyên_nghiệp phục_vụ tổng_quát,0,0
+bánh chê chê đắt k tiền mua cười_ra_nước_mắt thức_ăn giá tiền,0,1
+cảm_nhận uống ngon trân_châu trắng dòn dòn nhai đồ uống chất_lượng,2,2
+đợi 10p món phục_vụ tổng_quát,2,0
+đồ uống ngon tín_đồ xoài hihi nhà_hàng tổng_quát,2,2
+đồ uống ngon tín_đồ xoài hihi đồ uống chất_lượng,2,2
+coca suki ngon nhà_hàng tổng_quát,1,1
+chi_nhánh gửi xe_hơi bất_tiện vô chìa_khoá bảo_vệ vé xe hơi sợ nhà_hàng điều_khoản,0,0
+quán ngon thức_ăn chất_lượng,2,2
+gọi đế mỏng cảm_nhận vị giòn_rụm bánh thức_ăn chất_lượng,2,2
+thoải_mái thư_giãn nhà_hàng tổng_quát,2,2
+hồi quán lề_đường hồi xưa quán đông nhà_hàng tổng_quát,2,1
+chỗ hơi chỉ_dẫn đón tổng_quát,0,0
+ảnh ảnh uống trà quán đa_số ảnh uống cafe vô uống trà ảnh gọi trà đào ảnh ngon đậm vị đồ uống chất_lượng,2,2
+hai vợ_chồng no giá tiền nhà_hàng giá tiền,2,1
+salad ngon rau tôm tôm tươi trộn vị giấm vô cho_xong nêm lạt nhách thức_ăn chất_lượng,2,2
+salad ngon rau tôm tôm tươi trộn vị giấm vô cho_xong nêm lạt nhách thức_ăn,2,2
+đôi_khi bàn phục_vụ tổng_quát,1,2
+chủ quán dễ_thương phục_vụ tổng_quát,2,2
+quán cố_tình bày trí không_gian không_gian tổng_quát,1,2
+quán mặt_tiền rộng_rãi không_gian thoáng mát sạch_sẽ không_gian tổng_quát,2,2
+hai_lòng chất_lượng nhà_hàng tổng_quát,2,2
+nhân_viên xưng quên đấy phục_vụ nhiệt_tình ngoan_ngoãn lễ_phép mẹ phục_vụ tổng_quát,2,2
+món cá_ngừ hợp_khẩu vị thức_ăn chất_lượng,0,2
+nản kinh_khủng rôi mơi cá bàn bún cá xong tiền rôi mơi bún dc phục_vụ tổng_quát,0,0
+thức_ăn chờ mòn_mỏi dĩa bò tôm toàn rau rau thức_ăn,0,0
+thức_ăn chờ mòn_mỏi dĩa bò tôm toàn rau rau phục_vụ tổng_quát,0,0
+đầu đi bufet thức_ăn,0,2
+3 chese cofe ra_mắt 2 món flower bomb đá xay flower ice đá viên đồ uống,2,1
+đào giòn trà dâu mứt dâu dâu vị dâu tự_nhiên tiếc chỗ đồ uống chất_lượng,1,2
+đào giòn trà dâu mứt dâu dâu vị dâu tự_nhiên tiếc chỗ đồ uống,1,2
+khoai nêm gia_vị mằn_mặn đậm_đà cực_kì thức_ăn chất_lượng,2,2
+bánh thái toast đỉnh đỉnh kiu 1 3 thức_ăn chất_lượng,2,1
+món ngon nổi_bật thức_ăn chất_lượng,1,2
+view đẹp nhân_viên chuyên_nghiệp phục_vụ tổng_quát,2,2
+view đẹp nhân_viên chuyên_nghiệp không_gian tổng_quát,2,2
+hủ tíu nam vang thắng quán đông_đúc ghê nhà_hàng tổng_quát,1,1
+nhân_viên hăng_hái lắm phục_vụ tổng_quát,1,2
+chất_lượng giá chất_lượng gôd đặc_sắc lắm nhà_hàng tổng_quát,1,1
+mua giá tiền no_nê mạnh_mẽ thức_ăn giá tiền,1,1
+ap mete khuyến_mãi mua 1 tặng 1 nhà_hàng điều_khoản,2,2
+quán nho_nhỏ bàn gỗ xinh deco quán đẹp không_gian tổng_quát,2,2
+đồ_ăn nêm nếm ngon dịp tiếp cười nhe thức_ăn,2,2
+đồ_ăn nêm nếm ngon dịp tiếp cười nhe thức_ăn chất_lượng,2,2
+chỗ toàn đường 1 chiều chốt công_an lưu_ý đi_lại cẩn_thận tổng_quát,0,1
+kết món lẩu bò mỹ_kim chi thức_ăn chất_lượng,2,2
+định_lượng có_lẽ hơi thức_ăn,0,0
+hồi xưa chi_nhánh hv lắm yêu yêu nhà_hàng tổng_quát,2,1
+đồ_ăn ướp hơi nhạt thức_ăn chất_lượng,0,0
+kèm nghêu bắp nè kêu bánh_mì no nha thức_ăn,2,2
+uống đậm mùi cà_phê lắm mocha đồ uống chất_lượng,1,1
+trà xanh gong giá tiền lượt gọi 50 70 đá phân_vân 2 hạt thạch yu trân_châu trắng combo 2 hạt giá tiền lầm đồ uống giá tiền,1,1
+trà xanh gong giá tiền lượt gọi 50 70 đá phân_vân 2 hạt thạch yu trân_châu trắng combo 2 hạt giá tiền lầm đồ uống,1,1
+món thịt cá_sấu nướng muối ớt gân nai ngon 2 món thức_ăn chất_lượng,2,2
+món thịt cá_sấu nướng muối ớt gân nai ngon 2 món thức_ăn,1,1
+hôm trời hanh_hao gọi cốc thanh_long ngon vãi đồ uống chất_lượng,2,2
+không_gian quán lắm không_gian tổng_quát,1,1
+hơi chậm ko chê_trách phục_vụ tổng_quát,1,2
+nhạc quán ko đc lắm nhà_hàng điều_khoản,1,0
+raboki giá tiền vị lạ cay cay thức_ăn chất_lượng,2,2
+raboki giá tiền vị lạ cay cay thức_ăn giá tiền,1,1
+hương_vị điều_chỉnh cân_bằng ko nhạt_nhẽo nhà_hàng tổng_quát,2,0
+trà sữa hơi nhạt món trái_cây kèm chese thử dâu dưa_hấu fresh hơi bở tí nà đồ uống chất_lượng,0,2
+trà sữa hơi nhạt món trái_cây kèm chese thử dâu dưa_hấu fresh hơi bở tí nà đồ uống,1,1
+quán cà_ri dê hiếm_hoi nằm khu bờ kè đoạn cop_mart đi tầm giá tiềnm tổng_quát,1,1
+main course gọi chuck flap 20gr 30gr lõi nạc cổ thượng_hạng menu thịt mềm ngon mỡ thịt nướng cỡ medium ngon thơm_lừng thức_ăn,1,1
+main course gọi chuck flap 20gr 30gr lõi nạc cổ thượng_hạng menu thịt mềm ngon mỡ thịt nướng cỡ medium ngon thơm_lừng thức_ăn chất_lượng,2,2
+quán chi cơ_sở chú_tâm chất_lượng nhà_hàng tổng_quát,2,1
+ghé mấy bufet có_lẽ dừng cuộc_chơi ngon nhà_hàng tổng_quát,0,2
+nhân_viên toàn trai xinh gái đẹp hơi lạnh_lùng phục_vụ tổng_quát,1,2
+uống trà xanh cảm_giác uống trà đá cười_ra_nước_mắt mùi trà thơm đồ uống chất_lượng,0,2
+không_gian hơi hẹp tầng không_gian tổng_quát,1,1
+vị ngon lắm ổn d nhà_hàng tổng_quát,2,1
+cục giò mỡ thịt hôi mùi bò kì kì cười nhe tô ụ thức_ăn,2,0
+cục giò mỡ thịt hôi mùi bò kì kì cười nhe tô ụ thức_ăn chất_lượng,0,0
+giá bù chất_lượng nhà_hàng giá tiền,0,0
+giá bù chất_lượng nhà_hàng tổng_quát,2,2
+order delivery charge phí phục_vụ 10 nè mong quán mấy quán trà sữa fre phí phục_vụ nè nhà_hàng điều_khoản,0,2
+nhà_hàng đẹp sang_trọng nhân_viên phục_vụ chuyên_nghiệp không_gian tổng_quát,2,2
+nhà_hàng đẹp sang_trọng nhân_viên phục_vụ chuyên_nghiệp phục_vụ tổng_quát,2,2
+quán 2 nhà_hàng tổng_quát,0,1
+từ_bỏ quán fan trung_thành lẩu phát nhà_hàng tổng_quát,2,2
+quán công_nhận dc trag trí kha bắt_mắt trông đẹp lắm không_gian tổng_quát,2,2
+hoa hôm đấy đi sẵn đấy gọi hai tô bún cá trc nhân_viên bưng bún lượn hoắt mãi k phục_vụ tổng_quát,0,2
+nhân_viên nhiệt_tình dễ_chịu phục_vụ tổng_quát,2,2
+1 no cơm thức_ăn,0,2
+trừ duy_nhất sợi mì dai lắm ngon thức_ăn chất_lượng,0,0
+nhân_viên dễ_thương tư_vấn nhiệt_tình menu yêu phục_vụ tổng_quát,2,2
+tổng_thể ngon nhà_hàng tổng_quát,2,2
+nhân_viên dc training kỹ order bàn lộn tùm_lum món bàn xong bàn kia 30p ms đem bàn phục_vụ tổng_quát,0,0
+cari dê chất_lượng kèm bánh_mì cơm nị cơm ấn thức_ăn,2,2
+cari dê chất_lượng kèm bánh_mì cơm nị cơm ấn thức_ăn chất_lượng,2,2
+cộng bài_trí món công_phu đẹp_mắt độ ngon món thức_ăn,2,2
+nhạc replay toàn mấy nhà_hàng điều_khoản,2,0
+hôn_nhân_viên nhân_viên thân_thiện phục_vụ tổng_quát,2,2
+ban_công hơi hẹp kê bàn sát thoải_mái lắm không_gian tổng_quát,0,0
+6 510 nhà_hàng tổng_quát,1,2
+cream float ngon lớp cream lỏng lắm bình_thường lắm thử trà nha đồ uống,0,1
+cream float ngon lớp cream lỏng lắm bình_thường lắm thử trà nha đồ uống chất_lượng,0,2
+hôm đi xế_chiều đông lắm nhà_hàng tổng_quát,1,0
+đi đám_cưới không_gian nhà_hàng không_gian tổng_quát,2,2
+món ngon sở_thích thức_ăn chất_lượng,2,2
+nhân_viên làm_việc hình_như kp dc kĩ lắm đông phục_vụ tổng_quát,1,0
+trái_tim choco đông decor xinh_xắn tao đẳng_cấp thức_ăn,2,2
+quán ồn nhạc kp lỗi quán không_gian tổng_quát,0,1
+quán ồn nhạc kp lỗi quán nhà_hàng điều_khoản,1,1
+không_gian rộng lắm chỗ dễ_chịu bàn_ghế san_sát lo vô_tình bàn không_gian tổng_quát,2,2
+vị bình_thường ngon lắm cay cay thức_ăn chất_lượng,1,1
+giá_cả hợp_lý gói mỳ cay tầm giá tiền ko lắm thức_ăn giá tiền,2,1
+ở_panda ăn_ở tốn_phí xe giá tiền hừ_hừ nhà_hàng điều_khoản,0,0
+gà chê thức_ăn chất_lượng,2,2
+duy_nhất gân cứng thức_ăn chất_lượng,0,1
+cơm gà sốt chua_ngọt ngon vị đậm_đà thịt mềm thức_ăn chất_lượng,2,2
+giá_cả nhà_hàng giá tiền,0,2
+uống trà chese hekca đồ uống chất_lượng,0,2
+hôm đi xong ghé đen đá thíc trà lài sữa xanh giá tiền đen dá lắm lun hồi uống thơm hương lài trà xanh dã_man k ngon k dặn đồ uống giá tiền,1,1
+hôm đi xong ghé đen đá thíc trà lài sữa xanh giá tiền đen dá lắm lun hồi uống thơm hương lài trà xanh dã_man k ngon k dặn đồ uống chất_lượng,1,1
+eden cofe 2 nhà_thờ tổng_quát,1,1
+hình_như quán đông lắm nhà_hàng tổng_quát,1,1
+hôm_nay chủ quán vui thái_độ kỳ kỳ kệ để_tâm lắm quán bình_dân phục_vụ tổng_quát,0,2
+vị gà lắm mà_còn hơi bở nêm nếm thức_ăn chất_lượng,1,0
+quán nằm chung_cư đoạn khuôn_viên người_dân sinh_hoạt góc tấp_nập quán ăn_uống tổng_quát,1,2
+quán nằm chung_cư đoạn khuôn_viên người_dân sinh_hoạt góc tấp_nập quán ăn_uống không_gian tổng_quát,0,2
+ui chao nhắc gân kiệu chân gà thèm nhà_hàng tổng_quát,2,2
+menu phong_phú đồ uống giá_thành đắt đồ uống,2,2
+menu phong_phú đồ uống giá_thành đắt nhà_hàng giá tiền,0,0
+kết món ngon lắm menu quán nhìu món đi thử đc thức_ăn,2,2
+kết món ngon lắm menu quán nhìu món đi thử đc thức_ăn chất_lượng,2,2
+giá gọi ship hộp chữ_nhật giá tiền vị nét huhu nhà_hàng giá tiền,0,2
+đầu sốt thức_ăn,0,2
+hạt cơm dẻo thơm thịt bò mềm sốt ngon tôm tươi ngon sốt cay ấn_tượng cơm cực_kỳ thức_ăn,2,1
+hạt cơm dẻo thơm thịt bò mềm sốt ngon tôm tươi ngon sốt cay ấn_tượng cơm cực_kỳ thức_ăn chất_lượng,2,2
+2 đứa gọi trà đào machiato trà sữa hongkong đồ uống,1,1
+hôm đi chủ_nhật đông kinh_khủng tận order r đợi nhà_hàng tổng_quát,2,1
+olong kem sữa trà kem chán đồ uống chất_lượng,2,0
+olong kem sữa trà kem chán thức_ăn chất_lượng,0,0
+thất_vọng nhân_viên chán buồn phục_vụ tổng_quát,0,0
+đầu gà ngon thức_ăn chất_lượng,2,2
+5 chất_lượng ổn_định 0 bảo_vệ lịch_sự nhà_hàng tổng_quát,1,1
+5 chất_lượng ổn_định 0 bảo_vệ lịch_sự phục_vụ tổng_quát,0,2
+sunflower menu choảnh nha ko bình_dân tí thức_ăn,2,1
+sunflower menu choảnh nha ko bình_dân tí đồ uống,2,1
+hokube rib eye 20gr tim tim fre 1 sauce giá tiền order medium peper sauce thức_ăn,1,1
+hokube rib eye 20gr tim tim fre 1 sauce giá tiền order medium peper sauce thức_ăn giá tiền,1,1
+cơm_chiên hải_sản giá tiền cơm nóng hạt cơm tơi k khô hơi nhạt xíu tí nước_tương ngon liền thức_ăn giá tiền,1,1
+cơm_chiên hải_sản giá tiền cơm nóng hạt cơm tơi k khô hơi nhạt xíu tí nước_tương ngon liền thức_ăn chất_lượng,2,2
+giá_cả đời cảm_giác chặt chém nhà_hàng giá tiền,0,0
+bâyh là_hơi ngán kichi rùi nè đau_lòng nhà_hàng tổng_quát,0,2
+không_gian ấm_cúng quán 1 ban_công ăn_ở ban_công sân_thượng không_gian tổng_quát,2,1
+rau lắm thức_ăn,1,0
+bluebery yogurt giá tiền size l đồ uống,1,1
+bluebery yogurt giá tiền size l đồ uống giá tiền,1,1
+quán đồng_phục đồ bà_ba hehe nhà_hàng điều_khoản,2,2
+quán vỉa_hè đi đông đông ăn_uống chém gió tơi_bời thoải_mái nhà_hàng tổng_quát,2,2
+quán đông phục_vụ chỗ đồ_ăn nhà_hàng tổng_quát,1,1
+quán đông phục_vụ chỗ đồ_ăn phục_vụ tổng_quát,0,1
+đi hôm 4 khuyến_mãi mua 1 tặng 1 gà nước_nhà hàng điều_khoản,2,2
+tương cà tương_ớt sẵn nhà_hàng tổng_quát,0,1
+lava chocolate mềm mịn ấm nóng_ăn ngon thức_ăn chất_lượng,2,2
+mong gongcha mở_rộng chỗ pha_chế tuyển nhân_viên mấy giúp phục_vụ khách_hàng hoa không_gian tổng_quát,1,2
+xưa màu_mè mấy toàn gọi bò 1 cơ_bản thất ngon thức_ăn chất_lượng,2,2
+mua đi foam hơi tan trà đồ uống chất_lượng,1,0
+kêu 2 mì mặc_dù đông phục_vụ tổng_quát,0,0
+ngán vô_cùng nhà_hàng tổng_quát,0,2
+nằm trung_tâm mua_sắm nha_trang center loteria nhộn_nhịp vô_cùng biển trần phú thoáng mát tổng_quát,2,2
+nằm trung_tâm mua_sắm nha_trang center loteria nhộn_nhịp vô_cùng biển trần phú thoáng mát không_gian tổng_quát,2,2
+tiệm đông quá_trời kín chỗ nhà_hàng tổng_quát,2,1
+bún heo heo mỡ tưởng ngán bún mắm_nêm heo phát_huy hương thơm thức_ăn,2,1
+bún heo heo mỡ tưởng ngán bún mắm_nêm heo phát_huy hương thơm thức_ăn chất_lượng,2,2
+ngon rẻ tự_do chọn_lựa nhà_hàng tổng_quát,2,2
+ngon rẻ tự_do chọn_lựa nhà_hàng giá tiền,2,2
+nước_lèo nóng_hổi thức_ăn chất_lượng,2,2
+lẩu uyên_ương hợp_khẩu vị lắm thức_ăn chất_lượng,1,1
+dịp nhà_hàng tổng_quát,2,1
+quán đông sạch_sẽ nhà_hàng tổng_quát,2,2
+xe fre cửa quán nhà_hàng điều_khoản,2,2
+quán chuyên bún_bò bún_bò ngon thức_ăn chất_lượng,2,2
+quán chuyên bún_bò bún_bò ngon nhà_hàng tổng_quát,2,2
+quán khu nhân_viên phục_vụ vô_cùng nhiệt_tình thả đồ nồi lẩu liên_tục bóc tôm tổng_quát,2,2
+quán khu nhân_viên phục_vụ vô_cùng nhiệt_tình thả đồ nồi lẩu liên_tục bóc tôm phục_vụ tổng_quát,2,2
+2 ấn_tượng chese nhà_hàng tổng_quát,1,2
+gọi 2 bạch_tuộc giá tiền 1 vú dê giá tiền nạc tim giá tiền tôm giá tiền xiên thức_ăn giá tiền,1,1
+gọi 2 bạch_tuộc giá tiền 1 vú dê giá tiền nạc tim giá tiền tôm giá tiền xiên thức_ăn,1,1
+sốt thử vị bq tiêu hai ngon vị bq vị đậm_đà thức_ăn chất_lượng,2,2
+sốt thử vị bq tiêu hai ngon vị bq vị đậm_đà thức_ăn,1,1
+phục_vụ tệ đồ_ăn siêu tệ thức_ăn chất_lượng,0,0
+phục_vụ tệ đồ_ăn siêu tệ phục_vụ tổng_quát,0,0
+1 order 5 ly 4 ly cf trứng cốt dừa đồ uống,1,1
+sánh béo ngậy thơm đậm mùi phomai thức_ăn chất_lượng,2,2
+giá_cả bình thg đầy_đủ mấy đồ_ăn vặt thức_ăn,2,2
+giá_cả bình thg đầy_đủ mấy đồ_ăn vặt nhà_hàng giá tiền,1,2
